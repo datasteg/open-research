@@ -1,0 +1,93 @@
+# open-research's side of the datasteg API and MCP service (the datasteg API's service contract). The views are route handlers
+# under app/app/svc/v1/ (lib/svcviews.ts; the document allow-list in lib/svcmap.ts). Licence gates: O2 metadata and
+# links only (no text, abstracts, figures, quotes; app/tests/svc-o2.test.mjs), O3 every model-written item marked
+# model_only, O7 people as published (no contact details, no rankings), O8/R14 no commercial data.
+id: open-research
+title: open-research
+summary: An open atlas of economic research - papers, speeches and reports from central banks, the BIS, FSB, IMF, World Bank, OECD and NBER, by topic, JEL code, organisation, person, place and year. Metadata and links only.
+site: https://open-research.datasteg.com
+internal: http://open-research:8080
+status: preview                    # the site is still noindex
+surface: "1.0"
+hooks: [search, item, economy, economies]
+item_kinds: [doc, node]            # doc:<slug> (doc:imf-2026-238), node:<kind>/<slug> (node:topic/monetary-policy)
+search_example: monetary policy
+item_example: doc:imf-2026-238
+views:
+  - id: documents
+    path: /documents
+    summary: Documents by query, organisation, person, JEL code, topic, place, kind or years - title, authors, publisher, series and number, the publisher's link, topics and JEL codes.
+    params:
+      q: { type: string, maxLength: 200, description: "Words in the title, the names or the concepts (every word must match, as a prefix)" }
+      kind: { type: string, enum: [paper, speech, report, policy-note], description: "Only this kind of document" }
+      org: { type: string, maxLength: 120, description: "An organisation id, such as bok (Bank of Korea) or frs (Federal Reserve System); GET /nodes?kind=org&q= finds ids" }
+      person: { type: string, maxLength: 120, description: "A person id, such as 10435-mario-draghi (GET /nodes?kind=person&q= finds ids)" }
+      jel: { type: string, maxLength: 12, description: "A JEL code, such as E52 or G2 (stated or inferred)" }
+      topic: { type: string, maxLength: 120, description: "A topic id, such as monetary-policy; a grove or concept id also works (grove:climate, concept:1031-price-stability)" }
+      place: { type: string, maxLength: 3, description: "An economy the documents study: ISO 3166-1 alpha-3 code such as KOR, or EA / EU" }
+      from: { type: string, pattern: "^\\d{4}(-\\d{2}(-\\d{2})?)?$", description: "Published from this year or date (2020 or 2020-06-30)" }
+      to: { type: string, pattern: "^\\d{4}(-\\d{2}(-\\d{2})?)?$", description: "Published up to this year or date (2024 or 2024-12-31)" }
+      limit: { type: integer, minimum: 1, maximum: 50, default: 25, description: "Documents per answer" }
+      cursor: { type: string, maxLength: 16, description: "The cursor of the previous answer, for the next page" }
+    table: true
+    max_bytes: 60000
+    example: { q: inflation expectations, place: KOR }
+    tool:
+      name: research_documents
+      title: Research documents
+      description: >-
+        Papers, speeches and reports by query, organisation, person, JEL code, topic, place or years, from central
+        banks, the BIS, FSB, IMF, World Bank, OECD, NBER and SUERF: title, authors or speaker, publisher, series and
+        number, date, topics, JEL codes and the link to the publisher's page. Metadata and links only, never the text.
+  - id: document
+    path: /documents/{slug}
+    summary: One document's card as its atlas page shows it - people, organisations, places, topics with placement scores, stated and inferred JEL, keywords, the model's one-line summary (model only) and provenance.
+    params:
+      slug: { in: path, type: string, pattern: "^[A-Za-z0-9._-]{1,80}$", description: "The document id, such as imf-2026-238" }
+    table: false
+    max_bytes: 30000
+    example: { slug: imf-2026-238 }
+  - id: nodes
+    path: /nodes
+    summary: The atlas tree - with kind and id one node (counts, children, related nodes, newest documents); with kind or q a list of nodes; with neither the groves and their topics.
+    params:
+      kind: { type: string, enum: [grove, topic, concept, jel, org, person, place], description: "Node kind: grove, topic, concept, jel (JEL code), org, person or place (economy)" }
+      id: { type: string, maxLength: 120, description: "A node id (slug) of that kind, such as monetary-policy, E52, bok or KOR; returns that node" }
+      q: { type: string, maxLength: 120, description: "Words in the node's name" }
+      limit: { type: integer, minimum: 1, maximum: 100, default: 25, description: "Nodes per answer (lists only)" }
+      cursor: { type: string, maxLength: 16, description: "The cursor of the previous answer, for the next page" }
+    table: true
+    max_bytes: 60000
+    example: { kind: topic }
+    tool:
+      name: research_tree
+      title: Research atlas tree
+      description: >-
+        The atlas tree: groves, topics, JEL codes, organisations, people, places, with counts and newest documents.
+        No parameters: groves and topics. kind (and q): a list of nodes with document counts. kind and id: one node
+        with its document counts by year and kind, children, related topics, organisations and places, and its ten
+        newest documents.
+  - id: node
+    path: /nodes/{kind}/{slug}
+    summary: One node page - a grove, topic, concept, JEL code, organisation, person or place - with counts by year and kind, children, related nodes and its ten newest documents.
+    params:
+      kind: { in: path, type: string, enum: [grove, topic, concept, jel, org, person, place], description: "Node kind" }
+      slug: { in: path, type: string, maxLength: 120, description: "Node id, such as monetary-policy, E52, bok or KOR" }
+    table: true
+    max_bytes: 60000
+    example: { kind: topic, slug: monetary-policy }
+  - id: tree
+    path: /tree
+    summary: The eleven groves and their topics with document counts, descriptions and growth, as the home page lists them.
+    params: {}
+    table: true
+    max_bytes: 40000
+    example: {}
+  - id: new
+    path: /new
+    summary: Documents received by the archive in the last 30 days (backfill hidden, language versions folded), newest first, with documents a day by publisher family.
+    params:
+      limit: { type: integer, minimum: 1, maximum: 50, default: 25, description: "Documents per answer" }
+    table: true
+    max_bytes: 60000
+    example: {}

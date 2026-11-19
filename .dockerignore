@@ -1,0 +1,10 @@
+# Only the app, the design system and the built data go into the build context.
+*
+!app/
+!design/
+!data/atlas.sqlite
+!data/meta.json
+!Dockerfile
+app/node_modules/
+app/.next*/
+app/tsconfig.tsbuildinfo

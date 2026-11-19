@@ -1,0 +1,2726 @@
+slug,iso3,city,lat,lon,basis
+nber,USA,Cambridge,42.37,-71.11,atlas
+world-bank,USA,Washington,38.91,-77.04,atlas
+imf,USA,Washington,38.91,-77.04,atlas
+ecb,DEU,Frankfurt,50.11,8.68,fixed
+banca-italia,ITA,Rome,41.90,12.50,atlas
+fed-board,USA,Washington,38.91,-77.04,atlas
+bis,CHE,Basel,47.56,7.59,atlas
+harvard,USA,Cambridge,42.37,-71.11,atlas
+oecd,FRA,Paris,48.86,2.35,atlas
+frb-ny,USA,New York,40.71,-74.01,atlas
+suerf,AUT,Vienna,48.21,16.37,atlas
+boe,GBR,London,51.51,-0.13,atlas
+chicago,USA,Chicago,41.88,-87.63,atlas
+fsb,CHE,Basel,47.56,7.59,atlas
+bundesbank,DEU,Frankfurt,50.11,8.68,atlas
+frs,USA,Washington,38.91,-77.04,atlas
+bank-of-canada,CAN,Ottawa,45.42,-75.70,atlas
+banco-espana,ESP,Madrid,40.42,-3.70,atlas
+mit,USA,Cambridge,42.37,-71.11,atlas
+columbia,USA,New York,40.71,-74.01,atlas
+princeton,USA,Princeton,40.35,-74.66,atlas
+stanford,USA,Stanford,37.43,-122.17,atlas
+boj,JPN,Tokyo,35.68,139.69,atlas
+rbi,IND,Mumbai,19.08,72.88,atlas
+berkeley,USA,Berkeley,37.87,-122.27,atlas
+frb-stlouis,USA,St. Louis,38.63,-90.20,atlas
+8024-university-of-pennsylvania,USA,Philadelphia,39.95,-75.17,known
+frb-sf,USA,San Francisco,37.77,-122.42,atlas
+nyu,USA,New York,40.71,-74.01,atlas
+yale,USA,New Haven,41.31,-72.92,atlas
+banque-de-france,FRA,Paris,48.86,2.35,atlas
+rba,AUS,Sydney,-33.87,151.21,atlas
+7767-northwestern-university,USA,Evanston,42.05,-87.69,known
+eu-commission,BEL,Brussels,50.85,4.35,fixed
+7346-federal-open-market-committee,USA,Washington,38.91,-77.04,known
+snb,CHE,Zurich,47.38,8.54,atlas
+dnb,NLD,Amsterdam,52.37,4.90,atlas
+riksbank,SWE,Stockholm,59.33,18.07,atlas
+7523-university-of-michigan,USA,Ann Arbor,42.28,-83.74,known
+bcbs,CHE,Basel,47.56,7.59,atlas
+lse,GBR,London,51.51,-0.13,atlas
+frb-philadelphia,USA,Philadelphia,39.95,-75.17,atlas
+ijcb,,,,,
+frb-chicago,USA,Chicago,41.88,-87.63,atlas
+bsp,PHL,Manila,14.60,120.98,atlas
+cepr,GBR,London,51.51,-0.13,atlas
+8705-university-of-maryland,USA,College Park,38.98,-76.94,known
+7870-department-of-economics,,,,,
+8288-cornell-university,USA,Ithaca,42.44,-76.50,known
+7354-eurosystem,DEU,Frankfurt,50.11,8.68,known
+7776-duke-university,USA,Durham,35.99,-78.90,known
+8568-dartmouth-college,USA,Hanover,43.70,-72.29,known
+8221-national-science-foundation,USA,Alexandria,38.80,-77.05,known
+frb-dallas,USA,Dallas,32.78,-96.80,atlas
+sarb,ZAF,Pretoria,-25.75,28.19,atlas
+frb-minneapolis,USA,Minneapolis,44.98,-93.27,atlas
+8217-university-of-california-san-diego,USA,San Diego,32.72,-117.16,name
+frb-cleveland,USA,Cleveland,41.50,-81.69,atlas
+8416-boston-university,USA,Boston,42.36,-71.06,name
+hkma,HKG,Hong Kong,22.32,114.17,atlas
+norges-bank,NOR,Oslo,59.91,10.75,atlas
+7640-university-of-minnesota,USA,Minneapolis,44.98,-93.27,known
+banxico,MEX,Mexico City,19.43,-99.13,atlas
+frb-boston,USA,Boston,42.36,-71.06,atlas
+nbb,BEL,Brussels,50.85,4.35,atlas
+8479-university-of-california-davis,USA,Davis,38.54,-121.74,name
+8232-brown-university,USA,Providence,41.82,-71.41,known
+esrb,DEU,Frankfurt,50.11,8.68,fixed
+8034-the-wharton-school,USA,Philadelphia,39.95,-75.17,known
+frb-kansascity,USA,Kansas City,39.10,-94.58,atlas
+g20,,,,,
+7370-bank-of-albania,ALB,Tirana,41.33,19.82,atlas
+frb-atlanta,USA,Atlanta,33.75,-84.39,atlas
+bcch,CHL,Santiago,-33.45,-70.67,atlas
+8839-university-of-toronto,CAN,Toronto,43.65,-79.38,name
+cbrt,TUR,Ankara,39.93,32.86,atlas
+8250-university-of-british-columbia,CAN,Vancouver,49.28,-123.12,known
+8104-university-of-california-los-angeles,USA,Los Angeles,34.05,-118.24,name
+bof,FIN,Helsinki,60.17,24.94,atlas
+7688-university-of-virginia,USA,Charlottesville,38.03,-78.48,known
+7516-johns-hopkins-university,USA,Baltimore,39.29,-76.61,known
+bot,THA,Bangkok,13.76,100.50,atlas
+pboc,CHN,Beijing,39.90,116.41,atlas
+7367-governing-council,,,,,
+7720-ohio-state-university,USA,Columbus,39.96,-83.00,known
+rbnz,NZL,Wellington,-41.29,174.78,atlas
+9140-university-of-california,USA,,,,known
+8113-carnegie-mellon-university,USA,Pittsburgh,40.44,-80.00,known
+frb-richmond,USA,Richmond,37.54,-77.44,atlas
+8287-rutgers-university,USA,New Brunswick,40.49,-74.45,known
+7664-georgetown-university,USA,Washington,38.91,-77.04,known
+8695-university-of-southern-california,USA,Los Angeles,34.05,-118.24,known
+9265-fiscal-affairs-department,USA,Washington,38.91,-77.04,known
+7343-monetary-policy-committee,,,,,
+8797-university-of-wisconsin-madison,USA,Madison,43.07,-89.40,name
+9325-development-economics,,,,,
+7399-hoover-institution,USA,Stanford,37.43,-122.17,known
+bog,GRC,Athens,37.98,23.73,atlas
+8616-boston-college,USA,Boston,42.36,-71.06,name
+7397-european-parliament,FRA,Strasbourg,48.57,7.75,known
+danmarks,DNK,Copenhagen,55.68,12.57,atlas
+7356-central-bank-of-norway,NOR,Oslo,59.91,10.75,atlas
+boi,ISR,Jerusalem,31.77,35.21,atlas
+8840-university-of-texas-at-austin,USA,Austin,30.27,-97.74,name
+8029-research-department,,,,,
+8599-tel-aviv-university,ISR,Tel Aviv,32.09,34.78,name
+7794-university-of-notre-dame,USA,Notre Dame,41.70,-86.24,known
+9346-poverty-and-equity-global-practice,USA,Washington,38.91,-77.04,known
+8528-kellogg-school-of-management,USA,Evanston,42.05,-87.69,known
+7412-eurostat,LUX,Luxembourg,49.61,6.13,known
+8370-university-of-rochester,USA,Rochester,43.16,-77.61,name
+8629-university-of-wisconsin,USA,Madison,43.07,-89.40,known
+7373-ministry-of-finance,,,,,
+bcrp,PER,Lima,-12.05,-77.04,atlas
+8785-ucla,USA,Los Angeles,34.05,-118.24,known
+cbk,KEN,Nairobi,-1.29,36.82,atlas
+us-bls,USA,Washington,38.91,-77.04,atlas
+banco-portugal,PRT,Lisbon,38.72,-9.14,atlas
+8646-vanderbilt-university,USA,Nashville,36.16,-86.78,known
+8420-haas-school-of-business,USA,Berkeley,37.87,-122.27,known
+9752-international-economics-department,,,,,
+7927-university-college-london,GBR,London,51.51,-0.13,name
+7385-bank-of-mauritius,MUS,Port Louis,-20.16,57.50,atlas
+7451-university-of-oxford,GBR,Oxford,51.75,-1.26,name
+7393-bank-of-uganda,UGA,Kampala,0.35,32.58,atlas
+9783-country-economics-department,USA,Washington,38.91,-77.04,known
+us-census,USA,Suitland,38.85,-76.92,atlas
+7673-inter-american-development-bank,USA,Washington,38.91,-77.04,known
+7860-michigan-state-university,USA,East Lansing,42.74,-84.48,known
+fsi,CHE,Basel,47.56,7.59,atlas
+bok,KOR,Seoul,37.57,126.98,atlas
+bcb,BRA,Brasília,-15.79,-47.88,atlas
+7377-bank-of-zambia,ZMB,Lusaka,-15.39,28.32,atlas
+9237-mit-department-of-economics,USA,Cambridge,42.37,-71.11,known
+8294-central-bank-of-luxembourg,LUX,Luxembourg,49.61,6.13,atlas
+7347-national-bank-of-serbia,SRB,Belgrade,44.79,20.45,atlas
+9563-poverty-reduction-and-economic-management-network,USA,Washington,38.91,-77.04,known
+8843-university-of-illinois-at-urbana-champaign,USA,Urbana,40.11,-88.21,name
+7520-european-union,BEL,Brussels,50.85,4.35,fixed
+adb,PHL,Manila,14.60,120.98,atlas
+7424-international-finance-corporation,USA,Washington,38.91,-77.04,known
+eba,FRA,Paris,48.86,2.35,fixed
+7362-central-bank-of-iceland,ISL,Reykjavík,64.15,-21.94,atlas
+8015-london-business-school,GBR,London,51.51,-0.13,name
+7859-harvard-law-school,USA,Cambridge,42.37,-71.11,known
+8698-tufts-university,USA,Medford,42.42,-71.11,known
+8129-washington-university-in-st-louis,USA,St. Louis,38.63,-90.20,name
+8824-finance-and-economics-discussion-series,USA,Washington,38.91,-77.04,known
+7542-federal-deposit-insurance-corporation,USA,Washington,38.91,-77.04,known
+8916-university-of-california-irvine,USA,Irvine,33.68,-117.83,name
+8132-university-of-warwick,GBR,Coventry,52.41,-1.51,known
+8958-university-of-california-santa-cruz,USA,Santa Cruz,36.97,-122.03,name
+8008-imf-institute,USA,Washington,38.91,-77.04,known
+7360-ecb-governing-council,DEU,Frankfurt,50.11,8.68,known
+8263-texas-a-m-university,USA,College Station,30.63,-96.33,known
+8687-arizona-state-university,USA,Tempe,33.43,-111.94,known
+7495-reserve-bank-of-fiji,FJI,Suva,-18.14,178.44,atlas
+8734-pennsylvania-state-university,USA,State College,40.79,-77.86,known
+8770-the-wharton-school-university-of-pennsylvania,USA,Philadelphia,39.95,-75.17,known
+7398-brookings-institution,USA,Washington,38.91,-77.04,known
+7350-central-bank-of-the-republic-of-austria,AUT,Vienna,48.21,16.37,atlas
+iosco,ESP,Madrid,40.42,-3.70,atlas
+7366-central-bank-of-barbados,BRB,Bridgetown,13.10,-59.61,atlas
+8563-university-of-western-ontario,CAN,London,42.98,-81.25,known
+9032-university-of-california-santa-barbara,USA,Santa Barbara,34.42,-119.70,name
+8713-indiana-university,USA,Bloomington,39.17,-86.53,known
+us-bea,USA,Suitland,38.85,-76.92,atlas
+9083-rand-corporation,USA,Santa Monica,34.02,-118.49,known
+7886-george-washington-university,USA,Washington,38.91,-77.04,name
+8634-university-of-washington,USA,Seattle,47.61,-122.33,known
+9054-wellesley-college,USA,Wellesley,42.30,-71.29,name
+us-treasury,USA,Washington,38.91,-77.04,atlas
+8413-world-bank-institute,USA,Washington,38.91,-77.04,known
+7454-european-system-of-central-banks,DEU,Frankfurt,50.11,8.68,known
+8828-georgia-state-university,USA,Atlanta,33.75,-84.39,fixed
+9261-western-hemisphere-department,USA,Washington,38.91,-77.04,known
+9797-policy-research-and-external-affairs,USA,Washington,38.91,-77.04,known
+ssm,DEU,Frankfurt,50.11,8.68,fixed
+7437-bocconi-university,ITA,Milan,45.46,9.19,known
+8714-emory-university,USA,Atlanta,33.75,-84.39,known
+9339-development-economics-vice-presidency,USA,Washington,38.91,-77.04,known
+8040-universitat-pompeu-fabra,ESP,Barcelona,41.39,2.17,known
+8299-university-of-illinois,USA,Urbana,40.11,-88.21,known
+9793-woodrow-wilson-school,USA,Princeton,40.35,-74.66,known
+ngfs,FRA,Paris,48.86,2.35,known
+8504-bis-review,CHE,Basel,47.56,7.59,known
+8774-iza,DEU,Bonn,50.74,7.10,known
+8196-rotman-school-of-management,CAN,Toronto,43.65,-79.38,known
+9755-policy-research-department,,,,,
+cpmi,CHE,Basel,47.56,7.59,atlas
+9156-graduate-school-of-business,,,,,
+7357-central-bank,,,,,
+8202-central-bank-of-trinidad-and-tobago,TTO,Port of Spain,10.66,-61.51,atlas
+8395-banque-centrale-du-luxembourg,LUX,Luxembourg,49.61,6.13,atlas
+9338-macroeconomics-trade-and-investment-global-practice,USA,Washington,38.91,-77.04,known
+banrep,COL,Bogotá,4.71,-74.07,atlas
+8359-asia-and-pacific-department,USA,Washington,38.91,-77.04,known
+8410-european-university-institute,ITA,Florence,43.77,11.26,known
+9253-sloan-school-of-management,USA,Cambridge,42.37,-71.11,known
+7690-governing-council-of-the-ecb,DEU,Frankfurt,50.11,8.68,known
+9311-graduate-school-of-business-stanford-university,USA,Stanford,37.43,-122.17,known
+7383-central-bank-of-sri-lanka,LKA,Colombo,6.93,79.85,atlas
+9330-office-of-the-chief-economist,,,,,
+7423-reserve-bank,,,,,
+9382-latin-america-and-the-caribbean-region,USA,Washington,38.91,-77.04,atlas
+9488-macroeconomics-and-growth-team,USA,Washington,38.91,-77.04,known
+7678-congressional-budget-office,USA,Washington,38.91,-77.04,known
+7387-peterson-institute-for-international-economics,USA,Washington,38.91,-77.04,known
+7626-national-bank-of-the-republic-of-north-macedonia,MKD,Skopje,42.00,21.43,atlas
+8207-university-of-zurich,CHE,Zurich,47.38,8.54,name
+8433-stockholm-university,SWE,Stockholm,59.33,18.07,name
+bi,IDN,Jakarta,-6.21,106.85,atlas
+7413-paris-school-of-economics,FRA,Paris,48.86,2.35,name
+9331-development-data-group,USA,Washington,38.91,-77.04,known
+7880-european-council,BEL,Brussels,50.85,4.35,known
+8536-purdue-university,USA,West Lafayette,40.43,-86.91,known
+8871-syracuse-university,USA,Syracuse,43.05,-76.15,name
+9244-national-institute-on-aging,USA,Bethesda,38.98,-77.10,known
+7390-national-bank-of-romania,ROU,Bucharest,44.43,26.10,atlas
+8152-national-university-of-singapore,SGP,Singapore,1.29,103.85,atlas
+8317-stockholm-school-of-economics,SWE,Stockholm,59.33,18.07,name
+8358-university-of-cambridge,GBR,Cambridge,52.21,0.12,name
+8597-university-of-arizona,USA,Tucson,32.22,-110.97,known
+7401-committee-on-economic-and-monetary-affairs,FRA,Strasbourg,48.57,7.75,known
+7659-goethe-university-frankfurt,DEU,Frankfurt,50.11,8.68,name
+7687-tilburg-university,NLD,Tilburg,51.56,5.09,name
+8780-university-of-oregon,USA,Eugene,44.05,-123.09,known
+7648-university-of-pittsburgh,USA,Pittsburgh,40.44,-80.00,name
+8432-cesifo,DEU,Munich,48.14,11.58,known
+9506-environment-and-energy-team,USA,Washington,38.91,-77.04,known
+7540-institute-of-international-finance,USA,Washington,38.91,-77.04,known
+8612-hebrew-university,ISR,Jerusalem,31.77,35.21,known
+9753-international-trade-division,,,,,
+9784-population-and-human-resources-department,USA,Washington,38.91,-77.04,known
+9500-finance-and-private-sector-development-team,USA,Washington,38.91,-77.04,known
+9467-kennedy-school-of-government,USA,Cambridge,42.37,-71.11,known
+ebrd,GBR,London,51.51,-0.13,atlas
+9518-human-development-and-public-services-team,USA,Washington,38.91,-77.04,known
+7414-toulouse-school-of-economics,FRA,Toulouse,43.60,1.44,name
+7372-bulgarian-national-bank,BGR,Sofia,42.70,23.32,name
+9463-john-f-kennedy-school-of-government,USA,Cambridge,42.37,-71.11,known
+wto,CHE,Geneva,46.20,6.14,atlas
+cbr,RUS,Moscow,55.76,37.62,atlas
+7363-national-bank-of-ukraine,UKR,Kyiv,50.45,30.52,atlas
+8683-simon-fraser-university,CAN,Burnaby,49.25,-122.98,known
+7559-bank-of-latvia,LVA,Riga,56.95,24.11,atlas
+9893-graduate-school-of-business-university-of-chicago,USA,Chicago,41.88,-87.63,name
+7466-acpr,FRA,Paris,48.86,2.35,known
+8068-university-of-alberta,CAN,Edmonton,53.55,-113.49,known
+cgfs,CHE,Basel,47.56,7.59,atlas
+7379-tsinghua-university,CHN,Beijing,39.90,116.41,known
+8038-university-of-tokyo,JPN,Tokyo,35.68,139.69,name
+8665-institute-for-international-economic-studies,,,,,
+9491-poverty-and-inequality-team,USA,Washington,38.91,-77.04,known
+nbp,POL,Warsaw,52.23,21.01,atlas
+8308-university-of-mannheim,DEU,Mannheim,49.49,8.47,name
+8732-university-of-illinois-at-chicago,USA,Chicago,41.88,-87.63,name
+8900-university-of-chicago-department-of-economics,USA,Chicago,41.88,-87.63,name
+7270-mas,SGP,Singapore,1.29,103.85,known
+7513-securities-and-exchange-commission,USA,Washington,38.91,-77.04,known
+8175-institute-for-fiscal-studies,GBR,London,51.51,-0.13,known
+8670-university-of-connecticut,USA,Storrs,41.81,-72.25,known
+8701-brandeis-university,USA,Waltham,42.38,-71.24,known
+7594-islamic-financial-services-board,MYS,Kuala Lumpur,3.14,101.69,known
+7601-university-of-copenhagen,DNK,Copenhagen,55.68,12.57,name
+7821-american-enterprise-institute,USA,Washington,38.91,-77.04,known
+8886-university-of-north-carolina-at-chapel-hill,USA,Chapel Hill,35.91,-79.06,name
+9064-international-food-policy-research-institute,USA,Washington,38.91,-77.04,known
+7344-australian-national-university,AUS,Canberra,-35.28,149.13,name
+7436-bank-of-papua-new-guinea,PNG,Port Moresby,-9.44,147.18,fixed
+8772-university-of-amsterdam,NLD,Amsterdam,52.37,4.90,name
+9391-harvard-medical-school,USA,Boston,42.36,-71.06,known
+mnb,HUN,Budapest,47.50,19.04,atlas
+8289-insead,FRA,Fontainebleau,48.40,2.70,known
+9554-trade-and-integration-team,USA,Washington,38.91,-77.04,known
+9809-policy-planning-and-research-complex,USA,Washington,38.91,-77.04,known
+8849-university-of-florida,USA,Gainesville,29.65,-82.32,known
+9349-finance-competitiveness-and-innovation-global-practice,USA,Washington,38.91,-77.04,known
+8727-development-prospects-group,USA,Washington,38.91,-77.04,known
+8942-george-mason-university,USA,Fairfax,38.85,-77.31,known
+7445-bank-of-ghana,GHA,Accra,5.60,-0.19,atlas
+8437-university-of-groningen,NLD,Groningen,53.22,6.57,name
+8748-north-carolina-state-university,USA,Raleigh,35.78,-78.64,known
+8777-hebrew-university-of-jerusalem,ISR,Jerusalem,31.77,35.21,name
+9065-eitan-berglas-school-of-economics,ISR,Tel Aviv,32.09,34.78,known
+9085-university-of-california-at-los-angeles,USA,Los Angeles,34.05,-118.24,name
+9274-african-department,,,,,
+9345-europe-and-central-asia-region,USA,Washington,38.91,-77.04,known
+7519-central-bank-of-malta,MLT,Valletta,35.90,14.51,atlas
+9329-office-of-the-chief-economist-africa-region,USA,Washington,38.91,-77.04,known
+7750-eurogroup,BEL,Brussels,50.85,4.35,known
+7918-university-of-houston,USA,Houston,29.76,-95.37,name
+8692-hong-kong-university-of-science-and-technology,HKG,Hong Kong,22.32,114.17,atlas
+8738-williams-college,USA,Williamstown,42.71,-73.20,known
+fatf,FRA,Paris,48.86,2.35,atlas
+7427-latvijas-banka,LVA,Riga,56.95,24.11,name
+8231-southern-methodist-university,USA,Dallas,32.78,-96.80,known
+9086-graduate-school-of-business-columbia-university,USA,New York,40.71,-74.01,known
+9493-poverty-and-equity-global-practice-group,USA,Washington,38.91,-77.04,known
+9585-international-trade-department,,,,,
+9892-university-of-chicago-graduate-school-of-business,USA,Chicago,41.88,-87.63,name
+8576-hec-montreal,CAN,Montréal,45.50,-73.57,name
+7662-office-of-the-comptroller-of-the-currency,USA,Washington,38.91,-77.04,known
+7850-university-of-bonn,DEU,Bonn,50.74,7.10,name
+7930-cemfi,ESP,Madrid,40.42,-3.70,known
+8321-queen-s-university,,,,,
+8512-central-bank-and-financial-services-authority-of-ireland,IRL,Dublin,53.35,-6.26,atlas
+8742-university-of-colorado-boulder,USA,Boulder,40.01,-105.27,name
+9588-public-economics-division,,,,,
+9642-office-of-the-vice-president-development-economics,USA,Washington,38.91,-77.04,known
+iais,CHE,Basel,47.56,7.59,atlas
+7769-american-university,USA,Washington,38.91,-77.04,known
+9258-middle-east-and-central-asia-department,USA,Washington,38.91,-77.04,known
+9358-education-global-practice,USA,Washington,38.91,-77.04,known
+8495-university-of-north-carolina,USA,Chapel Hill,35.91,-79.06,known
+9262-european-department,,,,,
+7422-national-bank-of-slovakia,SVK,Bratislava,48.15,17.11,atlas
+7840-peking-university,CHN,Beijing,39.90,116.41,name
+8799-university-of-texas,USA,Austin,30.27,-97.74,known
+8905-university-of-california-at-san-diego,USA,San Diego,32.72,-117.16,name
+8968-alfred-p-sloan-foundation,USA,New York,40.71,-74.01,known
+9291-trade-policy-division,,,,,
+7420-financial-policy-committee,GBR,London,51.51,-0.13,known
+8779-social-security-administration,USA,,,,known
+9567-sustainable-development-network,USA,Washington,38.91,-77.04,known
+8733-queen-mary-university-of-london,GBR,London,51.51,-0.13,name
+8784-ucla-anderson-school-of-management,USA,Los Angeles,34.05,-118.24,known
+9356-social-protection-and-jobs-global-practice,USA,Washington,38.91,-77.04,known
+8534-university-of-munich,DEU,Munich,48.14,11.58,name
+8640-university-of-melbourne,AUS,Melbourne,-37.81,144.96,name
+8694-stanford-university-graduate-school-of-business,USA,Stanford,37.43,-122.17,known
+8764-harvard-university-department-of-economics,USA,Cambridge,42.37,-71.11,known
+8822-universidad-carlos-iii-de-madrid,ESP,Getafe,40.31,-3.73,name
+9410-brigham-young-university,USA,Provo,40.23,-111.66,known
+8890-louisiana-state-university,USA,Baton Rouge,30.45,-91.15,known
+8977-department-of-economics-stanford-university,USA,Stanford,37.43,-122.17,known
+9195-divisions-of-research-statistics-and-monetary-affairs,USA,Washington,38.91,-77.04,known
+9417-fuqua-school-of-business,USA,Durham,35.99,-78.90,known
+9442-harris-school-of-public-policy,USA,Chicago,41.88,-87.63,known
+7633-bank-of-lithuania,LTU,Vilnius,54.69,25.28,atlas
+8499-chinese-university-of-hong-kong,HKG,Hong Kong,22.32,114.17,atlas
+8697-universidad-de-los-andes,,,,,
+8767-university-of-texas-at-dallas,USA,Richardson,32.95,-96.73,name
+9197-national-bureau-of-economic-research-inc,USA,Cambridge,42.37,-71.11,known
+9263-monetary-and-capital-markets-department,USA,Washington,38.91,-77.04,known
+9497-agriculture-and-rural-development-team,USA,Washington,38.91,-77.04,known
+8408-university-of-georgia,USA,Athens,33.96,-83.38,fixed
+8409-ecofin-council,BEL,Brussels,50.85,4.35,known
+9179-ucla-department-of-economics,USA,Los Angeles,34.05,-118.24,known
+9241-university-of-colorado,USA,Boulder,40.01,-105.27,known
+7496-world-economic-forum,CHE,Geneva,46.20,6.14,known
+7498-statistics-canada,CAN,Ottawa,45.42,-75.70,atlas
+7711-prudential-regulation-authority,GBR,London,51.51,-0.13,known
+7771-bank-of-botswana,BWA,Gaborone,-24.65,25.91,atlas
+8163-mcgill-university,CAN,Montréal,45.50,-73.57,known
+8469-university-of-oslo,NOR,Oslo,59.91,10.75,name
+8684-university-of-hong-kong,HKG,Hong Kong,22.32,114.17,atlas
+7384-irving-fisher-committee-on-central-bank-statistics,CHE,Basel,47.56,7.59,known
+7795-monetary-board,,,,,
+8037-trinity-college-dublin,IRL,Dublin,53.35,-6.26,name
+8220-american-economic-association,USA,,,,known
+8986-clemson-university,USA,Clemson,34.68,-82.84,known
+9334-development-economics-global-indicators-group,USA,Washington,38.91,-77.04,known
+7410-central-bank-of-cyprus,CYP,Nicosia,35.19,33.38,atlas
+7629-central-bank-of-the-republic-of-kosovo,XKX,Pristina,42.66,21.17,atlas
+8735-vancouver-school-of-economics,CAN,Vancouver,49.28,-123.12,name
+9503-trade-and-competitiveness-global-practice-group,USA,Washington,38.91,-77.04,known
+9511-department-of-economics-harvard-university,USA,Cambridge,42.37,-71.11,known
+9537-robert-wood-johnson-foundation,USA,Princeton,40.35,-74.66,known
+cbn,NGA,Abuja,9.08,7.40,atlas
+8238-central-bank-of-bahrain,BHR,Manama,26.23,50.59,atlas
+8966-georgia-institute-of-technology,USA,Atlanta,33.75,-84.39,fixed
+9090-resources-for-the-future,USA,Washington,38.91,-77.04,known
+7433-department-of-finance,,,,,
+7568-economic-club-of-new-york,USA,New York,40.71,-74.01,name
+8003-committee-on-financial-services,USA,Washington,38.91,-77.04,known
+8042-committee-on-banking-housing-and-urban-affairs,USA,Washington,38.91,-77.04,known
+8151-national-bank-of-the-republic-of-macedonia,MKD,Skopje,42.00,21.43,atlas
+9303-monetary-and-exchange-affairs-department,USA,Washington,38.91,-77.04,known
+9353-africa-region,,,,,
+9474-gerald-r-ford-school-of-public-policy,USA,Ann Arbor,42.28,-83.74,known
+8690-university-of-lausanne,CHE,Lausanne,46.52,6.63,name
+9081-nyu-stern-school-of-business,USA,New York,40.71,-74.01,name
+9323-sloan-foundation,USA,New York,40.71,-74.01,known
+9475-u-s-social-security-administration,USA,,,,name
+7470-eurosystem-staff,DEU,Frankfurt,50.11,8.68,known
+7555-bank,,,,,
+7586-omfif,GBR,London,51.51,-0.13,known
+7766-university-of-basel,CHE,Basel,47.56,7.59,name
+8363-copenhagen-business-school,DNK,Copenhagen,55.68,12.57,name
+8376-oxford-university,GBR,Oxford,51.75,-1.26,name
+8483-monash-university,AUS,Melbourne,-37.81,144.96,known
+8745-santa-clara-university,USA,Santa Clara,37.35,-121.96,name
+8835-university-college-dublin,IRL,Dublin,53.35,-6.26,name
+8973-university-of-kansas,USA,Lawrence,38.97,-95.24,known
+9209-tulane-university,USA,New Orleans,29.95,-90.07,known
+9426-stanford-law-school,USA,Stanford,37.43,-122.17,known
+9798-policy-research-and-external-affairs-complex,USA,Washington,38.91,-77.04,known
+7381-bank-of-jamaica,JAM,Kingston,18.02,-76.80,atlas
+7448-standard-poor-s,USA,New York,40.71,-74.01,known
+7458-bank-of-namibia,NAM,Windhoek,-22.56,17.08,atlas
+7473-international-monetary-and-financial-committee,USA,Washington,38.91,-77.04,known
+7549-drexel-university,USA,Philadelphia,39.95,-75.17,known
+7693-ubs,CHE,Zurich,47.38,8.54,known
+8327-universite-libre-de-bruxelles,BEL,Brussels,50.85,4.35,name
+8526-east-asia-and-pacific-region,USA,Washington,38.91,-77.04,known
+8700-tinbergen-institute,NLD,Amsterdam,52.37,4.90,known
+8837-university-of-bristol,GBR,Bristol,51.45,-2.59,name
+9055-department-of-economics-princeton-university,USA,Princeton,40.35,-74.66,known
+9423-texas-tech-university,USA,Lubbock,33.58,-101.86,known
+9480-fisher-college-of-business,USA,Columbus,39.96,-83.00,known
+9777-debt-and-international-finance-division,,,,,
+7456-national-association-for-business-economics,USA,Washington,38.91,-77.04,known
+7912-indian-banks-association,IND,Mumbai,19.08,72.88,name
+7984-financial-times,GBR,London,51.51,-0.13,known
+8456-us-house-of-representatives,USA,Washington,38.91,-77.04,name
+8532-imperial-college-london,GBR,London,51.51,-0.13,name
+8963-rice-university,USA,Houston,29.76,-95.37,known
+9336-middle-east-and-north-africa-region,USA,Washington,38.91,-77.04,known
+9399-department-of-economics-dartmouth-college,USA,Hanover,43.70,-72.29,known
+7723-university-of-st-gallen,CHE,St. Gallen,47.42,9.38,name
+7774-storting,NOR,Oslo,59.91,10.75,known
+7971-university-of-new-south-wales,AUS,Sydney,-33.87,151.21,fixed
+8293-carleton-university,CAN,Ottawa,45.42,-75.70,known
+8553-university-of-manchester,GBR,Manchester,53.48,-2.24,name
+8583-hitotsubashi-university,JPN,Tokyo,35.68,139.69,known
+8773-erasmus-university-rotterdam,NLD,Rotterdam,51.92,4.48,name
+9204-california-institute-of-technology,USA,Pasadena,34.15,-118.14,known
+9225-health-and-retirement-study,USA,Ann Arbor,42.28,-83.74,known
+9512-macroeconomics-and-fiscal-management-global-practice-group,USA,Washington,38.91,-77.04,known
+7811-eth-zurich,CHE,Zurich,47.38,8.54,name
+8864-universidad-torcuato-di-tella,ARG,Buenos Aires,-34.60,-58.38,known
+9236-macroprudential-research-network,DEU,Frankfurt,50.11,8.68,known
+9520-kellogg-graduate-school-of-management,USA,Evanston,42.05,-87.69,known
+9565-poverty-reduction-and-economic-management-unit,USA,Washington,38.91,-77.04,known
+7403-central-bank-of-curacao-and-sint-maarten,CUW,Willemstad,12.11,-68.93,atlas
+7492-eastern-caribbean-central-bank,KNA,Basseterre,17.30,-62.73,known
+8306-sciences-po,FRA,Paris,48.86,2.35,known
+8619-university-of-bern,CHE,Bern,46.95,7.45,name
+8637-fuqua-school-of-business-duke-university,USA,Durham,35.99,-78.90,known
+8702-ghent-university,BEL,Ghent,51.05,3.72,name
+8803-colgate-university,USA,Hamilton,42.83,-75.54,known
+8992-university-of-essex,GBR,Colchester,51.89,0.90,known
+9347-middle-east-and-north-africa-region-office-of-the-chief,USA,Washington,38.91,-77.04,known
+9657-trade-team,,,,,
+9658-poverty-team,,,,,
+9795-macroeconomic-adjustment-and-growth-division,,,,,
+bis-ih,CHE,Basel,47.56,7.59,atlas
+7608-household-finance-and-consumption-network,DEU,Frankfurt,50.11,8.68,known
+7883-insee,FRA,Paris,48.86,2.35,known
+7917-university-of-kentucky,USA,Lexington,38.04,-84.50,known
+8107-euromoney,GBR,London,51.51,-0.13,known
+8168-keio-university,JPN,Tokyo,35.68,139.69,known
+8548-pontificia-universidad-catolica-de-chile,CHL,Santiago,-33.45,-70.67,atlas
+8815-university-of-illinois-urbana-champaign,USA,Urbana,40.11,-88.21,name
+8915-university-of-california-at-irvine,USA,Irvine,33.68,-117.83,name
+9036-shanghai-university-of-finance-and-economics,CHN,Shanghai,31.23,121.47,name
+9268-imf-african-department,USA,Washington,38.91,-77.04,known
+srb,BEL,Brussels,50.85,4.35,fixed
+7487-council-on-foreign-relations,USA,New York,40.71,-74.01,known
+7579-statistics-norway,NOR,Oslo,59.91,10.75,atlas
+7744-financial-services-authority,,,,,
+8190-european-monetary-institute,DEU,Frankfurt,50.11,8.68,known
+8691-wilfrid-laurier-university,CAN,Waterloo,43.46,-80.52,known
+8951-tepper-school-of-business,USA,Pittsburgh,40.44,-80.00,known
+9095-columbia-university-graduate-school-of-business,USA,New York,40.71,-74.01,known
+9377-development-impact-evaluation-group,USA,Washington,38.91,-77.04,known
+9654-cowles-foundation,USA,New Haven,41.31,-72.92,known
+9728-m-i-t,USA,Cambridge,42.37,-71.11,known
+7443-alliance-for-financial-inclusion,MYS,Kuala Lumpur,3.14,101.69,known
+8073-finansinspektionen,SWE,Stockholm,59.33,18.07,known
+8549-florida-state-university,USA,Tallahassee,30.44,-84.28,known
+8792-bentley-university,USA,Waltham,42.38,-71.24,known
+9037-university-of-colorado-at-boulder,USA,Boulder,40.01,-105.27,name
+9284-u-s-department-of-labor,USA,Washington,38.91,-77.04,name
+9306-anderson-graduate-school-of-management-ucla,USA,Los Angeles,34.05,-118.24,known
+9716-trade,,,,,
+7440-goethe-university,DEU,Frankfurt,50.11,8.68,known
+7465-the-economist,GBR,London,51.51,-0.13,known
+7533-financial-conduct-authority,GBR,London,51.51,-0.13,known
+7618-governing-council-of-the-european-central-bank,DEU,Frankfurt,50.11,8.68,known
+8022-institute-of-international-bankers,USA,New York,40.71,-74.01,known
+8171-g20-leaders,,,,,
+8682-crei,ESP,Barcelona,41.39,2.17,known
+8686-center-for-global-development,USA,Washington,38.91,-77.04,known
+8768-panel-study-of-income-dynamics,USA,Ann Arbor,42.28,-83.74,known
+9001-university-of-maryland-college-park,USA,College Park,38.98,-76.94,name
+9373-prospects-group,USA,Washington,38.91,-77.04,known
+9413-princeton-university-department-of-economics,USA,Princeton,40.35,-74.66,name
+9549-yale-university-department-of-economics,USA,New Haven,41.31,-72.92,known
+9573-department-of-economics-mit,USA,Cambridge,42.37,-71.11,known
+7353-ecb-s-governing-council,DEU,Frankfurt,50.11,8.68,known
+7584-national-treasury,,,,,
+7947-iese-business-school,ESP,Barcelona,41.39,2.17,known
+7952-university-of-calgary,CAN,Calgary,51.05,-114.07,name
+8103-bank-of-israel-research-department,ISR,Jerusalem,31.77,35.21,atlas
+8649-maastricht-university,NLD,Maastricht,50.85,5.69,name
+9056-case-western-reserve-university,USA,Cleveland,41.50,-81.69,known
+9289-policy-development-and-review-department,USA,Washington,38.91,-77.04,known
+9374-office-of-the-chief-economist-latin-america-and-the,USA,Washington,38.91,-77.04,atlas
+9510-trade-and-international-integration-team,USA,Washington,38.91,-77.04,known
+9592-oecd-department-of-economics-and-statistics,FRA,Paris,48.86,2.35,known
+7369-banka-slovenije,SVN,Ljubljana,46.06,14.51,name
+7396-saudi-central-bank,SAU,Riyadh,24.71,46.68,name
+7430-ministry-of-education,,,,,
+7488-fomc,USA,Washington,38.91,-77.04,known
+7552-eesti-pank,EST,Tallinn,59.44,24.75,name
+7734-treasury,,,,,
+7926-moody-s,USA,New York,40.71,-74.01,known
+7939-institute-for-monetary-and-economic-studies,JPN,Tokyo,35.68,139.69,known
+8214-international-accounting-standards-board,GBR,London,51.51,-0.13,known
+8492-iowa-state-university,USA,Ames,42.03,-93.62,known
+8782-university-of-iowa,USA,Iowa City,41.66,-91.53,known
+8830-norwegian-school-of-economics,NOR,Bergen,60.39,5.32,known
+9117-mcmaster-university,CAN,Hamilton,43.26,-79.87,known
+9259-imf-working-papers,USA,Washington,38.91,-77.04,known
+9332-gender-innovation-lab,,,,,
+9350-office-of-the-chief-economist-south-asia-region,USA,Washington,38.91,-77.04,known
+9630-harvard-school-of-public-health,USA,Boston,42.36,-71.06,known
+9659-sustainable-rural-and-urban-development-team,USA,Washington,38.91,-77.04,known
+9719-macroeconomics-and-growth,,,,,
+7395-undp,USA,New York,40.71,-74.01,known
+7474-european-payments-council,BEL,Brussels,50.85,4.35,known
+7576-apra,AUS,Sydney,-33.87,151.21,known
+7705-monetary-authority-of-macao,MAC,Macau,22.20,113.54,atlas
+7747-instat,,,,,
+7749-kenya-bankers-association,KEN,Nairobi,-1.29,36.82,atlas
+7762-islamic-development-bank,SAU,Jeddah,21.49,39.19,known
+8117-university-of-edinburgh,GBR,Edinburgh,55.95,-3.19,name
+8218-nanyang-technological-university,SGP,Singapore,1.29,103.85,known
+8478-boston-university-school-of-management,USA,Boston,42.36,-71.06,name
+8825-penn-state-university,USA,State College,40.79,-77.86,known
+8877-wharton-school-of-the-university-of-pennsylvania,USA,Philadelphia,39.95,-75.17,known
+9136-eurosystem-inflation-persistence-network,DEU,Frankfurt,50.11,8.68,known
+9141-booth-school-of-business-university-of-chicago,USA,Chicago,41.88,-87.63,name
+9202-lehigh-university,USA,Bethlehem,40.63,-75.37,known
+9327-development-economics-prospects-group,USA,Washington,38.91,-77.04,known
+9454-stanford-university-department-of-economics,USA,Stanford,37.43,-122.17,known
+7341-frankfurt-school-of-finance-and-management,DEU,Frankfurt,50.11,8.68,name
+7388-seacen,MYS,Kuala Lumpur,3.14,101.69,known
+7455-central-bank-of-seychelles,SYC,Victoria,-4.62,55.45,atlas
+7485-deutsche-bank,DEU,Frankfurt,50.11,8.68,known
+7665-reserve-bank-board,,,,,
+8147-bendheim-center-for-finance,USA,Princeton,40.35,-74.66,known
+8248-university-of-geneva,CHE,Geneva,46.20,6.14,name
+8324-supervisory-council-of-the-bank-of-albania,ALB,Tirana,41.33,19.82,atlas
+8367-university-of-delaware,USA,Newark,39.68,-75.75,known
+8418-ford-foundation,USA,New York,40.71,-74.01,known
+8520-university-of-south-carolina,USA,Columbia,34.00,-81.03,known
+8736-vu-university-amsterdam,NLD,Amsterdam,52.37,4.90,name
+8771-university-of-miami,USA,Coral Gables,25.72,-80.27,name
+8863-claremont-mckenna-college,USA,Claremont,34.10,-117.72,known
+8874-temple-university,USA,Philadelphia,39.95,-75.17,known
+8891-wage-dynamics-network,DEU,Frankfurt,50.11,8.68,known
+9191-public-policy-institute-of-california,USA,San Francisco,37.77,-122.42,known
+9239-rand,USA,Santa Monica,34.02,-118.49,known
+9726-financial-sector-development-department,,,,,
+9780-financial-policy-and-systems-division,,,,,
+9803-john-f-kennedy-school-of-government-harvard-university,USA,Cambridge,42.37,-71.11,known
+7358-the-central-bank-of-eswatini,SWZ,Mbabane,-26.31,31.14,atlas
+7376-goldman-sachs,USA,New York,40.71,-74.01,known
+7405-financial-stability-oversight-council,USA,Washington,38.91,-77.04,known
+7553-bank-of-estonia,EST,Tallinn,59.44,24.75,atlas
+7604-policy-board,,,,,
+7877-task-force-on-climate-related-financial-disclosures,,,,,
+7910-bi-norwegian-business-school,NOR,Oslo,59.91,10.75,name
+8122-financial-stability-department,,,,,
+8149-university-of-bologna,ITA,Bologna,44.49,11.34,name
+8442-universidad-de-chile,CHL,Santiago,-33.45,-70.67,atlas
+8446-bank-of-sweden,SWE,Stockholm,59.33,18.07,atlas
+8455-washington-university,USA,,,,known
+8950-san-diego-state-university,USA,San Diego,32.72,-117.16,name
+9304-kennedy-school-of-government-harvard-university,USA,Cambridge,42.37,-71.11,known
+9397-department-of-economics-university-of-chicago,USA,Chicago,41.88,-87.63,name
+9494-social-protection-and-labor-global-practice-group,USA,Washington,38.91,-77.04,known
+9504-carlson-school-of-management,USA,Minneapolis,44.98,-93.27,known
+9879-sloan-school-of-management-mit,USA,Cambridge,42.37,-71.11,known
+un,USA,New York,40.71,-74.01,known
+7348-paris-europlace,FRA,Paris,48.86,2.35,name
+8039-australian-business-economists,AUS,,,,name
+8161-cass-business-school,GBR,London,51.51,-0.13,known
+8453-russell-sage-foundation,USA,New York,40.71,-74.01,known
+8644-city-university-of-hong-kong,HKG,Hong Kong,22.32,114.17,atlas
+8681-korea-university,KOR,Seoul,37.57,126.98,atlas
+9014-competitiveness-research-network,,,,,
+9034-tuck-school-of-business-at-dartmouth,USA,Hanover,43.70,-72.29,known
+9041-sauder-school-of-business,CAN,Vancouver,49.28,-123.12,known
+7359-european-securities-and-markets-authority,FRA,Paris,48.86,2.35,known
+7682-bloomberg,USA,New York,40.71,-74.01,known
+7765-official-monetary-and-financial-institutions-forum,GBR,London,51.51,-0.13,known
+7775-house-of-commons-standing-committee-on-finance,CAN,Ottawa,45.42,-75.70,known
+7851-finma,CHE,Bern,46.95,7.45,known
+8134-imperial-college-business-school,GBR,London,51.51,-0.13,name
+8210-seoul-national-university,KOR,Seoul,37.57,126.98,name
+8610-university-of-nottingham,GBR,Nottingham,52.95,-1.15,name
+8739-university-of-oklahoma,USA,Norman,35.22,-97.44,known
+8757-ku-leuven,BEL,Leuven,50.88,4.70,name
+8776-canadian-economic-analysis-department,CAN,Ottawa,45.42,-75.70,name
+8859-university-of-north-carolina-at-greensboro,USA,Greensboro,36.07,-79.79,name
+8910-national-taiwan-university,TWN,Taipei,25.03,121.57,atlas
+9088-utah-state-university,USA,Logan,41.74,-111.83,known
+9299-city-university-of-new-york,USA,New York,40.71,-74.01,name
+9438-national-institutes-of-health,USA,Bethesda,38.98,-77.10,known
+9461-marshall-school-of-business,USA,Los Angeles,34.05,-118.24,known
+9498-education-global-practice-group,USA,Washington,38.91,-77.04,known
+9788-population-health-and-nutrition-division,,,,,
+7477-house-of-representatives-standing-committee-on-economics,AUS,Canberra,-35.28,149.13,known
+7622-croatian-national-bank,HRV,Zagreb,45.81,15.98,name
+8194-federal-trade-commission,USA,Washington,38.91,-77.04,known
+8391-us-senate,USA,Washington,38.91,-77.04,name
+8496-kenan-flagler-business-school,USA,Chapel Hill,35.91,-79.06,known
+8711-universitat-autonoma-de-barcelona,ESP,Barcelona,41.39,2.17,name
+8795-university-of-north-carolina-chapel-hill,USA,Chapel Hill,35.91,-79.06,name
+8947-york-university,CAN,Toronto,43.65,-79.38,known
+9062-kellogg-school-of-management-northwestern-university,USA,Evanston,42.05,-87.69,known
+9300-middle-eastern-department,USA,Washington,38.91,-77.04,known
+9424-global-facility-for-disaster-reduction-and-recovery,USA,Washington,38.91,-77.04,known
+9464-ucla-anderson-graduate-school-of-management,USA,Los Angeles,34.05,-118.24,known
+9529-harvard-graduate-school-of-education,USA,Cambridge,42.37,-71.11,known
+9631-poverty-reduction-and-economic-management-sector-unit,USA,Washington,38.91,-77.04,known
+7365-bafin,DEU,Bonn,50.74,7.10,known
+7389-international-energy-agency,FRA,Paris,48.86,2.35,known
+7449-cato-institute,USA,Washington,38.91,-77.04,known
+7531-international-swaps-and-derivatives-association,USA,New York,40.71,-74.01,known
+7661-financial-services-commission,,,,,
+7768-vrije-universiteit-amsterdam,NLD,Amsterdam,52.37,4.90,name
+8023-university-of-birmingham,GBR,Birmingham,52.49,-1.89,name
+8095-singapore-management-university,SGP,Singapore,1.29,103.85,atlas
+8584-university-of-surrey,GBR,Guildford,51.24,-0.57,known
+9301-european-i-department,USA,Washington,38.91,-77.04,known
+9359-social-sustainability-and-inclusion-global-practice,USA,Washington,38.91,-77.04,known
+9396-duke-university-fuqua-school-of-business,USA,Durham,35.99,-78.90,known
+9540-poverty-global-practice-group,USA,Washington,38.91,-77.04,known
+9561-poverty-reduction-and-economic-management-department,USA,Washington,38.91,-77.04,known
+9660-harvard-kennedy-school-of-government,USA,Cambridge,42.37,-71.11,known
+bruegel,BEL,Brussels,50.85,4.35,atlas
+7441-committee-on-economic-and-monetary-affairs-of-the-european,FRA,Strasbourg,48.57,7.75,known
+7450-central-bank-of-solomon-islands,SLB,Honiara,-9.43,159.95,atlas
+7539-bank-of-international-settlements,CHE,Basel,47.56,7.59,known
+7819-credit-suisse,CHE,Zurich,47.38,8.54,known
+7820-federal-council,,,,,
+7970-university-of-sydney,AUS,Sydney,-33.87,151.21,name
+8215-reserve-bank-of-malawi,MWI,Lilongwe,-13.96,33.79,atlas
+8224-fannie-mae,USA,Washington,38.91,-77.04,known
+8243-basle-committee-on-banking-supervision,CHE,Basel,47.56,7.59,known
+8280-crest,,,,,
+8315-swiss-finance-institute,CHE,Zurich,47.38,8.54,known
+8544-uppsala-university,SWE,Uppsala,59.86,17.64,name
+8567-tuck-school-of-business,USA,Hanover,43.70,-72.29,known
+8728-hec-paris,FRA,Jouy-en-Josas,48.76,2.17,name
+8902-international-finance-discussion-papers,USA,Washington,38.91,-77.04,known
+8912-university-of-ottawa,CAN,Ottawa,45.42,-75.70,name
+8924-centre-for-economic-performance,GBR,London,51.51,-0.13,known
+9125-aarhus-university,DNK,Aarhus,56.16,10.20,name
+9165-teachers-college-columbia-university,USA,New York,40.71,-74.01,known
+9234-national-institute-of-aging,USA,Bethesda,38.98,-77.10,known
+9335-east-asia-and-the-pacific-region,USA,Washington,38.91,-77.04,known
+9341-latin-america-and-the-caribbean-region-office-of-the-chief,USA,Washington,38.91,-77.04,atlas
+9435-university-of-pennsylvania-wharton-school,USA,Philadelphia,39.95,-75.17,known
+9478-centre-de-recerca-en-economia-internacional-crei,ESP,Barcelona,41.39,2.17,known
+9556-agency-for-healthcare-research-and-quality,USA,Rockville,39.08,-77.15,known
+9590-economic-policy-and-debt-department,,,,,
+9711-finance,,,,,
+9717-trade-development-research-group,USA,Washington,38.91,-77.04,known
+9785-education-and-employment-division,,,,,
+7446-government,,,,,
+7463-american-bankers-association,USA,Washington,38.91,-77.04,known
+7530-african-development-bank,CIV,Abidjan,5.36,-4.01,known
+7543-conference-of-state-bank-supervisors,USA,Washington,38.91,-77.04,known
+7689-universita-bocconi,ITA,Milan,45.46,9.19,known
+8058-urban-institute,USA,Washington,38.91,-77.04,known
+8247-kiel-institute-for-the-world-economy,DEU,Kiel,54.32,10.12,name
+8704-university-of-glasgow,GBR,Glasgow,55.86,-4.25,name
+8720-fordham-university,USA,New York,40.71,-74.01,known
+8819-northeastern-university,USA,Boston,42.36,-71.06,known
+8907-university-of-rome-tor-vergata,ITA,Rome,41.90,12.50,name
+8937-renmin-university-of-china,CHN,Beijing,39.90,116.41,atlas
+9061-crei-universitat-pompeu-fabra,ESP,Barcelona,41.39,2.17,known
+9071-fudan-university,CHN,Shanghai,31.23,121.47,known
+9074-royal-holloway-university-of-london,GBR,Egham,51.43,-0.56,name
+9113-university-of-sussex,GBR,Brighton,50.82,-0.14,known
+9180-center-for-economic-studies,,,,,
+9201-u-s-bureau-of-the-census,USA,Suitland,38.85,-76.92,name
+9470-sanford-school-of-public-policy,USA,Durham,35.99,-78.90,known
+9823-national-institute-of-child-health-and-human-development,USA,Bethesda,38.98,-77.10,known
+9856-ucla-anderson-graduate-school-of-business,USA,Los Angeles,34.05,-118.24,known
+7532-pra,GBR,London,51.51,-0.13,known
+7534-hm-treasury,GBR,London,51.51,-0.13,known
+7789-stanford-institute-for-economic-policy-research,USA,Stanford,37.43,-122.17,known
+7803-riksdag-committee-on-finance,SWE,Stockholm,59.33,18.07,known
+7816-council-of-economic-advisers,USA,Washington,38.91,-77.04,known
+7892-world-health-organization,CHE,Geneva,46.20,6.14,known
+8053-office-of-the-superintendent-of-financial-institutions,CAN,Ottawa,45.42,-75.70,known
+8301-university-of-massachusetts-amherst,USA,Amherst,42.37,-72.52,name
+8340-rensselaer-polytechnic-institute,USA,Troy,42.73,-73.69,known
+8564-bilkent-university,TUR,Ankara,39.93,32.86,known
+8848-central-european-university,AUT,Vienna,48.21,16.37,known
+8887-university-of-adelaide,AUS,Adelaide,-34.93,138.60,name
+9105-rotman-school-of-management-university-of-toronto,CAN,Toronto,43.65,-79.38,name
+9354-office-of-the-chief-economist-europe-and-central-asia-region,USA,Washington,38.91,-77.04,known
+9368-enterprise-analysis-unit,USA,Washington,38.91,-77.04,known
+9421-university-of-chicago-law-school,USA,Chicago,41.88,-87.63,name
+9635-u-s-environmental-protection-agency,USA,Washington,38.91,-77.04,name
+9736-public-economics,,,,,
+9745-economic-development-institute,USA,Washington,38.91,-77.04,known
+9860-university-of-michigan-business-school,USA,Ann Arbor,42.28,-83.74,known
+7386-albanian-association-of-banks,ALB,Tirana,41.33,19.82,name
+7391-financial-supervisory-authority,,,,,
+7438-eief,ITA,Rome,41.90,12.50,known
+7537-treasury-department,,,,,
+7606-ifc,USA,Washington,38.91,-77.04,known
+7759-international-association-of-deposit-insurers,CHE,Basel,47.56,7.59,known
+8026-economic-and-monetary-affairs-committee,FRA,Strasbourg,48.57,7.75,known
+8140-financial-markets-department,,,,,
+8270-innovations-for-poverty-action,USA,,,,known
+8274-utrecht-university,NLD,Utrecht,52.09,5.12,name
+8316-cambridge-university,GBR,Cambridge,52.21,0.12,name
+8500-chinese-academy-of-social-sciences,CHN,Beijing,39.90,116.41,name
+8594-graduate-institute-of-international-studies,CHE,Geneva,46.20,6.14,known
+8603-u-s-department-of-commerce,USA,Washington,38.91,-77.04,name
+8715-portland-state-university,USA,Portland,45.52,-122.68,name
+8798-universidad-carlos-iii,ESP,Getafe,40.31,-3.73,known
+8882-igier,ITA,Milan,45.46,9.19,known
+8889-university-of-california-riverside,USA,Riverside,33.95,-117.40,name
+8988-barcelona-gse,ESP,Barcelona,41.39,2.17,name
+9011-university-of-chicago-harris-school-of-public-policy,USA,Chicago,41.88,-87.63,name
+9069-university-of-california-at-davis,USA,Davis,38.54,-121.74,name
+9094-johns-hopkins-carey-business-school,USA,Baltimore,39.29,-76.61,known
+9175-igier-universita-bocconi,ITA,Milan,45.46,9.19,known
+9214-international-finance-division,,,,,
+9486-new-york-university-department-of-economics,USA,New York,40.71,-74.01,name
+9489-stony-brook-university,USA,Stony Brook,40.91,-73.12,name
+9604-human-development-network,USA,Washington,38.91,-77.04,known
+9695-agriculture-and-rural-development-department,,,,,
+9707-finance-and-private-sector-development-division,,,,,
+9734-poverty-and-human-resources,,,,,
+9748-nber-working-paper-series,USA,Cambridge,42.37,-71.11,known
+7378-swift,BEL,La Hulpe,50.73,4.49,known
+7432-the-conference-board,USA,New York,40.71,-74.01,known
+7467-king-s-college-london,GBR,London,51.51,-0.13,name
+7719-office-of-financial-research,USA,Washington,38.91,-77.04,known
+7761-riksdag,SWE,Stockholm,59.33,18.07,known
+7929-australian-prudential-regulation-authority,AUS,Sydney,-33.87,151.21,name
+7967-kpmg,,,,,
+7983-emeap,,,,,
+8200-economic-research-department,,,,,
+8225-freddie-mac,USA,McLean,38.93,-77.18,known
+8257-university-of-cape-town,ZAF,Cape Town,-33.92,18.42,name
+8481-university-of-vienna,AUT,Vienna,48.21,16.37,name
+8927-ecole-polytechnique-federale-de-lausanne,CHE,Lausanne,46.52,6.63,name
+8987-university-of-chile,CHL,Santiago,-33.45,-70.67,atlas
+9066-haas-school-of-business-university-of-california-berkeley,USA,Berkeley,37.87,-122.27,name
+9075-miami-university,USA,Oxford,39.51,-84.75,known
+9159-amherst-college,USA,Amherst,42.37,-72.52,name
+9310-university-of-california-at-santa-cruz,USA,Santa Cruz,36.97,-122.03,name
+9333-poverty-and-equity-global-department,USA,Washington,38.91,-77.04,known
+9425-harvard-t-h-chan-school-of-public-health,USA,Boston,42.36,-71.06,known
+9774-agricultural-policies-division,,,,,
+7394-uganda-bankers-association,UGA,Kampala,0.35,32.58,atlas
+7407-fdic,USA,Washington,38.91,-77.04,known
+7418-center-for-financial-studies,,,,,
+7504-australian-bureau-of-statistics,AUS,Canberra,-35.28,149.13,name
+7707-autorite-de-controle-prudentiel-et-de-resolution,FRA,Paris,48.86,2.35,known
+7755-g7,,,,,
+7884-swedbank,SWE,Stockholm,59.33,18.07,known
+7913-university-of-strathclyde,GBR,Glasgow,55.86,-4.25,known
+8010-state-council,,,,,
+8165-w-e-upjohn-institute-for-employment-research,USA,Kalamazoo,42.29,-85.59,known
+8296-bill-melinda-gates-foundation,USA,Seattle,47.61,-122.33,known
+8318-institute-for-new-economic-thinking,USA,New York,40.71,-74.01,known
+8355-central-bureau-of-statistics,,,,,
+8502-bank-of-the-netherlands-antilles,CUW,Willemstad,12.11,-68.93,fixed
+8633-joint-committee-on-taxation,USA,Washington,38.91,-77.04,known
+8659-university-of-missouri,USA,Columbia,38.95,-92.33,known
+8816-universite-catholique-de-louvain,BEL,Louvain-la-Neuve,50.67,4.61,name
+8879-northwestern-university-kellogg-school-of-management,USA,Evanston,42.05,-87.69,known
+9148-college-of-william-and-mary,USA,Williamsburg,37.27,-76.71,known
+9277-statistics-department,,,,,
+9328-europe-and-central-asia-region-office-of-the-chief-economist,USA,Washington,38.91,-77.04,known
+9596-sustainable-development-department,,,,,
+9668-columbia-university-school-of-international-and-public,USA,New York,40.71,-74.01,known
+7355-monetary-policy-and-financial-stability-committee,,,,,
+7511-imf-european-department,USA,Washington,38.91,-77.04,known
+7558-morgan-stanley,USA,New York,40.71,-74.01,known
+7757-central-bank-of-the-bahamas,BHS,Nassau,25.05,-77.35,atlas
+7791-fitch-ratings,USA,New York,40.71,-74.01,known
+7829-reinventing-bretton-woods-committee,,,,,
+7848-bank-of-china,CHN,Beijing,39.90,116.41,atlas
+7923-central-bank-of-bosnia-and-herzegovina,BIH,Sarajevo,43.86,18.41,atlas
+8004-u-s-house-of-representatives,USA,Washington,38.91,-77.04,name
+8020-university-of-waikato,NZL,Hamilton,-37.79,175.28,known
+8044-department-of-education,,,,,
+8080-canterbury-employers-chamber-of-commerce,NZL,Christchurch,-43.53,172.64,known
+8177-federation-of-indian-chambers-of-commerce-and-industry,IND,New Delhi,28.61,77.21,name
+8404-nova-school-of-business-and-economics,PRT,Lisbon,38.72,-9.14,known
+8459-statistics-sweden,SWE,Stockholm,59.33,18.07,atlas
+8525-university-of-exeter,GBR,Exeter,50.72,-3.53,name
+8625-institute-for-international-economics,USA,Washington,38.91,-77.04,known
+8959-university-of-colorado-denver,USA,Denver,39.74,-104.99,name
+9116-internal-revenue-service,USA,Washington,38.91,-77.04,known
+9293-said-business-school,GBR,Oxford,51.75,-1.26,known
+9401-anderson-school-of-management-ucla,USA,Los Angeles,34.05,-118.24,known
+9414-brown-university-department-of-economics,USA,Providence,41.82,-71.41,known
+9533-bren-school-of-environmental-science-and-management,USA,Santa Barbara,34.42,-119.70,known
+9718-rural-development,,,,,
+9756-poverty-and-human-resources-division,,,,,
+9817-anderson-graduate-school-of-management,USA,Los Angeles,34.05,-118.24,known
+7478-payments-system-board,AUS,Sydney,-33.87,151.21,known
+7563-istat,ITA,Rome,41.90,12.50,known
+7894-italian-banking-association,ITA,Rome,41.90,12.50,name
+7901-jp-morgan,USA,New York,40.71,-74.01,known
+8033-einaudi-institute-for-economics-and-finance,ITA,Rome,41.90,12.50,known
+8049-european-court-of-justice,LUX,Luxembourg,49.61,6.13,known
+8071-g20-finance-ministers-and-central-bank-governors,,,,,
+8097-citigroup,USA,New York,40.71,-74.01,known
+8106-thomson-reuters,CAN,Toronto,43.65,-79.38,known
+8130-diw-berlin,DEU,Berlin,52.52,13.40,name
+8251-universite-de-montreal,CAN,Montréal,45.50,-73.57,name
+8283-university-of-york,GBR,York,53.96,-1.08,name
+8332-consumer-financial-protection-bureau,USA,Washington,38.91,-77.04,known
+8339-the-wall-street-journal,USA,New York,40.71,-74.01,known
+8658-university-of-gothenburg,SWE,Gothenburg,57.71,11.97,name
+8699-itam,MEX,Mexico City,19.43,-99.13,known
+8730-pontificia-universidad-catolica-del-peru,PER,Lima,-12.05,-77.04,atlas
+8812-university-of-california-merced,USA,Merced,37.30,-120.48,name
+8965-scheller-college-of-business,USA,Atlanta,33.75,-84.39,known
+9000-university-of-utah,USA,Salt Lake City,40.76,-111.89,known
+9043-ecares-universite-libre-de-bruxelles,BEL,Brussels,50.85,4.35,name
+9059-universidad-de-valencia,ESP,Valencia,39.47,-0.38,name
+9144-universidad-de-zaragoza,ESP,Zaragoza,41.65,-0.89,name
+9150-florida-international-university,USA,Miami,25.76,-80.19,name
+9249-anderson-school-of-management,,,,,
+9292-monetary-and-financial-systems-department,USA,Washington,38.91,-77.04,known
+9379-independent-evaluation-group,USA,Washington,38.91,-77.04,known
+9465-industrial-relations-section,USA,Princeton,40.35,-74.66,known
+9521-questrom-school-of-business,USA,Boston,42.36,-71.06,known
+9637-poverty-reduction-and-economic-management-division,USA,Washington,38.91,-77.04,known
+9650-finance-and-private-sector-team,USA,Washington,38.91,-77.04,known
+9667-department-of-economics-columbia-university,USA,New York,40.71,-74.01,known
+9738-university-of-michigan-department-of-economics,USA,Ann Arbor,42.28,-83.74,known
+9751-macroeconomics-and-growth-division,,,,,
+9790-women-in-development-division,,,,,
+9791-public-sector-management-and-private-sector-development,,,,,
+9939-rockefeller-foundation,USA,New York,40.71,-74.01,known
+9955-computer-research-center-for-economics-and-management,USA,Cambridge,42.37,-71.11,known
+7428-ecb-staff,DEU,Frankfurt,50.11,8.68,known
+7506-ifo-institute,DEU,Munich,48.14,11.58,known
+7593-bank-al-maghrib,MAR,Rabat,34.02,-6.84,known
+7615-intergovernmental-panel-on-climate-change,CHE,Geneva,46.20,6.14,known
+7620-hsbc,GBR,London,51.51,-0.13,known
+7713-institute-of-directors,,,,,
+7727-koc-university,TUR,Istanbul,41.01,28.98,known
+7738-securities-commission,,,,,
+8125-commission-vice-president,,,,,
+8237-western-university,CAN,London,42.98,-81.25,known
+8272-kenya-school-of-monetary-studies,KEN,Nairobi,-1.29,36.82,atlas
+8622-university-of-tennessee,USA,Knoxville,35.96,-83.92,known
+8724-institute-of-economic-research-hitotsubashi-university,JPN,Tokyo,35.68,139.69,known
+8758-consumer-finance-institute,USA,Philadelphia,39.95,-75.17,known
+8763-yonsei-university,KOR,Seoul,37.57,126.98,known
+8801-university-of-leuven,BEL,Leuven,50.88,4.70,name
+8829-shanghai-jiao-tong-university,CHN,Shanghai,31.23,121.47,name
+8934-osaka-university,JPN,Osaka,34.69,135.50,name
+9024-cerge-ei,CZE,Prague,50.08,14.44,known
+9028-oberlin-college,USA,Oberlin,41.29,-82.22,name
+9246-darden-business-school,USA,Charlottesville,38.03,-78.48,known
+9264-imf-fiscal-affairs-department,USA,Washington,38.91,-77.04,known
+9266-imf-working-paper,USA,Washington,38.91,-77.04,known
+9351-governance-global-practice,USA,Washington,38.91,-77.04,known
+9419-andrew-young-school-of-policy-studies,USA,Atlanta,33.75,-84.39,known
+9473-carroll-school-of-management,USA,Boston,42.36,-71.06,known
+9476-berea-college,USA,Berea,37.57,-84.30,name
+9536-clark-university,USA,Worcester,42.26,-71.80,known
+9547-john-m-olin-center-for-law-economics-and-business,USA,Cambridge,42.37,-71.11,known
+9655-department-of-agricultural-and-resource-economics,,,,,
+9684-university-of-maryland-department-of-economics,USA,College Park,38.98,-76.94,known
+9715-infrastructure-and-environment,,,,,
+9805-international-commodity-markets-division,,,,,
+9808-policy-planning-and-research,USA,Washington,38.91,-77.04,known
+7371-swedish-economics-association,SWE,,,,name
+7434-congress,,,,,
+7524-seacen-centre,MYS,Kuala Lumpur,3.14,101.69,known
+7581-ficci,IND,New Delhi,28.61,77.21,known
+7603-international-sustainability-standards-board,DEU,Frankfurt,50.11,8.68,known
+7634-national-bank,,,,,
+7709-citi,USA,New York,40.71,-74.01,known
+7746-university-of-queensland,AUS,Brisbane,-27.47,153.03,known
+7814-hong-kong-association-of-banks,HKG,Hong Kong,22.32,114.17,atlas
+7823-commodity-futures-trading-commission,USA,Washington,38.91,-77.04,known
+7889-warwick-business-school,GBR,Coventry,52.41,-1.51,known
+7891-international-center-for-monetary-and-banking-studies,CHE,Geneva,46.20,6.14,known
+7898-international-banking-research-network,,,,,
+7936-government-of-india,IND,New Delhi,28.61,77.21,atlas
+8046-central-statistics-office,,,,,
+8059-confederation-of-indian-industry,IND,New Delhi,28.61,77.21,name
+8084-yale-law-school,USA,New Haven,41.31,-72.92,known
+8111-unctad,CHE,Geneva,46.20,6.14,known
+8142-u-s-department-of-agriculture,USA,Washington,38.91,-77.04,name
+8153-narodna-banka-slovenska,SVK,Bratislava,48.15,17.11,name
+8537-swiss-federal-banking-commission,CHE,Bern,46.95,7.45,name
+8543-freie-universitat-berlin,DEU,Berlin,52.52,13.40,name
+8602-ifo-institute-for-economic-research,DEU,Munich,48.14,11.58,known
+8759-vienna-university-of-economics-and-business,AUT,Vienna,48.21,16.37,name
+8862-puc-rio,BRA,Rio de Janeiro,-22.91,-43.17,name
+8982-central-university-of-finance-and-economics,CHN,Beijing,39.90,116.41,known
+9020-globalization-institute,,,,,
+9048-naval-postgraduate-school,USA,Monterey,36.60,-121.89,known
+9143-university-of-waterloo,CAN,Waterloo,43.46,-80.52,name
+9184-universidad-de-murcia,ESP,Murcia,37.99,-1.13,name
+9229-compnet,,,,,
+9269-imf-working-paper-research-department,USA,Washington,38.91,-77.04,known
+9272-imf-statistics-department,USA,Washington,38.91,-77.04,known
+9375-south-asia-region,USA,Washington,38.91,-77.04,known
+9380-south-asia-region-office-of-the-chief-economist,USA,Washington,38.91,-77.04,known
+9381-energy-and-extractives-global-practice,USA,Washington,38.91,-77.04,known
+9412-baylor-university,USA,Waco,31.55,-97.15,known
+9416-stephen-m-ross-school-of-business,USA,Ann Arbor,42.28,-83.74,known
+9519-social-urban-rural-and-resilience-global-practice-group,USA,Washington,38.91,-77.04,known
+9531-finance-and-markets-global-practice-group,USA,Washington,38.91,-77.04,known
+9597-yale-school-of-public-health,USA,New Haven,41.31,-72.92,known
+9621-centers-for-medicare-and-medicaid-services,USA,Baltimore,39.29,-76.61,known
+9628-spencer-foundation,USA,Chicago,41.88,-87.63,known
+9699-university-of-colorado-at-denver,USA,Denver,39.74,-104.99,name
+9712-public-services,,,,,
+9799-lynde-and-harry-bradley-foundation,USA,Milwaukee,43.04,-87.91,known
+7352-esma,FRA,Paris,48.86,2.35,known
+7364-board-of-the-national-bank-of-ukraine,UKR,Kyiv,50.45,30.52,atlas
+7417-european-financial-stability-facility,LUX,Luxembourg,49.61,6.13,known
+7476-capital-markets-authority,,,,,
+7497-mckinsey,USA,New York,40.71,-74.01,known
+7589-anika-foundation,AUS,,,,known
+7636-isda,USA,New York,40.71,-74.01,known
+7740-study-center-gerzensee,CHE,Gerzensee,46.84,7.55,name
+7754-eu,BEL,Brussels,50.85,4.35,known
+7787-central-bank-of-nepal-nepal-rastra-bank,NPL,Kathmandu,27.72,85.32,atlas
+7797-independent-community-bankers-of-america,USA,Washington,38.91,-77.04,atlas
+7863-cemla,MEX,Mexico City,19.43,-99.13,known
+7925-national-bureau-of-statistics,,,,,
+8021-universidad-autonoma-de-madrid,ESP,Madrid,40.42,-3.70,name
+8055-montana-state-university,USA,Bozeman,45.68,-111.04,known
+8061-university-of-pretoria,ZAF,Pretoria,-25.75,28.19,name
+8062-european-economic-association,,,,,
+8169-waseda-university,JPN,Tokyo,35.68,139.69,known
+8341-inegi,MEX,Aguascalientes,21.88,-102.29,known
+8396-joint-economic-committee,USA,Washington,38.91,-77.04,known
+8400-saudi-arabian-monetary-agency,SAU,Riyadh,24.71,46.68,name
+8441-dfid,GBR,London,51.51,-0.13,known
+8522-korea-development-institute,KOR,Sejong,36.48,127.29,atlas
+8582-house-of-representatives-standing-committee-on-economics,AUS,Canberra,-35.28,149.13,known
+8618-charles-university,CZE,Prague,50.08,14.44,known
+8651-university-of-tasmania,AUS,Hobart,-42.88,147.33,known
+8661-mit-sloan-school,USA,Cambridge,42.37,-71.11,known
+8707-centre-for-macroeconomics,GBR,London,51.51,-0.13,known
+8712-xiamen-university,CHN,Xiamen,24.48,118.09,name
+8749-sapienza-university-of-rome,ITA,Rome,41.90,12.50,name
+8885-virginia-commonwealth-university,USA,Richmond,37.54,-77.44,known
+8914-chicago-public-schools,USA,Chicago,41.88,-87.63,name
+8967-university-of-cologne,DEU,Cologne,50.94,6.96,name
+9257-strategy-policy-and-review-department,USA,Washington,38.91,-77.04,known
+9483-harvard-university-graduate-school-of-education,USA,Cambridge,42.37,-71.11,known
+9522-operations-and-strategy-team,,,,,
+9560-partnerships-capacity-building-unit,,,,,
+9842-canadian-institute-for-advanced-research,CAN,Toronto,43.65,-79.38,name
+9910-university-of-stockholm,SWE,Stockholm,59.33,18.07,name
+7368-monetary-policy-board,,,,,
+7400-eiopa,DEU,Frankfurt,50.11,8.68,known
+7461-asean,IDN,Jakarta,-6.21,106.85,known
+7483-danske-bank,DNK,Copenhagen,55.68,12.57,known
+7500-national-bank-of-cambodia,KHM,Phnom Penh,11.56,104.92,atlas
+7505-standard-chartered-bank,GBR,London,51.51,-0.13,known
+7509-financial-services-agency,JPN,Tokyo,35.68,139.69,known
+7525-european-supervisory-authorities,,,,,
+7526-state-bank-of-india,IND,Mumbai,19.08,72.88,atlas
+7538-securities-commission-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+7562-lietuvos-bankas,LTU,Vilnius,54.69,25.28,name
+7587-asian-institute-of-chartered-bankers,MYS,Kuala Lumpur,3.14,101.69,known
+7610-finance-commission-of-the-honorable-senate-of-the-republic,,,,,
+7700-global-association-of-risk-professionals,USA,Jersey City,40.72,-74.08,known
+7703-uk-financial-conduct-authority,GBR,London,51.51,-0.13,name
+7782-international-capital-market-association,CHE,Zurich,47.38,8.54,known
+7793-global-interdependence-center,USA,Philadelphia,39.95,-75.17,known
+7798-cafral,IND,Mumbai,19.08,72.88,known
+7826-european-economics-and-financial-centre,GBR,London,51.51,-0.13,known
+7895-alternative-reference-rates-committee,USA,New York,40.71,-74.01,known
+7919-office-for-national-statistics,GBR,Newport,51.59,-3.00,known
+7944-handelsbanken,SWE,Stockholm,59.33,18.07,known
+7959-standing-senate-committee-on-banking-trade-and-commerce,CAN,Ottawa,45.42,-75.70,known
+8048-victoria-university-of-wellington,NZL,Wellington,-41.29,174.78,name
+8091-group-of-thirty,USA,Washington,38.91,-77.04,known
+8098-international-centre-for-education-in-islamic-finance,MYS,Kuala Lumpur,3.14,101.69,known
+8123-u-s-treasury-department,USA,Washington,38.91,-77.04,name
+8275-markets-committee,,,,,
+8403-committee-on-banking-housing-and-urban-affairs-us-senate,USA,Washington,38.91,-77.04,name
+8419-international-labour-organization,CHE,Geneva,46.20,6.14,known
+8425-asian-development-bank-institute,JPN,Tokyo,35.68,139.69,known
+8558-cepii,FRA,Paris,48.86,2.35,known
+8596-bureau-of-the-census,USA,Suitland,38.85,-76.92,known
+8627-financial-accounting-standards-board,USA,Norwalk,41.12,-73.41,known
+8775-universidad-del-pacifico,PER,Lima,-12.05,-77.04,known
+8796-challenges-for-monetary-policy-transmission-in-a-changing,DEU,Frankfurt,50.11,8.68,known
+8857-erasmus-school-of-economics,NLD,Rotterdam,51.92,4.48,known
+8932-university-of-southampton,GBR,Southampton,50.91,-1.40,name
+8955-shanghai-advanced-institute-of-finance,CHN,Shanghai,31.23,121.47,name
+9120-university-of-california-at-santa-barbara,USA,Santa Barbara,34.42,-119.70,name
+9157-international-economic-analysis-department,,,,,
+9223-johnson-graduate-school-of-management,USA,Ithaca,42.44,-76.50,known
+9247-institute-for-social-research,,,,,
+9357-africa-region-office-of-the-chief-economist,USA,Washington,38.91,-77.04,known
+9362-transport-global-practice,USA,Washington,38.91,-77.04,known
+9420-global-indicators-group,USA,Washington,38.91,-77.04,known
+9427-department-of-economics-university-of-maryland,USA,College Park,38.98,-76.94,known
+9502-governance-global-practice-group,USA,Washington,38.91,-77.04,known
+9527-mathematica-policy-research,USA,Princeton,40.35,-74.66,known
+9647-freeman-spogli-institute,USA,Stanford,37.43,-122.17,known
+9723-regulation-and-competition-policy,,,,,
+9804-guanghua-school-of-management,CHN,Beijing,39.90,116.41,known
+9861-ucla-institute-of-the-environment,USA,Los Angeles,34.05,-118.24,known
+9894-center-for-population-economics,,,,,
+7547-hong-kong-institute-for-monetary-and-financial-research,HKG,Hong Kong,22.32,114.17,atlas
+7699-asic,AUS,,,,known
+7706-network-of-central-banks-and-supervisors-for-greening-the,FRA,Paris,48.86,2.35,known
+7732-association-of-banks-in-singapore,SGP,Singapore,1.29,103.85,atlas
+7741-international-statistical-institute,NLD,The Hague,52.08,4.30,known
+7827-irving-fisher-committee,CHE,Basel,47.56,7.59,known
+7858-borsen-zeitung,DEU,Frankfurt,50.11,8.68,known
+7920-european-insurance-and-occupational-pensions-authority,DEU,Frankfurt,50.11,8.68,known
+7975-singapore-exchange,SGP,Singapore,1.29,103.85,atlas
+7978-central-bank-of-the-united-arab-emirates,ARE,Abu Dhabi,24.45,54.38,atlas
+7980-money-marketeers-of-new-york-university,USA,New York,40.71,-74.01,name
+8018-centers-for-disease-control-and-prevention,USA,Atlanta,33.75,-84.39,known
+8027-nippon-keidanren,JPN,Tokyo,35.68,139.69,name
+8031-pacific-financial-inclusion-programme,FJI,Suva,-18.14,178.44,known
+8139-university-of-sheffield,GBR,Sheffield,53.38,-1.47,name
+8198-graduate-institute,CHE,Geneva,46.20,6.14,known
+8265-institute-for-development-and-research-in-banking-technology,IND,Hyderabad,17.39,78.49,known
+8353-center-for-pacific-basin-studies,USA,San Francisco,37.77,-122.42,known
+8375-british-bankers-association,GBR,London,51.51,-0.13,name
+8386-school-of-economics,,,,,
+8390-bankers-club,,,,,
+8539-banco-de-la-republica-de-colombia,COL,Bogotá,4.71,-74.07,atlas
+8606-baruch-college,USA,New York,40.71,-74.01,known
+8611-office-of-management-and-budget,USA,Washington,38.91,-77.04,known
+8650-swarthmore-college,USA,Swarthmore,39.90,-75.35,name
+8667-middlebury-college,USA,Middlebury,44.02,-73.17,name
+8703-university-of-auckland,NZL,Auckland,-36.85,174.76,name
+8753-university-of-virginia-darden-school-of-business,USA,Charlottesville,38.03,-78.48,known
+8791-bar-ilan-university,ISR,Ramat Gan,32.07,34.82,known
+8804-uc-davis,USA,Davis,38.54,-121.74,name
+8820-aix-marseille-university,FRA,Marseille,43.30,5.37,name
+8850-boston-university-questrom-school-of-business,USA,Boston,42.36,-71.06,name
+8856-epfl,CHE,Lausanne,46.52,6.63,known
+8952-depaul-university,USA,Chicago,41.88,-87.63,known
+9002-center-tilburg-university,NLD,Tilburg,51.56,5.09,name
+9023-new-economic-school,RUS,Moscow,55.76,37.62,known
+9078-occidental-college,USA,Los Angeles,34.05,-118.24,known
+9092-iza-bonn,DEU,Bonn,50.74,7.10,name
+9114-university-of-alabama,USA,Tuscaloosa,33.21,-87.57,known
+9153-goldman-school-of-public-policy,USA,Berkeley,37.87,-122.27,known
+9161-department-of-economics-ucla,USA,Los Angeles,34.05,-118.24,known
+9275-university-of-wisconsin-milwaukee,USA,Milwaukee,43.04,-87.91,name
+9409-northwestern-university-department-of-economics,USA,Evanston,42.05,-87.69,known
+9433-columbia-university-department-of-economics,USA,New York,40.71,-74.01,known
+9485-state-university-of-new-york-at-buffalo,USA,Buffalo,42.89,-78.88,name
+9499-university-of-pennsylvania-department-of-economics,USA,Philadelphia,39.95,-75.17,known
+9513-state-university-of-new-york-at-albany,USA,Albany,42.65,-73.75,name
+9516-motu-economic-and-public-policy-research,NZL,Wellington,-41.29,174.78,known
+9636-department-of-economics-yale-university,USA,New Haven,41.31,-72.92,known
+9641-tiaa-cref-institute,USA,New York,40.71,-74.01,known
+9846-cornell-higher-education-research-institute,USA,Ithaca,42.44,-76.50,known
+9884-j-l-kellogg-graduate-school-of-management,USA,Evanston,42.05,-87.69,known
+9903-andrew-w-mellon-foundation,USA,New York,40.71,-74.01,known
+9917-woodrow-wilson-school-princeton-university,USA,Princeton,40.35,-74.66,name
+7453-college-of-agricultural-banking,,,,,
+7517-european-banking-congress,DEU,Frankfurt,50.11,8.68,known
+7564-treasury-markets-association,HKG,Hong Kong,22.32,114.17,known
+7592-nbu-board,UKR,Kyiv,50.45,30.52,known
+7596-united-nations-development-programme,USA,New York,40.71,-74.01,known
+7630-institute-for-supply-management,USA,Tempe,33.43,-111.94,known
+7647-institute-of-chartered-accountants-of-india,IND,New Delhi,28.61,77.21,atlas
+7683-committee-for-economic-development-of-australia,AUS,Melbourne,-37.81,144.96,atlas
+7716-arab-monetary-fund,ARE,Abu Dhabi,24.45,54.38,known
+7786-nepal-rastra-bank,NPL,Kathmandu,27.72,85.32,atlas
+7810-usaid,USA,Washington,38.91,-77.04,name
+7933-bank-of-tanzania,TZA,Dar es Salaam,-6.79,39.21,atlas
+7946-minister-of-finance,,,,,
+7954-bangko-sentral,PHL,Manila,14.60,120.98,known
+7987-philippine-statistics-authority,PHL,Quezon City,14.68,121.04,name
+8005-research-institute-of-japan,JPN,,,,atlas
+8012-economic-and-social-research-institute,,,,,
+8017-single-resolution-mechanism,BEL,Brussels,50.85,4.35,known
+8043-u-s-senate,USA,Washington,38.91,-77.04,name
+8054-citibank,USA,New York,40.71,-74.01,known
+8081-european-banking-federation,BEL,Brussels,50.85,4.35,known
+8100-japan-society,,,,,
+8160-iceland-chamber-of-commerce,ISL,Reykjavík,64.15,-21.94,atlas
+8208-eu-commission,BEL,Brussels,50.85,4.35,known
+8219-university-of-liverpool,GBR,Liverpool,53.41,-2.98,name
+8240-west-virginia-university,USA,Morgantown,39.63,-79.96,known
+8262-yale-university-school-of-management,USA,New Haven,41.31,-72.92,known
+8303-association-of-danish-mortgage-banks,DNK,,,,name
+8314-international-monetary-conference,,,,,
+8328-university-of-east-anglia,GBR,Norwich,52.63,1.30,known
+8338-aaoifi,BHR,Manama,26.23,50.59,known
+8356-accounting-and-auditing-organisation-for-islamic-financial,BHR,Manama,26.23,50.59,known
+8405-uk-department-for-international-development,GBR,London,51.51,-0.13,name
+8454-department-of-housing-and-urban-development,USA,Washington,38.91,-77.04,known
+8466-european-institute,,,,,
+8480-kauffman-foundation,USA,Kansas City,39.10,-94.58,known
+8490-ecole-polytechnique,FRA,Palaiseau,48.71,2.25,known
+8505-committee-of-european-banking-supervisors,GBR,London,51.51,-0.13,known
+8508-university-of-konstanz,DEU,Konstanz,47.66,9.18,name
+8527-lund-university,SWE,Lund,55.70,13.19,name
+8533-central-bank-of-peru,PER,Lima,-12.05,-77.04,atlas
+8674-leonard-n-stern-school-of-business,USA,New York,40.71,-74.01,known
+8719-university-of-central-florida,USA,Orlando,28.54,-81.38,known
+8743-lancaster-university-management-school,GBR,Lancaster,54.05,-2.80,name
+8746-university-of-alicante,ESP,Alicante,38.35,-0.48,name
+8802-haverford-college,USA,Haverford,40.01,-75.30,name
+8814-institute-for-employment-research-iab,DEU,Nuremberg,49.45,11.08,known
+8852-university-of-st-andrews,GBR,St Andrews,56.34,-2.80,name
+8945-hec-school-of-management,,,,,
+8954-wake-forest-university,USA,Winston-Salem,36.10,-80.24,known
+8983-kobe-university,JPN,Kobe,34.69,135.20,name
+8985-luiss-guido-carli,ITA,Rome,41.90,12.50,known
+9006-olin-business-school,USA,St. Louis,38.63,-90.20,known
+9021-universidad-de-la-republica,URY,Montevideo,-34.90,-56.16,known
+9133-nuffield-college,GBR,Oxford,51.75,-1.26,known
+9164-w-p-carey-school-of-business,USA,Tempe,33.43,-111.94,known
+9170-department-of-economics-rutgers-university,USA,New Brunswick,40.49,-74.45,known
+9212-william-e-simon-graduate-school-of-business-administration,USA,Rochester,43.16,-77.61,known
+9256-imf-institute-for-capacity-development,USA,Washington,38.91,-77.04,known
+9271-imf-working-paper-western-hemisphere-department,USA,Washington,38.91,-77.04,known
+9296-european-ii-department,USA,Washington,38.91,-77.04,known
+9298-university-of-maryland-at-college-park,USA,College Park,38.98,-76.94,name
+9361-urban-disaster-risk-management-resilience-and-land-global,USA,Washington,38.91,-77.04,known
+9393-universidad-nacional-de-la-plata,ARG,La Plata,-34.92,-57.95,name
+9394-department-of-economics-university-of-california-berkeley,USA,Berkeley,37.87,-122.27,name
+9415-frank-batten-school-of-leadership-and-public-policy,USA,Charlottesville,38.03,-78.48,known
+9450-the-ohio-state-university-fisher-college-of-business,USA,Columbus,39.96,-83.00,known
+9603-krannert-school-of-management,USA,West Lafayette,40.43,-86.91,known
+9640-poverty-reduction-group,USA,Washington,38.91,-77.04,known
+9698-columbia-university-school-of-social-work,USA,New York,40.71,-74.01,known
+9769-world-development-report-office,USA,Washington,38.91,-77.04,known
+9778-transition-and-macro-adjustment-division,,,,,
+9779-ebay-research-labs,USA,San Jose,37.34,-121.89,known
+9796-american-council-of-life-insurance,USA,Washington,38.91,-77.04,known
+9829-haas-school-of-business-administration,USA,Berkeley,37.87,-122.27,known
+9874-university-of-north-carolina-greensboro,USA,Greensboro,36.07,-79.79,name
+7402-centrale-bank-van-curacao-en-sint-maarten,CUW,Willemstad,12.11,-68.93,atlas
+7416-visa,USA,San Francisco,37.77,-122.42,known
+7442-national-bank-of-rwanda,RWA,Kigali,-1.94,30.06,atlas
+7480-national-payments-corporation-of-india,IND,Mumbai,19.08,72.88,atlas
+7535-cabinet-office,,,,,
+7551-fca,GBR,London,51.51,-0.13,known
+7571-university-of-the-west-indies,JAM,Kingston,18.02,-76.80,known
+7573-norges-bank-s-monetary-policy-and-financial-stability,NOR,Oslo,59.91,10.75,name
+7577-hong-kong-institute-of-bankers,HKG,Hong Kong,22.32,114.17,atlas
+7582-iba,,,,,
+7602-institute-for-monetary-and-financial-stability,DEU,Frankfurt,50.11,8.68,known
+7614-facebook,USA,Menlo Park,37.45,-122.18,known
+7643-international-development-association,USA,Washington,38.91,-77.04,known
+7656-citi-philippines,PHL,Manila,14.60,120.98,atlas
+7667-fitch,USA,New York,40.71,-74.01,known
+7704-frankfurter-allgemeine-zeitung,DEU,Frankfurt,50.11,8.68,known
+7764-institute-of-international-and-european-affairs,IRL,Dublin,53.35,-6.26,known
+7773-norges-bank-investment-management,NOR,Oslo,59.91,10.75,known
+7778-swedish-riksbank,SWE,Stockholm,59.33,18.07,name
+7817-bank-negara,MYS,Kuala Lumpur,3.14,101.69,known
+7856-indira-gandhi-institute-of-development-research,IND,Mumbai,19.08,72.88,known
+7953-development-budget-coordination-committee,PHL,Manila,14.60,120.98,known
+7955-president-s-working-group-on-financial-markets,USA,Washington,38.91,-77.04,known
+7965-indian-institute-of-management-ahmedabad,IND,Ahmedabad,23.02,72.57,name
+7982-global-foreign-exchange-committee,,,,,
+8069-committee-on-financial-affairs,,,,,
+8089-universite-laval,CAN,Quebec City,46.81,-71.21,known
+8093-chamber-of-deputies,,,,,
+8102-danish-financial-supervisory-authority,DNK,Copenhagen,55.68,12.57,name
+8121-national-graduate-institute-for-policy-studies,JPN,Tokyo,35.68,139.69,known
+8146-graduate-institute-geneva,CHE,Geneva,46.20,6.14,name
+8158-s-p,USA,New York,40.71,-74.01,known
+8162-senate-of-the-republic,,,,,
+8164-paris-europlace-financial-forum,FRA,Paris,48.86,2.35,name
+8172-bank-of-america-merrill-lynch,USA,Charlotte,35.23,-80.84,atlas
+8174-lehman-brothers,USA,New York,40.71,-74.01,known
+8253-american-finance-association,USA,,,,known
+8255-danish-bankers-association,DNK,Copenhagen,55.68,12.57,name
+8305-university-of-massachusetts,USA,Amherst,42.37,-72.52,known
+8319-bureau-for-economic-research,ZAF,Stellenbosch,-33.93,18.86,known
+8368-concordia-university,,,,,
+8388-naigai-josei-chousa-kai,JPN,Tokyo,35.68,139.69,known
+8397-us-congress,USA,Washington,38.91,-77.04,name
+8407-commonwealth-secretariat,GBR,London,51.51,-0.13,known
+8422-cepremap,FRA,Paris,48.86,2.35,known
+8438-indian-school-of-business,IND,Hyderabad,17.39,78.49,name
+8460-university-of-richmond,USA,Richmond,37.54,-77.44,name
+8475-university-of-montreal,CAN,Montréal,45.50,-73.57,name
+8487-bank-of-sierra-leone,SLE,Freetown,8.48,-13.23,atlas
+8491-subcommittee-on-financial-institutions-and-consumer-credit,USA,Washington,38.91,-77.04,known
+8554-birkbeck-college,GBR,London,51.51,-0.13,known
+8587-bond-market-association,USA,New York,40.71,-74.01,known
+8592-federal-home-loan-mortgage-corporation,USA,McLean,38.93,-77.18,known
+8628-joint-vienna-institute,AUT,Vienna,48.21,16.37,name
+8639-swedish-shareholders-association,SWE,,,,name
+8675-harvard-institute-for-international-development,USA,Cambridge,42.37,-71.11,known
+8708-mit-sloan,USA,Cambridge,42.37,-71.11,known
+8752-university-of-iceland,ISL,Reykjavík,64.15,-21.94,atlas
+8806-university-of-turin,ITA,Turin,45.07,7.69,name
+8920-city-university-of-new-york-graduate-center,USA,New York,40.71,-74.01,name
+8949-ohio-university,USA,Athens,39.33,-82.10,known
+8962-munich-center-for-the-economics-of-aging,DEU,Munich,48.14,11.58,name
+9010-university-of-texas-at-arlington,USA,Arlington,32.74,-97.11,name
+9035-university-of-namur,BEL,Namur,50.47,4.87,name
+9052-krannert-school-of-management-purdue-university,USA,West Lafayette,40.43,-86.91,known
+9073-cornerstone-research,USA,,,,known
+9118-new-york-university-abu-dhabi,ARE,Abu Dhabi,24.45,54.38,name
+9137-kyoto-university,JPN,Kyoto,35.01,135.77,name
+9169-johnson-graduate-school-of-management-cornell-university,USA,Ithaca,42.44,-76.50,known
+9230-task-force-on-low-inflation,,,,,
+9238-department-of-economics-university-of-michigan,USA,Ann Arbor,42.28,-83.74,known
+9288-barnard-college,USA,New York,40.71,-74.01,known
+9290-international-institute-of-public-finance,,,,,
+9305-development-research-group-the-world-bank,USA,Washington,38.91,-77.04,known
+9342-universidad-de-san-andres,ARG,,,,known
+9372-infrastructure-chief-economist-office,USA,Washington,38.91,-77.04,known
+9441-stanford-university-school-of-medicine,USA,Stanford,37.43,-122.17,known
+9459-max-planck-institute-for-social-law-and-social-policy,DEU,Munich,48.14,11.58,known
+9564-poole-college-of-management,USA,Raleigh,35.78,-78.64,known
+9571-bowdoin-college,USA,Brunswick,43.91,-69.96,known
+9649-smith-richardson-foundation,USA,Westport,41.14,-73.36,known
+9665-school-of-forestry-and-environmental-studies-yale-university,USA,New Haven,41.31,-72.92,known
+9724-financial-sector-strategy-and-policy-department,,,,,
+9737-world-bank-development-research-group-poverty-and-human,USA,Washington,38.91,-77.04,known
+9760-country-operations-division,,,,,
+9831-university-of-delaware-economics-department,USA,Newark,39.68,-75.75,known
+9837-u-s-department-of-education,USA,Washington,38.91,-77.04,name
+9838-department-of-economics-boston-university,USA,Boston,42.36,-71.06,name
+9924-graduate-school-of-industrial-administration,USA,Pittsburgh,40.44,-80.00,known
+9931-john-m-olin-foundation,USA,New York,40.71,-74.01,known
+7349-nederlandsche-bank,NLD,Amsterdam,52.37,4.90,known
+7489-sama,SAU,Riyadh,24.71,46.68,known
+7503-australian-industry-group,AUS,,,,name
+7528-peterson-institute,USA,Washington,38.91,-77.04,known
+7536-ministry-of-internal-affairs-and-communications,JPN,Tokyo,35.68,139.69,known
+7546-amazon,USA,Seattle,47.61,-122.33,known
+7561-stellenbosch-university,ZAF,Stellenbosch,-33.93,18.86,name
+7583-southern-african-development-community,BWA,Gaborone,-24.65,25.91,known
+7591-association-of-african-central-banks,SEN,Dakar,14.72,-17.47,known
+7600-bnb,,,,,
+7616-food-and-agriculture-organization-of-the-united-nations,ITA,Rome,41.90,12.50,known
+7654-united-states,USA,,,,atlas
+7669-consensus-economics,GBR,London,51.51,-0.13,known
+7698-australian-treasury,AUS,Canberra,-35.28,149.13,name
+7790-belgian-financial-forum,BEL,Brussels,50.85,4.35,name
+7802-mckinsey-company,USA,New York,40.71,-74.01,known
+7808-eu-council,BEL,Brussels,50.85,4.35,known
+7812-kof-swiss-economic-institute,CHE,Zurich,47.38,8.54,name
+7872-financial-stability-committee,,,,,
+7882-national-assembly,,,,,
+7887-institute-of-financial-services,,,,,
+7888-ceda,,,,,
+7903-escb,DEU,Frankfurt,50.11,8.68,known
+7906-chamber-of-thrift-banks,PHL,Manila,14.60,120.98,known
+7908-foreign-exchange-dealers-association-of-india,IND,Mumbai,19.08,72.88,atlas
+7937-chatham-house,GBR,London,51.51,-0.13,known
+7943-federal-financial-supervisory-authority,DEU,Bonn,50.74,7.10,known
+7968-industrial-and-commercial-bank-of-china,CHN,Beijing,39.90,116.41,atlas
+7979-assocham,IND,New Delhi,28.61,77.21,known
+8001-national-association-of-insurance-commissioners,USA,Kansas City,39.10,-94.58,known
+8047-instituto-nacional-de-estadistica,,,,,
+8072-new-york-association-for-business-economics,USA,New York,40.71,-74.01,name
+8077-barclays,GBR,London,51.51,-0.13,known
+8085-united-nations-high-commissioner-for-refugees,CHE,Geneva,46.20,6.14,known
+8109-university-of-valencia,ESP,Valencia,39.47,-0.38,name
+8156-china-banking-regulatory-commission,CHN,Beijing,39.90,116.41,atlas
+8193-universita-cattolica-del-sacro-cuore,ITA,Milan,45.46,9.19,known
+8228-banking-codes-and-standards-board-of-india,IND,Mumbai,19.08,72.88,atlas
+8229-ecofin,BEL,Brussels,50.85,4.35,known
+8230-university-of-international-business-and-economics,CHN,Beijing,39.90,116.41,known
+8292-sec,USA,Washington,38.91,-77.04,known
+8302-east-african-community,TZA,Arusha,-3.39,36.68,known
+8342-g-7,,,,,
+8350-statistics-new-zealand,NZL,Wellington,-41.29,174.78,atlas
+8371-university-of-antwerp,BEL,Antwerp,51.22,4.40,name
+8382-the-fletcher-school,USA,Medford,42.42,-71.11,known
+8473-netspar,NLD,Tilburg,51.56,5.09,known
+8498-instituto-tecnologico-autonomo-de-mexico,MEX,Mexico City,19.43,-99.13,atlas
+8521-universidade-nova-de-lisboa,PRT,Lisbon,38.72,-9.14,name
+8531-committee-on-financial-services-us-house-of-representatives,USA,Washington,38.91,-77.04,name
+8547-university-of-kent,GBR,Canterbury,51.28,1.08,known
+8559-wharton-financial-institutions-center,USA,Philadelphia,39.95,-75.17,known
+8562-new-york-university-school-of-law,USA,New York,40.71,-74.01,name
+8615-bank-administration-institute,USA,Chicago,41.88,-87.63,known
+8630-u-s-international-trade-commission,USA,Washington,38.91,-77.04,name
+8688-hec-lausanne,CHE,Lausanne,46.52,6.63,name
+8809-birkbeck-university-of-london,GBR,London,51.51,-0.13,name
+8851-universita-di-bologna,ITA,Bologna,44.49,11.34,name
+8858-lmu-munich,DEU,Munich,48.14,11.58,name
+8873-university-of-illinois-chicago,USA,Chicago,41.88,-87.63,name
+8880-nuffield-college-university-of-oxford,GBR,Oxford,51.75,-1.26,name
+8883-university-of-gottingen,DEU,Göttingen,51.54,9.92,name
+8935-financial-markets-group,,,,,
+8974-warsaw-school-of-economics,POL,Warsaw,52.23,21.01,name
+9050-pomona-college,USA,Claremont,34.10,-117.72,known
+9051-ecb-lamfalussy-fellowship-programme,DEU,Frankfurt,50.11,8.68,known
+9128-bates-college,USA,Lewiston,44.10,-70.21,known
+9147-auburn-university,USA,Auburn,32.61,-85.48,name
+9151-universidad-adolfo-ibanez,CHL,Santiago,-33.45,-70.67,known
+9168-fisher-college-of-business-ohio-state-university,USA,Columbus,39.96,-83.00,known
+9196-institute-of-social-and-economic-research-osaka-university,JPN,Osaka,34.69,135.50,name
+9220-fletcher-school-tufts-university,USA,Medford,42.42,-71.11,known
+9226-paul-merage-school-of-business,USA,Irvine,33.68,-117.83,known
+9233-institute-for-research-on-poverty,USA,Madison,43.07,-89.40,known
+9240-mccombs-school-of-business,USA,Austin,30.27,-97.74,known
+9324-the-fletcher-school-of-law-and-diplomacy,USA,Medford,42.42,-71.11,known
+9326-economic-policy-global-department,USA,Washington,38.91,-77.04,known
+9364-climate-change-group,,,,,
+9387-east-asia-and-the-pacific-region-office-of-the-chief,USA,Washington,38.91,-77.04,known
+9404-heinz-college-carnegie-mellon-university,USA,Pittsburgh,40.44,-80.00,known
+9447-anderson-school-of-management-university-of-california-los,USA,Los Angeles,34.05,-118.24,name
+9457-washington-state-university,USA,Pullman,46.73,-117.18,known
+9469-university-of-peradeniya,LKA,Peradeniya,7.26,80.60,name
+9524-inra,FRA,Paris,48.86,2.35,known
+9574-anderson-school-of-management-at-ucla,USA,Los Angeles,34.05,-118.24,known
+9584-department-of-economics-university-of-british-columbia,CAN,Vancouver,49.28,-123.12,known
+9595-monetary-and-fiscal-policy-division,,,,,
+9601-ross-school-of-business,USA,Ann Arbor,42.28,-83.74,known
+9629-national-center-for-health-statistics,USA,Hyattsville,38.96,-76.95,known
+9646-financial-systems-department,,,,,
+9653-global-facility-for-disaster-reduction-and-recovery-unit,USA,Washington,38.91,-77.04,known
+9722-governance-regulation-and-finance-division,,,,,
+9740-private-sector-development-department,,,,,
+9786-infrastructure-and-urban-development-department,,,,,
+9789-department-of-health-policy-and-management,,,,,
+9810-department-of-economics-university-of-pennsylvania,USA,Philadelphia,39.95,-75.17,known
+9855-institute-of-world-economics-and-politics,CHN,Beijing,39.90,116.41,known
+9890-institute-for-policy-analysis,,,,,
+9899-graduate-school-of-business-the-university-of-chicago,USA,Chicago,41.88,-87.63,name
+9900-h-john-heinz-iii-school-of-public-policy-and-management,USA,Pittsburgh,40.44,-80.00,known
+9916-center-for-advanced-study-in-the-behavioral-sciences,USA,Stanford,37.43,-122.17,known
+9933-cowles-foundation-for-research-in-economics,USA,New Haven,41.31,-72.92,known
+7409-economic-and-financial-committee,BEL,Brussels,50.85,4.35,known
+7421-brookings,USA,Washington,38.91,-77.04,known
+7439-association-for-financial-markets-in-europe,GBR,London,51.51,-0.13,known
+7472-ministry-of-finance-planning-and-economic-development,,,,,
+7484-rotary-club-of-manila,PHL,Manila,14.60,120.98,name
+7490-cnmv,ESP,Madrid,40.42,-3.70,known
+7548-amf,,,,,
+7595-bank-al-maghrib-central-bank-of-morocco,MAR,Rabat,34.02,-6.84,atlas
+7624-association-of-supervisors-of-banks-of-the-americas,MEX,Mexico City,19.43,-99.13,known
+7638-blackrock,USA,New York,40.71,-74.01,known
+7670-lafayette-college,USA,Easton,40.69,-75.22,known
+7681-atlanta-fed,USA,Atlanta,33.75,-84.39,name
+7685-deutsche-bundesbank-european-central-bank,,,,,
+7692-the-clearing-house,USA,New York,40.71,-74.01,known
+7696-university-of-london,GBR,London,51.51,-0.13,name
+7724-j-p-morgan,USA,New York,40.71,-74.01,known
+7725-us-fed,USA,Washington,38.91,-77.04,name
+7726-nabard,IND,Mumbai,19.08,72.88,known
+7745-queensland-university-of-technology,AUS,Brisbane,-27.47,153.03,known
+7753-association-of-banks-in-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+7758-canadian-association-for-business-economics,CAN,,,,name
+7763-international-islamic-liquidity-management-corporation,MYS,Kuala Lumpur,3.14,101.69,known
+7796-de-la-rue,GBR,Basingstoke,51.27,-1.09,known
+7843-asifma,HKG,Hong Kong,22.32,114.17,known
+7847-mauritius-bankers-association,MUS,Port Louis,-20.16,57.50,atlas
+7865-insurance-commission,,,,,
+7879-deutsche-borse,DEU,Frankfurt,50.11,8.68,known
+7890-american-chamber-of-commerce,,,,,
+7932-indian-statistical-institute,IND,Kolkata,22.57,88.36,name
+7934-international-economic-association,,,,,
+7945-board-of-directors,,,,,
+7962-transunion,USA,Chicago,41.88,-87.63,known
+7964-ministry-of-economy-and-finance,,,,,
+8007-university-of-zaragoza,ESP,Zaragoza,41.65,-0.89,name
+8128-reuters,GBR,London,51.51,-0.13,known
+8133-african-economic-research-consortium,KEN,Nairobi,-1.29,36.82,known
+8173-suddeutsche-zeitung,DEU,Munich,48.14,11.58,known
+8187-australian-securities-and-investments-commission,AUS,,,,name
+8191-cfs,,,,,
+8195-u-s-department-of-justice,USA,Washington,38.91,-77.04,name
+8204-ministry-of-economy-trade-and-industry,JPN,Tokyo,35.68,139.69,known
+8234-turkstat,TUR,Ankara,39.93,32.86,known
+8239-university-of-south-florida,USA,Tampa,27.95,-82.46,known
+8254-collegio-carlo-alberto,ITA,Turin,45.07,7.69,known
+8258-group-of-governors-and-heads-of-supervision,CHE,Basel,47.56,7.59,known
+8266-idrbt,IND,Hyderabad,17.39,78.49,known
+8330-national-institute-of-economic-research,,,,,
+8360-caribbean-centre-for-money-and-finance,TTO,,,,known
+8393-nordea,FIN,Helsinki,60.17,24.94,known
+8423-graduate-institute-of-international-and-development-studies,CHE,Geneva,46.20,6.14,known
+8424-consultative-group-to-assist-the-poor,USA,Washington,38.91,-77.04,known
+8429-deakin-university,AUS,,,,known
+8464-banking-supervision-committee,,,,,
+8470-robert-h-smith-school-of-business,USA,College Park,38.98,-76.94,known
+8476-norwegian-school-of-economics-and-business-administration,NOR,Bergen,60.39,5.32,name
+8501-national-institute-of-public-finance-and-policy,IND,New Delhi,28.61,77.21,known
+8511-neighborworks-america,USA,Washington,38.91,-77.04,atlas
+8516-pimco,USA,Newport Beach,33.62,-117.93,known
+8529-bank-van-de-nederlandse-antillen,CUW,Willemstad,12.11,-68.93,known
+8551-federal-housing-finance-agency,USA,Washington,38.91,-77.04,known
+8623-humboldt-university-berlin,DEU,Berlin,52.52,13.40,name
+8664-committee-on-banking-and-financial-services,USA,Washington,38.91,-77.04,known
+8669-board-of-the-us-federal-reserve-system,USA,Washington,38.91,-77.04,name
+8709-stanford-gsb,USA,Stanford,37.43,-122.17,known
+8721-university-of-hamburg,DEU,Hamburg,53.55,9.99,name
+8750-survey-of-professional-forecasters,,,,,
+8765-federal-reserve-bank-of-boston-research-department,USA,Boston,42.36,-71.06,name
+8786-university-of-luxembourg,LUX,Luxembourg,49.61,6.13,atlas
+8787-johannes-kepler-university-linz,AUT,Linz,48.31,14.29,name
+8800-universitat-de-barcelona,ESP,Barcelona,41.39,2.17,name
+8826-universidad-complutense-de-madrid,ESP,Madrid,40.42,-3.70,name
+8881-hanyang-university,KOR,Seoul,37.57,126.98,known
+8893-oklahoma-state-university,USA,Stillwater,36.12,-97.06,known
+8895-universidad-di-tella,ARG,Buenos Aires,-34.60,-58.38,known
+8921-sogang-university,KOR,Seoul,37.57,126.98,known
+8928-athens-university-of-economics-and-business,GRC,Athens,37.98,23.73,name
+8938-university-of-reading,GBR,Reading,51.45,-0.97,name
+8961-cuny-graduate-center,USA,New York,40.71,-74.01,name
+8981-kent-state-university,USA,Kent,41.15,-81.36,known
+8994-university-at-albany-suny,USA,Albany,42.65,-73.75,name
+9015-board-of-governors-federal-reserve-system,USA,Washington,38.91,-77.04,name
+9101-institute-of-government-and-public-affairs,,,,,
+9132-university-of-haifa,ISR,Haifa,32.79,34.99,name
+9171-survey-research-center,,,,,
+9189-university-of-hawaii-at-manoa,USA,Honolulu,21.31,-157.86,known
+9302-treasurer-s-department,,,,,
+9307-centre-for-the-study-of-african-economies,GBR,Oxford,51.75,-1.26,known
+9314-institute-for-international-economic-studies-stockholm,SWE,Stockholm,59.33,18.07,name
+9315-asian-department,USA,Washington,38.91,-77.04,known
+9355-unhcr,CHE,Geneva,46.20,6.14,known
+9365-bangladesh-bureau-of-statistics,BGD,Dhaka,23.81,90.41,atlas
+9371-ifpri,USA,Washington,38.91,-77.04,known
+9378-human-development-global-practice,USA,Washington,38.91,-77.04,known
+9385-unicef,USA,New York,40.71,-74.01,known
+9451-microsoft-research,USA,Redmond,47.67,-122.12,known
+9487-impact-evaluation-team,,,,,
+9553-department-of-economics-boston-college,USA,Boston,42.36,-71.06,name
+9566-urban-and-disaster-risk-management-department,,,,,
+9568-financial-and-private-sector-development,,,,,
+9576-north-carolina-education-research-data-center,USA,Durham,35.99,-78.90,known
+9579-poverty-reduction-and-economic-management,USA,Washington,38.91,-77.04,known
+9582-gender-and-development-unit,,,,,
+9589-finance-economics-and-urban-development-department,USA,Washington,38.91,-77.04,known
+9602-social-development-department,,,,,
+9612-the-world-bank-development-research-group-environment-and,USA,Washington,38.91,-77.04,known
+9626-human-development-network-education-team,USA,Washington,38.91,-77.04,known
+9656-darden-school-of-business,USA,Charlottesville,38.03,-78.48,known
+9661-the-world-bank-development-research-group-trade-team,USA,Washington,38.91,-77.04,known
+9678-cifar,CAN,Toronto,43.65,-79.38,known
+9687-food-and-drug-administration,USA,Silver Spring,38.99,-77.03,known
+9689-world-bank-operations-evaluation-department,USA,Washington,38.91,-77.04,known
+9703-rider-university,USA,Lawrenceville,40.30,-74.73,known
+9704-financial-sector-operations-and-policy-department,,,,,
+9708-economic-policy-sector-unit,,,,,
+9721-all-souls-college,GBR,Oxford,51.75,-1.26,known
+9800-industry-and-energy-department,,,,,
+9816-queens-college-cuny,USA,New York,40.71,-74.01,name
+9866-national-institute-on-alcohol-abuse-and-alcoholism,USA,Bethesda,38.98,-77.10,known
+9875-institut-d-economie-industrielle,FRA,Toulouse,43.60,1.44,known
+9895-harvard-society-of-fellows,USA,Cambridge,42.37,-71.11,known
+9905-american-bar-foundation,USA,Chicago,41.88,-87.63,known
+9913-crest-insee,FRA,,,,known
+9925-school-of-management-boston-university,USA,Boston,42.36,-71.06,name
+9936-alfred-p-sloan-school-of-management,USA,Cambridge,42.37,-71.11,known
+9938-sloan-school-of-management-m-i-t,USA,Cambridge,42.37,-71.11,known
+7265-bnm,MYS,Kuala Lumpur,3.14,101.69,known
+7290-cnb,,,,,
+7291-bcra,ARG,Buenos Aires,-34.60,-58.38,known
+7305-eib,LUX,Luxembourg,49.61,6.13,known
+7327-oenb,AUT,Vienna,48.21,16.37,known
+7361-centre-for-european-reform,GBR,London,51.51,-0.13,known
+7375-federal-financial-institutions-examination-council,USA,,,,known
+7429-hellenic-financial-stability-fund,GRC,Athens,37.98,23.73,name
+7435-eurofi,FRA,Paris,48.86,2.35,known
+7508-kfw,DEU,Frankfurt,50.11,8.68,known
+7515-bankers-association-of-zambia,ZMB,Lusaka,-15.39,28.32,atlas
+7521-abs,,,,,
+7541-foreign-policy-association,USA,New York,40.71,-74.01,known
+7560-cardiff-business-school,GBR,Cardiff,51.48,-3.18,name
+7569-cfa-institute,USA,Charlottesville,38.03,-78.48,known
+7578-european-court-of-auditors,LUX,Luxembourg,49.61,6.13,known
+7598-suomen-pankki,FIN,Helsinki,60.17,24.94,name
+7609-ministry-of-health,,,,,
+7619-hong-kong-mortgage-corporation,HKG,Hong Kong,22.32,114.17,atlas
+7627-world-trade-organisation,CHE,Geneva,46.20,6.14,known
+7632-small-business-administration,USA,Washington,38.91,-77.04,known
+7646-amundi,FRA,Paris,48.86,2.35,known
+7660-department-of-labor,,,,,
+7663-centre-for-monetary-economics,,,,,
+7668-pace-university,USA,New York,40.71,-74.01,known
+7677-ministry-of-justice,,,,,
+7680-faculty-of-economics,,,,,
+7686-society-of-professional-economists,GBR,London,51.51,-0.13,known
+7695-deloitte,,,,,
+7712-bank-for-international-settlement,CHE,Basel,47.56,7.59,known
+7729-united-nations-development-program,USA,New York,40.71,-74.01,known
+7736-council-of-financial-regulators,AUS,,,,known
+7784-financial-stability-coordination-council,,,,,
+7788-department-of-justice,,,,,
+7841-economic-society-of-australia,AUS,,,,atlas
+7845-halle-institute-for-economic-research-iwh,DEU,Halle,51.48,11.97,known
+7846-iese,ESP,Barcelona,41.39,2.17,known
+7902-bank-of-algeria,DZA,Algiers,36.75,3.06,atlas
+7916-new-york-stock-exchange,USA,New York,40.71,-74.01,name
+7922-china-securities-regulatory-commission,CHN,Beijing,39.90,116.41,atlas
+7986-microfinance-council-of-the-philippines,PHL,,,,atlas
+7997-commission-executive-vice-president,,,,,
+8025-finex,PHL,,,,known
+8028-afi,MYS,Kuala Lumpur,3.14,101.69,known
+8035-autorite-des-marches-financiers,FRA,Paris,48.86,2.35,known
+8057-statistics-south-africa,ZAF,Pretoria,-25.75,28.19,atlas
+8075-corriere-della-sera,ITA,Milan,45.46,9.19,known
+8076-equifax,USA,Atlanta,33.75,-84.39,known
+8087-moody-s-investors-service,USA,New York,40.71,-74.01,known
+8088-university-of-helsinki,FIN,Helsinki,60.17,24.94,name
+8126-hong-kong-institute-for-monetary-research,HKG,Hong Kong,22.32,114.17,atlas
+8141-ernst-young,GBR,London,51.51,-0.13,known
+8145-bank-policy-institute,USA,Washington,38.91,-77.04,known
+8150-euro-retail-payments-board,DEU,Frankfurt,50.11,8.68,known
+8242-parliament,,,,,
+8260-swedish-bankers-association,SWE,Stockholm,59.33,18.07,name
+8267-international-organisation-of-securities-commissions,ESP,Madrid,40.42,-3.70,known
+8297-il-sole-24-ore,ITA,Milan,45.46,9.19,known
+8298-u-s-department-of-treasury,USA,Washington,38.91,-77.04,name
+8304-federal-statistical-office,,,,,
+8344-indian-council-for-research-on-international-economic,IND,New Delhi,28.61,77.21,name
+8369-joseph-l-rotman-school-of-management,CAN,Toronto,43.65,-79.38,known
+8394-european-school-of-management-and-technology,DEU,Berlin,52.52,13.40,known
+8435-trinity-college,,,,,
+8443-saudi-arabian-monetary-agency-sama,SAU,Riyadh,24.71,46.68,name
+8457-swiss-american-chamber-of-commerce,CHE,,,,name
+8493-halle-institute-for-economic-research,DEU,Halle,51.48,11.97,name
+8566-east-carolina-university,USA,Greenville,35.61,-77.37,known
+8645-olin-school-of-business,USA,St. Louis,38.63,-90.20,known
+8679-banco-mundial,USA,Washington,38.91,-77.04,known
+8689-university-of-british-columbia-sauder-school-of-business,CAN,Vancouver,49.28,-123.12,known
+8718-universidad-de-montevideo,URY,Montevideo,-34.90,-56.16,name
+8723-chinese-university-of-hong-kong-shenzhen,CHN,Shenzhen,22.54,114.06,fixed
+8761-universidad-pablo-de-olavide,ESP,Seville,37.39,-5.98,known
+8769-cama,AUS,Canberra,-35.28,149.13,known
+8821-cnrs,FRA,Paris,48.86,2.35,known
+8838-research-and-statistics-department,,,,,
+8870-maxwell-school-of-citizenship-and-public-affairs,USA,Syracuse,43.05,-76.15,known
+8896-university-of-bayreuth,DEU,Bayreuth,49.95,11.58,name
+8901-fundacao-getulio-vargas,BRA,Rio de Janeiro,-22.91,-43.17,known
+8909-universite-du-quebec-a-montreal,CAN,Montréal,45.50,-73.57,name
+8911-university-of-heidelberg,DEU,Heidelberg,49.40,8.67,name
+8913-university-of-hawaii,USA,Honolulu,21.31,-157.86,known
+8917-temi-di-discussione-working-papers,ITA,Rome,41.90,12.50,known
+8930-research-division,,,,,
+8931-american-university-of-sharjah,ARE,Sharjah,25.35,55.42,name
+8941-university-of-michigan-law-school,USA,Ann Arbor,42.28,-83.74,known
+8944-tepper-school-of-business-carnegie-mellon-university,USA,Pittsburgh,40.44,-80.00,known
+8960-hunter-college,USA,New York,40.71,-74.01,known
+8996-new-england-public-policy-center,USA,Boston,42.36,-71.06,fixed
+9009-cheung-kong-graduate-school-of-business,CHN,Beijing,39.90,116.41,known
+9119-university-of-arkansas,USA,Fayetteville,36.06,-94.16,known
+9138-dalhousie-university,CAN,Halifax,44.65,-63.58,known
+9145-university-of-mississippi,USA,Oxford,34.37,-89.52,known
+9152-university-of-leicester,GBR,Leicester,52.64,-1.13,name
+9154-aqr-capital-management,USA,Greenwich,41.03,-73.63,known
+9155-university-of-aberdeen-business-school,GBR,Aberdeen,57.15,-2.09,name
+9187-ecb-cfs-research-network-on-capital-markets-and-financial,DEU,Frankfurt,50.11,8.68,known
+9190-institut-national-de-la-statistique-et-des-etudes,FRA,Paris,48.86,2.35,known
+9203-u-c-berkeley,USA,Berkeley,37.87,-122.27,name
+9207-rutgers-business-school,USA,New Brunswick,40.49,-74.45,known
+9216-servicio-de-estudios,,,,,
+9248-social-sciences-and-humanities-research-council-of-canada,CAN,Ottawa,45.42,-75.70,atlas
+9250-department-of-economics-johns-hopkins-university,USA,Baltimore,39.29,-76.61,known
+9279-southwestern-university-of-finance-and-economics,CHN,Chengdu,30.57,104.07,known
+9283-university-of-sao-paulo,BRA,São Paulo,-23.55,-46.63,name
+9321-warwick-university,GBR,Coventry,52.41,-1.51,known
+9344-unu-merit,NLD,Maastricht,50.85,5.69,known
+9398-kdi-school-of-public-policy-and-management,KOR,Sejong,36.48,127.29,known
+9411-simon-graduate-school-of-business,USA,Rochester,43.16,-77.61,known
+9429-transport-and-digital-development-global-practice,USA,Washington,38.91,-77.04,known
+9439-kelley-school-of-business,USA,Bloomington,39.17,-86.53,known
+9462-cired,FRA,,,,known
+9468-social-urban-rural-and-resilience-global-practice,USA,Washington,38.91,-77.04,known
+9508-transport-and-ict-global-practice-group,USA,Washington,38.91,-77.04,known
+9526-norwegian-university-of-life-sciences,NOR,Ås,59.66,10.79,name
+9538-university-of-minnesota-department-of-economics,USA,Minneapolis,44.98,-93.27,known
+9572-poverty-reduction-and-equity-unit,USA,Washington,38.91,-77.04,known
+9581-boston-university-department-of-economics,USA,Boston,42.36,-71.06,name
+9614-the-world-bank-development-research-group-trade-and,USA,Washington,38.91,-77.04,known
+9617-africa-region-sustainable-development-unit,USA,Washington,38.91,-77.04,known
+9620-financial-and-private-sector-development-vice-presidency,USA,Washington,38.91,-77.04,known
+9648-development-dialogue-on-values-and-ethics,USA,Washington,38.91,-77.04,known
+9682-development-economics-research-group,USA,Washington,38.91,-77.04,known
+9688-analysis-group,USA,Boston,42.36,-71.06,known
+9691-school-of-business-administration,,,,,
+9696-rti-international,USA,Research Triangle Park,35.90,-78.86,known
+9697-office-of-tax-analysis,USA,Washington,38.91,-77.04,known
+9754-commodity-policy-and-analysis-unit,,,,,
+9764-afl-cio,USA,Washington,38.91,-77.04,known
+9773-transport-division,,,,,
+9822-rutgers-the-state-university-of-new-jersey,USA,New Brunswick,40.49,-74.45,fixed
+9824-center-for-retirement-research-at-boston-college,USA,Boston,42.36,-71.06,name
+9830-northwestern-university-school-of-education-and-social,USA,Evanston,42.05,-87.69,known
+9859-gallup-organization,USA,Washington,38.91,-77.04,known
+9881-university-of-california-energy-institute,USA,Berkeley,37.87,-122.27,known
+9901-department-of-health-and-human-services,USA,Washington,38.91,-77.04,known
+9914-graduate-school-of-business-administration,,,,,
+9932-department-of-economics-m-i-t,USA,Cambridge,42.37,-71.11,known
+9940-bell-communications-research,USA,,,,known
+9957-urban-disaster-risk-management-resilience-and-land-global,USA,Washington,38.91,-77.04,known
+7419-nbu,UKR,Kyiv,50.45,30.52,known
+7431-japanese-chamber-of-commerce,,,,,
+7460-norges-bank-watch,NOR,,,,name
+7462-management-association-of-the-philippines,PHL,,,,atlas
+7501-delhi-school-of-economics,IND,Delhi,28.69,77.21,name
+7507-institute-for-employment-research,,,,,
+7522-kansas-city-fed,USA,Kansas City,39.10,-94.58,name
+7527-italian-ministry-of-economy-and-finance,ITA,Rome,41.90,12.50,name
+7529-council,,,,,
+7556-organization-for-economic-co-operation-and-development,FRA,Paris,48.86,2.35,known
+7567-senate,,,,,
+7590-inceif,MYS,Kuala Lumpur,3.14,101.69,known
+7597-japan-international-cooperation-agency,JPN,Tokyo,35.68,139.69,atlas
+7621-swedish-economic-association,SWE,,,,name
+7625-asean-3-macroeconomic-research-office,SGP,Singapore,1.29,103.85,known
+7635-banking-supervision-department,,,,,
+7639-cii,,,,,
+7649-joint-committee-on-climate-change,,,,,
+7666-government-of-canada,CAN,Ottawa,45.42,-75.70,atlas
+7674-board-of-the-central-bank-of-chile,CHL,Santiago,-33.45,-70.67,atlas
+7675-maldives-monetary-authority,MDV,Malé,4.18,73.51,atlas
+7694-asian-infrastructure-investment-bank,CHN,Beijing,39.90,116.41,known
+7717-u-s-securities-and-exchange-commission,USA,Washington,38.91,-77.04,name
+7743-financial-intelligence-unit,,,,,
+7770-sadc,BWA,Gaborone,-24.65,25.91,known
+7777-nomura,JPN,Tokyo,35.68,139.69,known
+7785-world-federation-of-exchanges,GBR,London,51.51,-0.13,known
+7799-centre-for-advanced-financial-research-and-learning,IND,Mumbai,19.08,72.88,known
+7800-mpc,,,,,
+7801-bursa-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+7832-expansion,ESP,Madrid,40.42,-3.70,known
+7834-bnp-paribas,FRA,Paris,48.86,2.35,known
+7855-naigai-josei-chosa-kai,JPN,Tokyo,35.68,139.69,known
+7857-u-s-congress,USA,Washington,38.91,-77.04,name
+7862-center-for-latin-american-monetary-studies,MEX,Mexico City,19.43,-99.13,known
+7864-senate-s-finance-commission,,,,,
+7869-national-community-reinvestment-coalition,USA,Washington,38.91,-77.04,known
+7915-johannesburg-stock-exchange,ZAF,Johannesburg,-26.20,28.05,name
+7921-bank-of-america,USA,Charlotte,35.23,-80.84,atlas
+7924-university-of-naples-federico-ii,ITA,Naples,40.85,14.27,name
+7942-philippine-payments-management-inc,PHL,,,,name
+7972-association-of-british-insurers,GBR,London,51.51,-0.13,name
+8032-university-of-piraeus,GRC,Piraeus,37.94,23.65,name
+8036-bank-marketing-association-of-the-philippines,PHL,,,,atlas
+8050-securities-industry-and-financial-markets-association,USA,New York,40.71,-74.01,known
+8060-eurofi-financial-forum,FRA,Paris,48.86,2.35,known
+8063-ministry-of-manpower,,,,,
+8067-opec,AUT,Vienna,48.21,16.37,known
+8070-house-of-councillors,JPN,Tokyo,35.68,139.69,known
+8086-les-echos,FRA,Paris,48.86,2.35,known
+8105-handelsblatt,DEU,Düsseldorf,51.23,6.77,known
+8112-econometric-society,,,,,
+8157-accounting-and-auditing-organization-for-islamic-financial,BHR,Manama,26.23,50.59,known
+8170-japan-society-of-monetary-economics,JPN,Tokyo,35.68,139.69,atlas
+8186-world-bank-treasury,USA,Washington,38.91,-77.04,known
+8206-association-of-islamic-banking-institutions-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+8209-rural-bankers-association-of-the-philippines,PHL,,,,atlas
+8212-asian-institute-of-finance,MYS,Kuala Lumpur,3.14,101.69,known
+8244-bank-of-slovenia,SVN,Ljubljana,46.06,14.51,atlas
+8261-brac,BGD,Dhaka,23.81,90.41,known
+8268-national-financial-inclusion-taskforce,,,,,
+8282-asia-society,USA,New York,40.71,-74.01,known
+8285-ifsb,MYS,Kuala Lumpur,3.14,101.69,known
+8286-uganda-bureau-of-statistics,UGA,Kampala,0.35,32.58,atlas
+8331-senior-supervisors-group,,,,,
+8346-anz,AUS,Melbourne,-37.81,144.96,known
+8352-institute-of-internal-auditors,,,,,
+8357-indian-merchants-chamber,IND,Mumbai,19.08,72.88,name
+8372-queens-college,,,,,
+8377-institute-of-bankers-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+8378-globalization-and-monetary-policy-institute,USA,Dallas,32.78,-96.80,known
+8380-international-islamic-financial-market,BHR,Manama,26.23,50.59,known
+8412-humboldt-university,DEU,Berlin,52.52,13.40,known
+8415-central-statistical-office,,,,,
+8436-british-chamber-of-commerce,,,,,
+8448-bank-of-albania-supervisory-council,ALB,Tirana,41.33,19.82,atlas
+8458-committee-on-the-budget-us-house-of-representatives,USA,Washington,38.91,-77.04,name
+8472-stockholm-chamber-of-commerce,SWE,Stockholm,59.33,18.07,name
+8482-bcl,LUX,Luxembourg,49.61,6.13,known
+8497-banking-regulation-and-supervision-agency,TUR,Ankara,39.93,32.86,known
+8510-brookings-panel-on-economic-activity,USA,Washington,38.91,-77.04,known
+8515-bank-of-mozambique,MOZ,Maputo,-25.97,32.57,atlas
+8519-jpmorgan-chase,USA,New York,40.71,-74.01,known
+8538-escb-banking-supervision-committee,DEU,Frankfurt,50.11,8.68,known
+8575-group-of-ten,,,,,
+8581-unu-wider,FIN,Helsinki,60.17,24.94,known
+8617-woodrow-wilson-school-of-public-and-international-affairs,USA,Princeton,40.35,-74.66,known
+8638-barclays-capital,GBR,London,51.51,-0.13,known
+8643-norwegian-university-of-science-and-technology,NOR,Trondheim,63.43,10.40,name
+8652-new-zealand-treasury,NZL,Wellington,-41.29,174.78,atlas
+8654-basle-committee,CHE,Basel,47.56,7.59,name
+8660-joint-year-2000-council,,,,,
+8662-committee-on-banking-and-financial-services-of-the-us-house,USA,Washington,38.91,-77.04,name
+8671-melbourne-institute-of-applied-economic-and-social-research,AUS,Melbourne,-37.81,144.96,name
+8676-erasmus-university,NLD,Rotterdam,51.92,4.48,known
+8677-inter-agency-group-on-economic-and-financial-statistics,,,,,
+8766-university-of-regensburg,DEU,Regensburg,49.01,12.10,name
+8783-social-sciences-and-humanities-research-council,CAN,Ottawa,45.42,-75.70,known
+8788-academia-sinica,TWN,Taipei,25.03,121.57,known
+8789-national-tsing-hua-university,TWN,Hsinchu,24.80,120.97,known
+8790-sabanci-university,TUR,Istanbul,41.01,28.98,known
+8807-university-of-cagliari,ITA,Cagliari,39.22,9.11,name
+8832-statec,LUX,Luxembourg,49.61,6.13,known
+8833-geneva-graduate-institute,CHE,Geneva,46.20,6.14,name
+8855-marquette-university,USA,Milwaukee,43.04,-87.91,known
+8860-university-of-bergen,NOR,Bergen,60.39,5.32,name
+8918-heidelberg-university,DEU,Heidelberg,49.40,8.67,name
+8919-hoover-institution-stanford-university,USA,Stanford,37.43,-122.17,name
+8943-birkbeck-college-university-of-london,GBR,London,51.51,-0.13,name
+8946-carnegie-mellon-university-tepper-school-of-business,USA,Pittsburgh,40.44,-80.00,known
+8948-international-institute-for-applied-systems-analysis,AUT,Laxenburg,48.07,16.36,known
+8953-college-de-france,FRA,Paris,48.86,2.35,atlas
+8964-university-of-trento,ITA,Trento,46.07,11.12,name
+8989-saint-louis-university,USA,St. Louis,38.63,-90.20,name
+9018-smith-college,USA,Northampton,42.33,-72.64,known
+9025-london-metropolitan-university,GBR,London,51.51,-0.13,name
+9031-wesleyan-university,USA,Middletown,41.56,-72.65,known
+9047-k-u-leuven,BEL,Leuven,50.88,4.70,name
+9077-department-of-economics-university-of-wisconsin,USA,Madison,43.07,-89.40,known
+9099-university-of-padova,ITA,Padua,45.41,11.88,name
+9110-school-of-management,,,,,
+9123-upf,ESP,Barcelona,41.39,2.17,known
+9124-cowles-foundation-yale-university,USA,New Haven,41.31,-72.92,known
+9127-the-hong-kong-polytechnic-university,HKG,Hong Kong,22.32,114.17,atlas
+9139-university-of-california-berkeley-haas-school-of-business,USA,Berkeley,37.87,-122.27,name
+9142-university-of-bath,GBR,Bath,51.38,-2.36,name
+9166-brandeis-international-business-school,USA,Waltham,42.38,-71.24,known
+9218-smeal-college-of-business,USA,State College,40.79,-77.86,known
+9227-college-board,USA,New York,40.71,-74.01,known
+9228-abt-associates,USA,,,,known
+9260-imf-working-paper-european-department,USA,Washington,38.91,-77.04,known
+9267-institute-for-capacity-development,USA,Washington,38.91,-77.04,known
+9270-imf-asia-and-pacific-department,USA,Washington,38.91,-77.04,known
+9276-imf-western-hemisphere-department,USA,Washington,38.91,-77.04,known
+9294-university-of-chicago-press,USA,Chicago,41.88,-87.63,name
+9337-africa-gender-innovation-lab,USA,Washington,38.91,-77.04,known
+9352-water-global-practice,USA,Washington,38.91,-77.04,known
+9360-agriculture-and-food-global-practice,USA,Washington,38.91,-77.04,known
+9363-equitable-growth-finance-and-institutions-practice-group,USA,Washington,38.91,-77.04,known
+9383-mcdonough-school-of-business-georgetown-university,USA,Washington,38.91,-77.04,known
+9384-office-of-the-chief-economist-east-asia-and-the-pacific,USA,Washington,38.91,-77.04,known
+9386-fragility-conflict-and-violence-global-theme,USA,Washington,38.91,-77.04,known
+9389-world-food-programme,ITA,Rome,41.90,12.50,known
+9390-duke-university-department-of-economics,USA,Durham,35.99,-78.90,known
+9406-university-of-vermont,USA,Burlington,44.48,-73.21,known
+9437-massachusetts-department-of-elementary-and-secondary,USA,,,,known
+9440-department-of-economics-northwestern-university,USA,Evanston,42.05,-87.69,known
+9443-ucla-anderson-school,USA,Los Angeles,34.05,-118.24,known
+9490-university-of-california-los-angeles-anderson-school-of,USA,Los Angeles,34.05,-118.24,name
+9496-schar-school-of-policy-and-government,USA,Fairfax,38.85,-77.31,known
+9509-crest-paristech-ensae,FRA,Palaiseau,48.71,2.25,known
+9546-center-for-the-economics-of-human-development,USA,Chicago,41.88,-87.63,known
+9586-institute-for-policy-research,,,,,
+9591-oecd-economics-and-statistics-department,FRA,Paris,48.86,2.35,known
+9594-human-development-economics-unit,,,,,
+9599-department-of-economics-georgetown-university,USA,Washington,38.91,-77.04,known
+9624-department-of-economics-university-of-virginia,USA,Charlottesville,38.03,-78.48,known
+9638-latin-america-and-caribbean-region,USA,Washington,38.91,-77.04,atlas
+9652-foreign-investment-advisory-service,USA,Washington,38.91,-77.04,known
+9663-center-for-policy-research,,,,,
+9669-u-s-department-of-health-and-human-services,USA,Washington,38.91,-77.04,name
+9671-u-k-department-for-international-development,GBR,London,51.51,-0.13,name
+9674-national-institute-of-mental-health,USA,Bethesda,38.98,-77.10,known
+9725-economic-policy-and-poverty-reduction-division,,,,,
+9758-world-bank-policy-research-department,USA,Washington,38.91,-77.04,known
+9763-international-economic-analysis-and-prospects-division,,,,,
+9807-federal-reserve-bank-new-york,USA,New York,40.71,-74.01,name
+9827-the-maxwell-school,USA,Syracuse,43.05,-76.15,known
+9836-national-institute-on-drug-abuse,USA,Bethesda,38.98,-77.10,known
+9840-taubman-center-for-state-and-local-government,USA,Cambridge,42.37,-71.11,known
+9851-the-vanguard-group,USA,Malvern,40.04,-75.51,known
+9869-john-m-olin-center-for-law-economics-and-business-at,USA,Cambridge,42.37,-71.11,known
+9896-terry-sanford-institute-of-public-policy,USA,Durham,35.99,-78.90,known
+9907-national-longitudinal-survey-of-youth,,,,,
+9922-economic-growth-center,USA,New Haven,41.31,-72.92,known
+9944-social-science-research-council,USA,New York,40.71,-74.01,known
+9948-city-university-of-new-york-graduate-school,USA,New York,40.71,-74.01,name
+9953-center-for-economic-analysis-of-human-behavior-and-social,,,,,
+7260-cbi,,,,,
+7300-sbp,,,,,
+7342-national-bank-of-kazakhstan,KAZ,,,,atlas
+7345-luiss-university,ITA,Rome,41.90,12.50,known
+7406-occ,USA,Washington,38.91,-77.04,known
+7415-mastercard,USA,Purchase,41.04,-73.71,known
+7452-national-institute-of-bank-management,IND,Pune,18.52,73.86,known
+7459-serbian-government,SRB,Belgrade,44.79,20.45,name
+7464-boston-fed,USA,Boston,42.36,-71.06,name
+7486-shadow-open-market-committee,USA,,,,known
+7493-governing-board,,,,,
+7499-serbian-statistical-office,SRB,Belgrade,44.79,20.45,name
+7502-european-investment-fund,LUX,Luxembourg,49.61,6.13,known
+7510-asean-3,,,,,
+7545-google,USA,Mountain View,37.39,-122.08,known
+7554-financial-education-network,,,,,
+7557-european-institute-of-the-mediterranean,ESP,Barcelona,41.39,2.17,known
+7565-securities-and-futures-commission,HKG,Hong Kong,22.32,114.17,known
+7585-college-of-europe,BEL,Bruges,51.21,3.22,known
+7588-central-bank-of-samoa,WSM,Apia,-13.83,-171.76,atlas
+7611-association-of-serbian-banks,SRB,Belgrade,44.79,20.45,name
+7617-national-oceanic-and-atmospheric-administration,USA,,,,known
+7655-microfinance-council-of-the-philippines-inc,PHL,,,,atlas
+7671-asia-school-of-business,MYS,Kuala Lumpur,3.14,101.69,known
+7679-comesa,ZMB,Lusaka,-15.39,28.32,known
+7684-reserve-bank-of-zimbabwe,ZWE,Harare,-17.83,31.05,atlas
+7701-acri-association-of-italian-savings-banks,ITA,Rome,41.90,12.50,name
+7708-new-york-times,USA,New York,40.71,-74.01,name
+7718-u-s-commodity-futures-trading-commission,USA,Washington,38.91,-77.04,name
+7721-humboldt-universitat-zu-berlin,DEU,Berlin,52.52,13.40,name
+7731-institute-of-banking-and-finance,,,,,
+7733-malaysian-insurance-institute,MYS,Kuala Lumpur,3.14,101.69,name
+7756-house-of-representatives,,,,,
+7760-uganda-institute-of-banking-and-financial-services,UGA,Kampala,0.35,32.58,atlas
+7772-yomiuri-international-economic-society,JPN,Tokyo,35.68,139.69,known
+7779-ibf,,,,,
+7806-diet,JPN,Tokyo,35.68,139.69,known
+7807-te-putea-matua,NZL,Wellington,-41.29,174.78,known
+7818-uk-finance,GBR,London,51.51,-0.13,name
+7844-euro50-group,,,,,
+7853-icma,,,,,
+7874-german-institute-for-economic-research,DEU,Berlin,52.52,13.40,name
+7893-national-government,,,,,
+7907-sebi,IND,Mumbai,19.08,72.88,known
+7940-bankers-association-of-the-philippines,PHL,Manila,14.60,120.98,atlas
+7948-national-bank-for-agriculture-and-rural-development,IND,Mumbai,19.08,72.88,known
+7949-esri,,,,,
+7950-universita-di-firenze,ITA,Florence,43.77,11.26,name
+7960-national-statistics-institute,,,,,
+7963-trust-officers-association-of-the-philippines,PHL,,,,atlas
+7969-thai-bankers-association,THA,Bangkok,13.76,100.50,name
+7973-parliamentary-budget-committee,,,,,
+7989-state-duma,RUS,Moscow,55.76,37.62,known
+7998-die-zeit,DEU,Hamburg,53.55,9.99,known
+8011-european-fiscal-board,BEL,Brussels,50.85,4.35,known
+8014-mckinsey-global-institute,USA,,,,known
+8045-garp,USA,Jersey City,40.72,-74.08,known
+8052-international-labor-organization,CHE,Geneva,46.20,6.14,known
+8108-pwc,GBR,London,51.51,-0.13,known
+8135-uganda-communications-commission,UGA,Kampala,0.35,32.58,atlas
+8137-national-tax-association,USA,Washington,38.91,-77.04,known
+8144-federal-communications-commission,USA,Washington,38.91,-77.04,known
+8154-independent-commission-on-banking,GBR,London,51.51,-0.13,known
+8155-american-council-of-life-insurers,USA,Washington,38.91,-77.04,known
+8166-solvay-brussels-school-of-economics-and-management,BEL,Brussels,50.85,4.35,name
+8176-university-of-kwazulu-natal,ZAF,Durban,-29.86,31.02,known
+8188-payments-canada,CAN,Ottawa,45.42,-75.70,atlas
+8197-bear-stearns,USA,New York,40.71,-74.01,known
+8201-association-of-professional-bankers,,,,,
+8203-depository-trust-clearing-corporation,USA,New York,40.71,-74.01,known
+8205-cpb-netherlands-bureau-for-economic-policy-analysis,NLD,The Hague,52.08,4.30,atlas
+8211-national-economists-club,,,,,
+8227-u-s-banking-agencies,USA,,,,name
+8269-university-of-navarra,ESP,Pamplona,42.81,-1.64,known
+8276-ie-business-school,ESP,Madrid,40.42,-3.70,known
+8279-standing-committee-on-finance-and-economic-affairs-of-the,NOR,Oslo,59.91,10.75,known
+8291-financial-stability-and-development-council,IND,New Delhi,28.61,77.21,known
+8311-federal-department-of-finance,CHE,Bern,46.95,7.45,known
+8326-japan-national-press-club,JPN,Tokyo,35.68,139.69,atlas
+8337-society-of-business-economists,,,,,
+8362-mefmi,ZWE,Harare,-17.83,31.05,known
+8373-norwegian-savings-banks-association,NOR,,,,name
+8379-european-business-school,,,,,
+8381-indian-overseas-bank,IND,Chennai,13.08,80.27,name
+8387-international-labour-organisation,CHE,Geneva,46.20,6.14,known
+8389-macquarie-bank,AUS,Sydney,-33.87,151.21,known
+8398-mortgage-bankers-association,USA,Washington,38.91,-77.04,known
+8401-institute-of-banking,,,,,
+8439-forex-association-of-india,IND,Mumbai,19.08,72.88,atlas
+8461-planning-commission,,,,,
+8468-american-council-on-germany,USA,New York,40.71,-74.01,fixed
+8477-international-centre-for-leadership-in-finance,MYS,Kuala Lumpur,3.14,101.69,known
+8484-fedea,ESP,Madrid,40.42,-3.70,known
+8489-university-of-liege,BEL,Liège,50.63,5.57,name
+8507-danish-economic-council,DNK,Copenhagen,55.68,12.57,name
+8550-federal-housing-administration,USA,Washington,38.91,-77.04,known
+8557-grameen-bank,BGD,Dhaka,23.81,90.41,known
+8572-university-of-cyprus,CYP,Nicosia,35.19,33.38,atlas
+8586-george-washington-university-school-of-business,USA,Washington,38.91,-77.04,name
+8590-office-of-federal-housing-enterprise-oversight,USA,Washington,38.91,-77.04,known
+8591-federal-national-mortgage-association,USA,Washington,38.91,-77.04,known
+8608-monetary-stability-foundation,,,,,
+8609-irish-financial-services-regulatory-authority,IRL,Dublin,53.35,-6.26,name
+8621-fraser-institute,CAN,Vancouver,49.28,-123.12,known
+8631-kiel-institute-for-world-economics,DEU,Kiel,54.32,10.12,name
+8668-manchester-business-school,GBR,Manchester,53.48,-2.24,name
+8678-euro-currency-standing-committee,CHE,Basel,47.56,7.59,known
+8680-national-institute-of-economic-and-social-research,GBR,London,51.51,-0.13,known
+8696-centro-de-investigacion-y-docencia-economicas,MEX,Mexico City,19.43,-99.13,known
+8710-sauder-school-of-business-university-of-british-columbia,CAN,Vancouver,49.28,-123.12,known
+8716-humboldt-university-of-berlin,DEU,Berlin,52.52,13.40,name
+8729-department-of-economics-university-of-oxford,GBR,Oxford,51.75,-1.26,name
+8731-royal-economic-society,GBR,London,51.51,-0.13,known
+8744-brunel-university,GBR,London,51.51,-0.13,known
+8755-luxembourg-institute-of-socio-economic-research,LUX,Esch-sur-Alzette,49.50,5.98,atlas
+8756-frb-chicago,USA,Chicago,41.88,-87.63,name
+8778-olin-business-school-washington-university-in-st-louis,USA,St. Louis,38.63,-90.20,name
+8813-financial-stability-department-bank-of-canada,CAN,Ottawa,45.42,-75.70,atlas
+8827-banking-and-payments-department,,,,,
+8853-pontifical-catholic-university-of-rio-de-janeiro,BRA,Rio de Janeiro,-22.91,-43.17,name
+8869-technical-university-of-ostrava,CZE,Ostrava,49.82,18.26,name
+8888-university-of-goettingen,DEU,Göttingen,51.54,9.92,name
+8903-wageningen-university,NLD,Wageningen,51.97,5.67,name
+8906-university-of-brasilia,BRA,Brasília,-15.79,-47.88,name
+8922-university-of-southern-denmark,DNK,Odense,55.40,10.39,atlas
+8933-structural-economic-research-department,,,,,
+8956-university-of-milan,ITA,Milan,45.46,9.19,name
+8971-university-of-aarhus,DNK,Aarhus,56.16,10.20,name
+8975-goizueta-business-school,USA,Atlanta,33.75,-84.39,known
+8980-university-of-san-diego,USA,San Diego,32.72,-117.16,name
+8991-katholieke-universiteit-leuven,BEL,Leuven,50.88,4.70,name
+8995-working-paper-series,,,,,
+8997-queen-s-university-belfast,GBR,Belfast,54.60,-5.93,name
+8999-survey-of-consumer-finances,USA,Washington,38.91,-77.04,known
+9004-university-of-texas-at-austin-mccombs-school-of-business,USA,Austin,30.27,-97.74,name
+9005-jinan-university,CHN,Guangzhou,23.13,113.26,known
+9027-california-state-university,USA,,,,known
+9029-university-of-texas-austin,USA,Austin,30.27,-97.74,name
+9033-usc-marshall-school-of-business,USA,Los Angeles,34.05,-118.24,known
+9042-chapman-university,USA,Orange,33.79,-117.85,known
+9049-the-graduate-center-cuny,USA,New York,40.71,-74.01,name
+9058-johns-hopkins-university-carey-business-school,USA,Baltimore,39.29,-76.61,known
+9068-kelley-school-of-business-indiana-university,USA,Bloomington,39.17,-86.53,known
+9072-william-mary,USA,Williamsburg,37.27,-76.71,known
+9076-university-of-north-florida,USA,Jacksonville,30.33,-81.66,known
+9082-universitat-hamburg,DEU,Hamburg,53.55,9.99,name
+9084-ucsd,USA,San Diego,32.72,-117.16,known
+9091-university-of-murcia,ESP,Murcia,37.99,-1.13,name
+9096-towson-university,USA,Towson,39.40,-76.60,name
+9097-burning-glass-technologies,USA,Boston,42.36,-71.06,known
+9102-carlson-school-of-management-university-of-minnesota,USA,Minneapolis,44.98,-93.27,known
+9107-research-school-of-economics,,,,,
+9108-zhejiang-university,CHN,Hangzhou,30.27,120.16,known
+9111-uc-santa-barbara,USA,Santa Barbara,34.42,-119.70,name
+9160-department-of-economics-university-of-california-santa,USA,Santa Barbara,34.42,-119.70,name
+9167-universita-di-torino,ITA,Turin,45.07,7.69,name
+9177-hamilton-college,USA,Clinton,43.05,-75.38,known
+9188-virginia-tech,USA,Blacksburg,37.23,-80.41,known
+9193-university-of-nevada-reno,USA,Reno,39.53,-119.81,name
+9200-mississippi-state-university,USA,Starkville,33.45,-88.82,known
+9221-national-research-council,,,,,
+9245-national-opinion-research-center,USA,Chicago,41.88,-87.63,known
+9278-department-for-international-development,GBR,London,51.51,-0.13,known
+9313-bucknell-university,USA,Lewisburg,40.96,-76.88,known
+9318-el-colegio-de-mexico,MEX,Mexico City,19.43,-99.13,atlas
+9348-development-impact-group,,,,,
+9366-gender-global-theme,USA,Washington,38.91,-77.04,known
+9370-sustainable-development-practice-group,USA,Washington,38.91,-77.04,known
+9376-pontificia-universidade-catolica-do-rio-de-janeiro,BRA,Rio de Janeiro,-22.91,-43.17,name
+9407-la-follette-school-of-public-affairs,USA,Madison,43.07,-89.40,known
+9408-university-at-buffalo,USA,Buffalo,42.89,-78.88,name
+9418-department-of-economics-brown-university,USA,Providence,41.82,-71.41,known
+9431-workers-compensation-research-institute,USA,Cambridge,42.37,-71.11,known
+9432-new-york-city-department-of-education,USA,New York,40.71,-74.01,name
+9434-graduate-school-of-economics-university-of-tokyo,JPN,Tokyo,35.68,139.69,name
+9458-harris-school-of-public-policy-university-of-chicago,USA,Chicago,41.88,-87.63,name
+9482-public-private-infrastructure-advisory-facility,USA,Washington,38.91,-77.04,known
+9492-development-research-group-poverty-and-inequality-team,USA,Washington,38.91,-77.04,known
+9517-development-policy-department,,,,,
+9523-anderson-school-at-ucla,USA,Los Angeles,34.05,-118.24,known
+9532-climate-change-cross-cutting-solutions-area,USA,Washington,38.91,-77.04,known
+9541-university-of-wyoming,USA,Laramie,41.31,-105.59,known
+9543-university-of-wisconsin-madison-dept-of-population-health,USA,Madison,43.07,-89.40,name
+9544-department-of-economics-university-of-pittsburgh,USA,Pittsburgh,40.44,-80.00,name
+9548-universite-paris-1-pantheon-sorbonne,FRA,Paris,48.86,2.35,name
+9562-vatt-institute-for-economic-research,FIN,Helsinki,60.17,24.94,known
+9578-the-world-bank-independent-evaluation-group,USA,Washington,38.91,-77.04,known
+9605-nyu-abu-dhabi,ARE,Abu Dhabi,24.45,54.38,name
+9616-human-development-sector-unit,,,,,
+9618-sustainable-development-unit,,,,,
+9639-loyola-university-maryland,USA,Baltimore,39.29,-76.61,known
+9651-baruch-college-cuny,USA,New York,40.71,-74.01,known
+9692-fondazione-eni-enrico-mattei,ITA,Milan,45.46,9.19,known
+9694-environmental-protection-agency,,,,,
+9710-finance-development-research-group,USA,Washington,38.91,-77.04,known
+9731-operations-evaluation-department,USA,Washington,38.91,-77.04,known
+9746-regulatory-reform-and-private-enterprise-division,,,,,
+9767-latin-america-and-the-caribbean-technical-department,USA,Washington,38.91,-77.04,atlas
+9782-school-of-business,,,,,
+9815-heinz-college,USA,Pittsburgh,40.44,-80.00,known
+9820-colby-college,USA,Waterville,44.55,-69.63,known
+9841-irving-b-harris-graduate-school-of-public-policy-studies,USA,Chicago,41.88,-87.63,known
+9847-williams-college-department-of-economics,USA,Williamstown,42.71,-73.20,known
+9849-insee-crest,FRA,,,,known
+9877-michigan-retirement-research-center,USA,Ann Arbor,42.28,-83.74,known
+9889-department-of-economics-university-of-california,USA,,,,known
+9891-university-of-chicago-gsb,USA,Chicago,41.88,-87.63,name
+9898-university-of-tsukuba,JPN,Tsukuba,36.08,140.11,name
+9902-university-of-houston-department-of-economics,USA,Houston,29.76,-95.37,name
+9923-harvard-university-press,USA,Cambridge,42.37,-71.11,known
+9927-mellon-foundation,USA,New York,40.71,-74.01,known
+9930-kellogg-school,USA,Evanston,42.05,-87.69,known
+9934-queens-college-and-graduate-center-cuny,USA,New York,40.71,-74.01,name
+9935-suny-stony-brook,USA,Stony Brook,40.91,-73.12,name
+9943-bell-laboratories,USA,Murray Hill,40.69,-74.40,known
+9947-new-york-state-school-of-industrial-and-labor-relations,USA,Ithaca,42.44,-76.50,known
+7351-afm,,,,,
+7404-council-on-ethics,,,,,
+7408-s-p-global-ratings,USA,New York,40.71,-74.01,known
+7411-eurosystem-central-banks,DEU,Frankfurt,50.11,8.68,known
+7425-multilateral-investment-guarantee-agency,USA,Washington,38.91,-77.04,known
+7444-macroeconomic-and-financial-management-institute-of-eastern,ZWE,Harare,-17.83,31.05,known
+7468-der-spiegel,DEU,Hamburg,53.55,9.99,known
+7469-bbva,ESP,Bilbao,43.26,-2.93,known
+7479-empire-club-of-canada,CAN,Toronto,43.65,-79.38,atlas
+7481-makerere-university,UGA,Kampala,0.35,32.58,known
+7482-centre-for-european-policy-studies,BEL,Brussels,50.85,4.35,known
+7544-center-for-indian-country-development,USA,Minneapolis,44.98,-93.27,known
+7550-financial-services-ireland,IRL,Dublin,53.35,-6.26,atlas
+7580-ifrs-foundation,GBR,London,51.51,-0.13,known
+7599-cpmi-iosco,,,,,
+7628-zew,DEU,Mannheim,49.49,8.47,known
+7650-paynet,,,,,
+7652-international-federation-of-accountants,USA,New York,40.71,-74.01,known
+7653-germany,DEU,,,,atlas
+7672-cpc-central-committee,CHN,Beijing,39.90,116.41,known
+7710-austrian-financial-market-authority,AUT,Vienna,48.21,16.37,name
+7714-finanstilsynet,,,,,
+7715-spelman-college,USA,Atlanta,33.75,-84.39,known
+7728-ministry-of-health-labour-and-welfare,JPN,Tokyo,35.68,139.69,known
+7730-bretton-woods-committee,USA,Washington,38.91,-77.04,known
+7742-statin,JAM,Kingston,18.02,-76.80,known
+7748-central-banking,,,,,
+7751-chicago-fed,USA,Chicago,41.88,-87.63,name
+7783-national-development-and-reform-commission,CHN,Beijing,39.90,116.41,known
+7792-bundesbank-online-panel-households,DEU,Frankfurt,50.11,8.68,known
+7809-ipcc,CHE,Geneva,46.20,6.14,known
+7813-new-york-bankers-association,USA,New York,40.71,-74.01,name
+7815-universidad-de-las-palmas-de-gran-canaria,ESP,Las Palmas,28.12,-15.44,name
+7830-international-institute-of-finance,,,,,
+7831-confindustria,ITA,Rome,41.90,12.50,known
+7836-next-generation-eu,,,,,
+7837-calgary-chamber-of-commerce,CAN,Calgary,51.05,-114.07,name
+7838-stock-exchange-of-thailand,THA,Bangkok,13.76,100.50,atlas
+7839-china-society-for-finance-and-banking,CHN,Beijing,39.90,116.41,atlas
+7842-ministry-of-finance-and-economy,,,,,
+7849-bank-of-china-hong-kong,HKG,Hong Kong,22.32,114.17,fixed
+7854-world-gold-council,GBR,London,51.51,-0.13,known
+7866-development-committee,USA,Washington,38.91,-77.04,known
+7867-oliver-wyman,USA,New York,40.71,-74.01,known
+7873-federal-ministry-of-finance,,,,,
+7876-university-of-the-philippines,PHL,Quezon City,14.68,121.04,atlas
+7896-asociacion-de-mercados-financieros,,,,,
+7899-central-bank-of-kuwait,KWT,Kuwait City,29.38,47.99,atlas
+7938-federal-open-market-committee-fomc,USA,Washington,38.91,-77.04,known
+7941-pricewaterhousecoopers,GBR,London,51.51,-0.13,known
+7951-kenya-national-bureau-of-statistics,KEN,Nairobi,-1.29,36.82,atlas
+7957-econ-committee,FRA,Strasbourg,48.57,7.75,known
+7961-international-chamber-of-commerce,FRA,Paris,48.86,2.35,known
+7974-centro-de-estudios-monetarios-y-financieros,ESP,Madrid,40.42,-3.70,known
+7976-asia-pacific-group-on-money-laundering,AUS,Sydney,-33.87,151.21,known
+7981-ice-benchmark-administration,GBR,London,51.51,-0.13,known
+7985-australian-foreign-exchange-committee,AUS,,,,name
+7988-yale-program-on-financial-stability,USA,New Haven,41.31,-72.92,known
+7990-european-statistical-system,LUX,Luxembourg,49.61,6.13,known
+7993-barcelona-graduate-school-of-economics,ESP,Barcelona,41.39,2.17,name
+8016-saarcfinance,,,,,
+8030-finance-ministry,,,,,
+8041-ine,,,,,
+8056-executive-board,,,,,
+8065-exchequer-club,,,,,
+8066-philippine-deposit-insurance-corporation,PHL,,,,name
+8074-swedish-national-debt-office,SWE,Stockholm,59.33,18.07,name
+8079-initiative-on-global-markets,USA,Chicago,41.88,-87.63,known
+8083-government-pension-fund-global,NOR,Oslo,59.91,10.75,known
+8090-european-fund-for-southeast-europe,,,,,
+8094-center-for-financial-industry-information-systems,,,,,
+8096-group-of-20,,,,,
+8116-boston-consulting-group,USA,Boston,42.36,-71.06,known
+8118-financial-services-institute-of-australasia,AUS,,,,known
+8127-frob,ESP,Madrid,40.42,-3.70,known
+8148-victoria-university,,,,,
+8167-national-bank-of-greece,GRC,Athens,37.98,23.73,atlas
+8180-bank-south-pacific,PNG,Port Moresby,-9.44,147.18,known
+8182-citi-foundation,USA,New York,40.71,-74.01,known
+8183-group-of-seven,,,,,
+8185-baiphil,PHL,,,,known
+8189-central-banking-publications,GBR,London,51.51,-0.13,known
+8213-financial-services-professional-board,,,,,
+8216-gallup,USA,Washington,38.91,-77.04,known
+8233-the-banker,GBR,London,51.51,-0.13,known
+8252-centre-for-business-and-policy-studies,,,,,
+8256-statistics-netherlands,NLD,,,,atlas
+8271-le-monde,FRA,Paris,48.86,2.35,known
+8273-german-institute-for-economic-research-diw-berlin,DEU,Berlin,52.52,13.40,name
+8277-office-of-thrift-supervision,USA,Washington,38.91,-77.04,known
+8290-fixed-income-money-market-and-derivatives-association-of,IND,Mumbai,19.08,72.88,atlas
+8295-united-nations-conference-on-trade-and-development,CHE,Geneva,46.20,6.14,known
+8309-university-of-western-australia,AUS,Perth,-31.95,115.86,atlas
+8312-japan-center-for-economic-research,JPN,Tokyo,35.68,139.69,atlas
+8313-association-of-corporate-treasurers,,,,,
+8320-basel-committee-for-banking-supervision,CHE,Basel,47.56,7.59,name
+8322-finmark-trust,ZAF,Johannesburg,-26.20,28.05,known
+8325-international-growth-centre,GBR,London,51.51,-0.13,known
+8334-euro-finance-week,DEU,Frankfurt,50.11,8.68,known
+8335-advisory-scientific-committee,,,,,
+8343-icrier,IND,New Delhi,28.61,77.21,known
+8347-risk-management-association,USA,Philadelphia,39.95,-75.17,known
+8351-asli,,,,,
+8361-babson-college,USA,Wellesley,42.30,-71.29,known
+8366-the-sydney-institute,AUS,Sydney,-33.87,151.21,name
+8383-iasb,GBR,London,51.51,-0.13,known
+8385-us-securities-and-exchange-commission,USA,Washington,38.91,-77.04,name
+8411-deutsche-bank-research,DEU,Frankfurt,50.11,8.68,known
+8421-fsa,,,,,
+8427-city-of-frankfurt,DEU,Frankfurt,50.11,8.68,name
+8430-bi-norwegian-school-of-management,NOR,Oslo,59.91,10.75,name
+8431-hong-kong-mortgage-corporation-limited,HKG,Hong Kong,22.32,114.17,atlas
+8447-governing-council-of-the-bank-of-spain,ESP,Madrid,40.42,-3.70,atlas
+8451-seb,,,,,
+8452-monetary-affairs-committee,,,,,
+8463-canadian-club-of-toronto,CAN,Toronto,43.65,-79.38,name
+8471-nairobi-stock-exchange,KEN,Nairobi,-1.29,36.82,name
+8474-vancouver-board-of-trade,CAN,Vancouver,49.28,-123.12,name
+8485-esi,,,,,
+8486-independent-evaluation-office,,,,,
+8494-japan-bank-for-international-cooperation,JPN,Tokyo,35.68,139.69,atlas
+8503-ghana-statistical-service,GHA,Accra,5.60,-0.19,atlas
+8509-central-bank-of-jordan,JOR,Amman,31.95,35.93,atlas
+8518-universidad-del-pais-vasco,ESP,,,,name
+8524-university-of-pavia,ITA,Pavia,45.19,9.16,name
+8530-university-of-venice,ITA,Venice,45.44,12.32,name
+8540-city-university,,,,,
+8542-university-of-alberta-school-of-business,CAN,Edmonton,53.55,-113.49,known
+8560-merrill-lynch,USA,New York,40.71,-74.01,known
+8565-board-of-governors-of-the-central-bank-of-iceland,ISL,Reykjavík,64.15,-21.94,atlas
+8569-turkish-statistical-institute,TUR,Ankara,39.93,32.86,name
+8570-university-of-frankfurt,DEU,Frankfurt,50.11,8.68,name
+8571-university-of-fribourg,CHE,Fribourg,46.81,7.16,name
+8573-canada-deposit-insurance-corporation,CAN,Ottawa,45.42,-75.70,atlas
+8577-university-at-albany,USA,Albany,42.65,-73.75,name
+8578-state-university-of-new-york,USA,,,,name
+8580-norwegian-school-of-management,NOR,Oslo,59.91,10.75,name
+8585-bahrain-monetary-agency,BHR,Manama,26.23,50.59,atlas
+8588-bard-college,USA,Annandale-on-Hudson,42.02,-73.91,known
+8601-university-of-rome-la-sapienza,ITA,Rome,41.90,12.50,name
+8604-long-term-capital-management,USA,Greenwich,41.03,-73.63,known
+8620-credit-suisse-first-boston,USA,New York,40.71,-74.01,known
+8635-city-university-business-school,GBR,London,51.51,-0.13,known
+8641-middle-tennessee-state-university,USA,Murfreesboro,35.85,-86.39,known
+8647-de-nederlandsche-bank-nv,NLD,Amsterdam,52.37,4.90,known
+8656-standing-committee-on-finance,,,,,
+8685-bis-quarterly-review,CHE,Basel,47.56,7.59,known
+8737-bowling-green-state-university,USA,Bowling Green,41.37,-83.65,known
+8751-getulio-vargas-foundation,BRA,Rio de Janeiro,-22.91,-43.17,known
+8762-centre-for-european-economic-research,DEU,Mannheim,49.49,8.47,known
+8794-universidad-del-rosario,COL,Bogotá,4.71,-74.07,known
+8811-university-of-connecticut-school-of-business,USA,Storrs,41.81,-72.25,known
+8817-university-of-cincinnati,USA,Cincinnati,39.10,-84.51,name
+8818-university-of-memphis,USA,Memphis,35.15,-90.05,name
+8823-essec-business-school,FRA,Cergy,49.04,2.06,known
+8831-sun-yat-sen-university,CHN,Guangzhou,23.13,113.26,known
+8834-providence-college,USA,Providence,41.82,-71.41,name
+8842-nagoya-university,JPN,Nagoya,35.18,136.91,name
+8845-zew-leibniz-centre-for-european-economic-research,DEU,Mannheim,49.49,8.47,known
+8847-research-institute-of-economy-trade-and-industry,JPN,Tokyo,35.68,139.69,known
+8854-norc-at-the-university-of-chicago,USA,Chicago,41.88,-87.63,name
+8867-kiel-institute,DEU,Kiel,54.32,10.12,name
+8868-uc-san-diego,USA,San Diego,32.72,-117.16,name
+8872-durham-university-business-school,GBR,Durham,54.78,-1.57,name
+8878-research-institute-of-industrial-economics,SWE,Stockholm,59.33,18.07,known
+8884-wayne-state-university,USA,Detroit,42.33,-83.05,known
+8892-amazon-com,USA,Seattle,47.61,-122.33,known
+8894-universidad-eafit,COL,Medellín,6.24,-75.58,known
+8899-hong-kong-baptist-university,HKG,Hong Kong,22.32,114.17,atlas
+8908-colorado-school-of-mines,USA,Golden,39.76,-105.22,known
+8939-middle-east-technical-university,TUR,Ankara,39.93,32.86,known
+8940-microeconomic-analysis-service,,,,,
+8957-universidad-de-castilla-la-mancha,ESP,,,,known
+8984-chicago-mercantile-exchange,USA,Chicago,41.88,-87.63,name
+8993-esg-uqam,CAN,Montréal,45.50,-73.57,name
+9007-institute-of-economics-university-of-copenhagen,DNK,Copenhagen,55.68,12.57,name
+9008-central-balance-sheet-office,,,,,
+9016-universidade-catolica-portuguesa,PRT,Lisbon,38.72,-9.14,name
+9022-cfm,,,,,
+9026-the-brattle-group,USA,Boston,42.36,-71.06,known
+9038-utrecht-university-school-of-economics,NLD,Utrecht,52.09,5.12,name
+9039-kansas-state-university,USA,Manhattan,39.18,-96.57,known
+9044-university-of-salerno,ITA,Salerno,40.68,14.77,name
+9045-university-of-missouri-columbia,USA,Columbia,38.95,-92.33,name
+9067-centre-for-applied-macroeconomic-analysis,AUS,Canberra,-35.28,149.13,known
+9070-durham-university,GBR,Durham,54.78,-1.57,name
+9080-technische-universitat-darmstadt,DEU,Darmstadt,49.87,8.65,name
+9087-massachusetts-institute-of-technology-sloan-school-of,USA,Cambridge,42.37,-71.11,known
+9093-university-of-nebraska-lincoln,USA,Lincoln,40.81,-96.70,name
+9100-city-university-of-london,GBR,London,51.51,-0.13,name
+9103-university-of-aberdeen,GBR,Aberdeen,57.15,-2.09,name
+9104-ecares,BEL,Brussels,50.85,4.35,known
+9109-wharton-school-of-business,USA,Philadelphia,39.95,-75.17,known
+9115-university-of-wuerzburg,DEU,Würzburg,49.79,9.95,name
+9121-uber,USA,San Francisco,37.77,-122.42,known
+9129-barnard-college-columbia-university,USA,New York,40.71,-74.01,known
+9134-center,NLD,Tilburg,51.56,5.09,known
+9172-john-e-walker-department-of-economics,USA,Clemson,34.68,-82.84,known
+9173-haas-school-of-business-administration-university-of,USA,Berkeley,37.87,-122.27,name
+9176-university-of-rome-iii,ITA,Rome,41.90,12.50,name
+9181-university-of-manitoba,CAN,Winnipeg,49.90,-97.14,known
+9186-union-college,,,,,
+9198-analysis-group-inc,USA,Boston,42.36,-71.06,known
+9206-oregon-state-university,USA,Corvallis,44.56,-123.26,known
+9208-institute-for-the-study-of-labor,DEU,Bonn,50.74,7.10,known
+9210-graduate-school-of-industrial-administration-carnegie,USA,Pittsburgh,40.44,-80.00,known
+9213-igier-bocconi-university,ITA,Milan,45.46,9.19,known
+9217-banco-de-espana-servicio-de-estudios,ESP,Madrid,40.42,-3.70,name
+9231-department-of-economics-university-of-oslo,NOR,Oslo,59.91,10.75,name
+9232-darden-graduate-school-of-business-university-of-virginia,USA,Charlottesville,38.03,-78.48,known
+9242-imf-singapore-regional-training-institute,SGP,Singapore,1.29,103.85,atlas
+9243-university-of-torino,ITA,Turin,45.07,7.69,name
+9252-brookings-papers-on-economic-activity,USA,Washington,38.91,-77.04,known
+9254-fsb-secretariat,CHE,Basel,47.56,7.59,known
+9255-alternative-investment-management-association,GBR,London,51.51,-0.13,known
+9287-london-school-of-hygiene-and-tropical-medicine,GBR,London,51.51,-0.13,name
+9317-central-banking-department,,,,,
+9320-china-s-national-bureau-of-statistics,CHN,Beijing,39.90,116.41,atlas
+9367-health-nutrition-and-population-global-practice,USA,Washington,38.91,-77.04,known
+9388-kyiv-school-of-economics,UKR,Kyiv,50.45,30.52,name
+9392-u-s-patent-and-trademark-office,USA,Alexandria,38.80,-77.05,name
+9395-becker-friedman-institute,USA,Chicago,41.88,-87.63,known
+9402-office-of-the-senior-vice-president-and-chief-economist,USA,Washington,38.91,-77.04,known
+9405-economic-research-service,USA,Washington,38.91,-77.04,known
+9428-department-of-health-care-policy,,,,,
+9436-old-dominion-university,USA,Norfolk,36.85,-76.29,known
+9452-world-resources-institute,USA,Washington,38.91,-77.04,known
+9453-universite-paris-dauphine,FRA,Paris,48.86,2.35,name
+9456-institute-of-education-sciences,USA,Washington,38.91,-77.04,known
+9460-university-of-louisville,USA,Louisville,38.25,-85.76,name
+9466-strategy-and-operations-team,,,,,
+9477-mailman-school-of-public-health,USA,New York,40.71,-74.01,known
+9479-institute-for-policy-research-northwestern-university,USA,Evanston,42.05,-87.69,known
+9484-american-medical-association,USA,Chicago,41.88,-87.63,known
+9501-energy-and-extractives-global-practice-group,USA,Washington,38.91,-77.04,known
+9507-university-of-minnesota-humphrey-school-of-public-affairs,USA,Minneapolis,44.98,-93.27,known
+9514-water-global-practice-group,USA,Washington,38.91,-77.04,known
+9515-university-of-texas-at-austin-department-of-economics,USA,Austin,30.27,-97.74,name
+9530-duke-university-school-of-law,USA,Durham,35.99,-78.90,known
+9545-department-of-economics-new-york-university,USA,New York,40.71,-74.01,name
+9550-university-of-victoria,CAN,Victoria,48.43,-123.37,known
+9552-graduate-center-city-university-of-new-york,USA,New York,40.71,-74.01,name
+9557-green-growth-knowledge-platform,CHE,Geneva,46.20,6.14,known
+9559-sc-johnson-college-of-business-cornell-university,USA,Ithaca,42.44,-76.50,known
+9569-zew-mannheim,DEU,Mannheim,49.49,8.47,name
+9580-research-support-unit,,,,,
+9598-robert-f-wagner-graduate-school-of-public-service,USA,New York,40.71,-74.01,known
+9608-ebay,USA,San Jose,37.34,-121.89,known
+9611-development-economics-department,,,,,
+9619-financial-and-private-sector-vice-presidency,USA,Washington,38.91,-77.04,known
+9622-finance-economics-urban-department,USA,Washington,38.91,-77.04,known
+9623-colorado-state-university,USA,Fort Collins,40.59,-105.08,known
+9632-economic-policy-sector,,,,,
+9633-chief-economist-office,,,,,
+9664-financial-policy-division,,,,,
+9670-rady-school-of-management,USA,San Diego,32.72,-117.16,known
+9675-department-of-agricultural-and-applied-economics,,,,,
+9683-american-economic-review,,,,,
+9685-robert-h-smith-school-of-business-at-the-university-of,USA,College Park,38.98,-76.94,known
+9690-university-of-california-berkeley-department-of-economics,USA,Berkeley,37.87,-122.27,name
+9693-university-of-toulouse,FRA,Toulouse,43.60,1.44,name
+9709-investment-climate,,,,,
+9714-wharton-risk-management-and-decision-processes-center,USA,Philadelphia,39.95,-75.17,known
+9720-united-states-military-academy,USA,West Point,41.39,-73.96,atlas
+9727-office-of-the-senior-vice-president-development-economics,USA,Washington,38.91,-77.04,known
+9730-public-services-for-human-development,,,,,
+9735-poverty-division,,,,,
+9739-hunter-college-department-of-economics,USA,New York,40.71,-74.01,known
+9749-private-participation-in-infrastructure-group,USA,Washington,38.91,-77.04,known
+9750-europe-and-central-asia,,,,,
+9757-latin-america-and-the-caribbean-regional-office,USA,Washington,38.91,-77.04,atlas
+9761-east-asia-and-pacific-country-department-iii,USA,Washington,38.91,-77.04,known
+9768-world-bank-africa-regional-office,USA,Washington,38.91,-77.04,known
+9771-pennsylvania-state-university-department-of-economics,USA,State College,40.79,-77.86,known
+9776-queens-college-and-the-graduate-center-cuny,USA,New York,40.71,-74.01,name
+9781-katz-graduate-school-of-business,USA,Pittsburgh,40.44,-80.00,known
+9792-africa-technical-department,USA,Washington,38.91,-77.04,known
+9794-socialist-economies-reform-unit,USA,Washington,38.91,-77.04,known
+9801-school-of-advanced-international-studies-sais-johns-hopkins,USA,Washington,38.91,-77.04,known
+9818-schaeffer-center-for-health-policy-and-economics,USA,Los Angeles,34.05,-118.24,known
+9821-university-of-wisconsin-at-madison,USA,Madison,43.07,-89.40,name
+9825-kellogg-graduate-school-of-management-northwestern,USA,Evanston,42.05,-87.69,known
+9834-stanford-medical-school,USA,Stanford,37.43,-122.17,known
+9845-the-wharton-school-center-for-human-resources,USA,Philadelphia,39.95,-75.17,known
+9850-center-for-economic-research-georgetown-university,USA,Washington,38.91,-77.04,known
+9853-department-of-economics-social-science-centre-university-of,CAN,London,42.98,-81.25,known
+9868-ludwig-maximilians-university,DEU,Munich,48.14,11.58,known
+9871-ims-health,USA,,,,known
+9876-harris-school-of-public-policy-studies,USA,Chicago,41.88,-87.63,known
+9887-uc-berkeley-department-of-economics,USA,Berkeley,37.87,-122.27,name
+9897-center-for-economic-studies-university-of-munich,DEU,Munich,48.14,11.58,name
+9904-earhart-foundation,USA,Ann Arbor,42.28,-83.74,known
+9909-john-m-olin-center-for-law-economics-and-business-at,USA,Cambridge,42.37,-71.11,known
+9911-chung-hua-institution-for-economic-research,TWN,Taipei,25.03,121.57,known
+9919-rutgers-university-newark,USA,Newark,40.74,-74.17,name
+9920-u-c-l-a,USA,Los Angeles,34.05,-118.24,known
+9926-john-simon-guggenheim-memorial-foundation,USA,New York,40.71,-74.01,known
+9941-littauer-center,USA,Cambridge,42.37,-71.11,known
+9945-new-york-state-school-of-industrial-and-labor-relations,USA,Ithaca,42.44,-76.50,known
+9946-leverhulme-trust,GBR,London,51.51,-0.13,known
+9949-harvard-university-law-school,USA,Cambridge,42.37,-71.11,known
+9950-minimum-wage-study-commission,,,,,
+9951-krannert-graduate-school-of-management-purdue-university,USA,West Lafayette,40.43,-86.91,known
+9952-department-of-economics-university-of-bristol,GBR,Bristol,51.45,-2.59,name
+9956-fiscal-policy-and-growth-global-department,USA,Washington,38.91,-77.04,known
+9958-u-s-air-force-academy,USA,Colorado Springs,38.83,-104.82,name
+9960-berglas-school-of-economics,ISR,Tel Aviv,32.09,34.78,known
+7293-esm,LUX,Luxembourg,49.61,6.13,known
+7374-committee,,,,,
+7380-finnish-financial-supervisory-authority,FIN,Helsinki,60.17,24.94,name
+7382-statistical-institute-of-jamaica,JAM,Kingston,18.02,-76.80,atlas
+7392-oecd-international-network-on-financial-education,FRA,Paris,48.86,2.35,known
+7426-italy,ITA,,,,atlas
+7447-government-of-the-republic-of-serbia,SRB,Belgrade,44.79,20.45,atlas
+7457-west-african-institute-for-financial-and-economic-management,NGA,Lagos,6.52,3.38,known
+7471-finance-denmark,DNK,Copenhagen,55.68,12.57,atlas
+7475-central-bank-of-montenegro,MNE,Podgorica,42.44,19.26,atlas
+7491-bank-of-finland-institute-for-emerging-economies,FIN,Helsinki,60.17,24.94,atlas
+7494-financial-stability-division,,,,,
+7512-secp,PAK,Islamabad,33.68,73.05,known
+7514-pensions-and-insurance-authority,,,,,
+7518-institute-of-financial-services-ifs-malta,MLT,,,,atlas
+7566-sfc,,,,,
+7570-accc,AUS,Canberra,-35.28,149.13,known
+7572-idb,,,,,
+7574-babes-bolyai-university,ROU,Cluj-Napoca,46.77,23.62,known
+7575-finsia,AUS,,,,known
+7605-british-chambers-of-commerce,GBR,London,51.51,-0.13,name
+7607-prometeia,ITA,Bologna,44.49,11.34,known
+7612-stanbic-bank,,,,,
+7613-g30,USA,Washington,38.91,-77.04,known
+7623-islamic-banking-and-finance-institute-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+7631-france-fintech,FRA,Paris,48.86,2.35,atlas
+7637-microsoft,USA,Redmond,47.67,-122.12,known
+7641-atlantic-council,USA,Washington,38.91,-77.04,known
+7642-accenture,IRL,Dublin,53.35,-6.26,known
+7644-fimmda,IND,Mumbai,19.08,72.88,known
+7645-imas,,,,,
+7651-asean-secretariat,IDN,Jakarta,-6.21,106.85,known
+7657-international-financial-reporting-standards-foundation,GBR,London,51.51,-0.13,known
+7658-australian-financial-review,AUS,Sydney,-33.87,151.21,name
+7676-german-council-of-economic-experts,DEU,Wiesbaden,50.08,8.24,name
+7691-london-stock-exchange,GBR,London,51.51,-0.13,name
+7697-economic-club-of-canada,CAN,Toronto,43.65,-79.38,atlas
+7702-banco-santander,ESP,,,,known
+7722-national-institute-of-standards-and-technology,USA,Gaithersburg,39.14,-77.20,known
+7735-thecityuk,GBR,London,51.51,-0.13,known
+7737-centro-de-estudios-monetarios-y-financieros-cemfi,ESP,Madrid,40.42,-3.70,known
+7739-malaysia-international-islamic-financial-centre,MYS,Kuala Lumpur,3.14,101.69,atlas
+7752-potsdam-institute-for-climate-impact-research,DEU,Potsdam,52.39,13.06,name
+7780-central-banks-and-supervisors-network-for-greening-the,FRA,Paris,48.86,2.35,known
+7781-ministry-of-education-and-sports,,,,,
+7804-financial-market-association-of-malaysia,MYS,Kuala Lumpur,3.14,101.69,atlas
+7805-asian-bankers-association,TWN,Taipei,25.03,121.57,known
+7822-unep,KEN,Nairobi,-1.29,36.82,known
+7824-court-of-justice-of-the-european-union,LUX,Luxembourg,49.61,6.13,fixed
+7825-prague-university-of-economics-and-business,CZE,Prague,50.08,14.44,name
+7828-seco,CHE,Bern,46.95,7.45,known
+7833-caribbean-development-bank,BRB,Bridgetown,13.10,-59.61,known
+7835-aibim,MYS,Kuala Lumpur,3.14,101.69,known
+7852-state-administration-of-foreign-exchange,CHN,Beijing,39.90,116.41,known
+7861-university-of-bordeaux,FRA,Bordeaux,44.84,-0.58,name
+7868-national-press-club,,,,,
+7871-federal-government,,,,,
+7875-national-securities-market-commission,ESP,Madrid,40.42,-3.70,known
+7878-hrvatska-narodna-banka,HRV,Zagreb,45.81,15.98,name
+7881-bnb-governing-council,,,,,
+7885-german-financial-stability-committee,DEU,Berlin,52.52,13.40,name
+7897-government-of-indonesia,IDN,Jakarta,-6.21,106.85,atlas
+7900-dbs-bank,SGP,Singapore,1.29,103.85,known
+7904-economic-development-board,,,,,
+7905-apec,SGP,Singapore,1.29,103.85,known
+7909-centre-for-monetary-economics-cme,,,,,
+7911-imperial-college,GBR,London,51.51,-0.13,name
+7914-uk-government,GBR,London,51.51,-0.13,name
+7928-bank-of-baroda,IND,Vadodara,22.31,73.18,known
+7931-universidad-internacional-menendez-pelayo,ESP,,,,known
+7935-millennium-challenge-corporation,USA,Washington,38.91,-77.04,known
+7956-fundacion-de-estudios-financieros,,,,,
+7958-union-of-arab-banks,LBN,Beirut,33.89,35.50,known
+7966-forecasters-club-of-new-york,USA,New York,40.71,-74.01,name
+7977-official-sector-steering-group,,,,,
+7991-better-than-cash-alliance,USA,New York,40.71,-74.01,known
+7992-king-s-business-school,GBR,London,51.51,-0.13,known
+7994-mti,,,,,
+7995-ibm,USA,Armonk,41.13,-73.71,known
+7996-national-university-of-ireland-galway,IRL,Galway,53.27,-9.06,atlas
+7999-bankers-institute-of-the-philippines,PHL,,,,atlas
+8000-hkab,HKG,Hong Kong,22.32,114.17,known
+8002-institute-for-international-finance,USA,Washington,38.91,-77.04,known
+8006-international-fund-for-agricultural-development,ITA,Rome,41.90,12.50,known
+8009-pbc,CHN,Beijing,39.90,116.41,known
+8013-university-of-limerick,IRL,Limerick,52.66,-8.63,name
+8019-dz-bank,DEU,Frankfurt,50.11,8.68,known
+8051-national-bankers-association,USA,,,,known
+8064-yes-bank,IND,Mumbai,19.08,72.88,known
+8078-europol,NLD,The Hague,52.08,4.30,known
+8082-japanese-bankers-association,JPN,Tokyo,35.68,139.69,name
+8092-abn-amro,NLD,Amsterdam,52.37,4.90,known
+8099-commercial-banks,,,,,
+8101-howard-university,USA,Washington,38.91,-77.04,known
+8110-sciences-po-paris,FRA,Paris,48.86,2.35,name
+8114-barclays-bank-zambia-plc,ZMB,Lusaka,-15.39,28.32,atlas
+8115-eac-secretariat,TZA,Arusha,-3.39,36.68,known
+8119-afritac-south,MUS,,,,known
+8120-basel-committee-on-bank-supervision,CHE,Basel,47.56,7.59,name
+8124-university-of-south-africa,ZAF,Pretoria,-25.75,28.19,atlas
+8131-esaamlg,TZA,Dar es Salaam,-6.79,39.21,known
+8136-bank-of-russia-board-of-directors,RUS,Moscow,55.76,37.62,atlas
+8138-pew-research-center,USA,Washington,38.91,-77.04,known
+8143-bloomberg-tv,USA,New York,40.71,-74.01,known
+8159-aix-marseille-school-of-economics,FRA,Marseille,43.30,5.37,name
+8178-anz-bank,AUS,Melbourne,-37.81,144.96,known
+8179-life-insurance-corporation-of-india,IND,Mumbai,19.08,72.88,atlas
+8181-department-of-statistics-malaysia,MYS,Putrajaya,2.93,101.69,atlas
+8184-apie,,,,,
+8192-financial-services-board,,,,,
+8199-ing,NLD,Amsterdam,52.37,4.90,known
+8222-euromoney-conferences,GBR,London,51.51,-0.13,known
+8223-cambridge-centre-for-alternative-finance,GBR,Cambridge,52.21,0.12,name
+8226-american-international-group,USA,New York,40.71,-74.01,known
+8235-school-of-international-and-public-affairs-columbia,USA,New York,40.71,-74.01,known
+8236-swedish-trade-union-confederation,SWE,Stockholm,59.33,18.07,name
+8241-bank-of-png,PNG,Port Moresby,-9.44,147.18,name
+8245-south-pacific-stock-exchange,FJI,Suva,-18.14,178.44,known
+8246-knesset,ISR,Jerusalem,31.77,35.21,known
+8249-ferdi,FRA,Clermont-Ferrand,45.78,3.08,known
+8259-department-of-treasury,,,,,
+8264-kisaragi-kai-meeting,JPN,,,,known
+8278-lee-kuan-yew-school-of-public-policy,SGP,Singapore,1.29,103.85,known
+8281-ministry-of-economy,,,,,
+8284-pacific-financial-inclusion-program,FJI,Suva,-18.14,178.44,known
+8300-safaricom,KEN,Nairobi,-1.29,36.82,known
+8307-associated-chambers-of-commerce-and-industry-of-india,IND,New Delhi,28.61,77.21,atlas
+8310-circulo-de-economia,ESP,Barcelona,41.39,2.17,known
+8323-foreign-correspondents-club-of-japan,JPN,Tokyo,35.68,139.69,atlas
+8329-swedish-house-of-finance,SWE,Stockholm,59.33,18.07,name
+8333-government-of-kenya,KEN,Nairobi,-1.29,36.82,atlas
+8336-aci,,,,,
+8345-university-of-malaya,MYS,Kuala Lumpur,3.14,101.69,name
+8348-unicredit,ITA,Milan,45.46,9.19,known
+8349-kenya-institute-of-bankers,KEN,Nairobi,-1.29,36.82,atlas
+8354-supervisor-of-banks,,,,,
+8364-primary-dealers-association-of-india,IND,Mumbai,19.08,72.88,atlas
+8365-confederation-of-swedish-enterprise,SWE,Stockholm,59.33,18.07,name
+8374-indian-institute-of-banking-and-finance,IND,Mumbai,19.08,72.88,name
+8384-salzburg-global-seminar,AUT,Salzburg,47.81,13.04,name
+8392-foreign-correspondents-club-of-thailand,THA,Bangkok,13.76,100.50,atlas
+8399-melbourne-institute,AUS,Melbourne,-37.81,144.96,name
+8402-statistics-iceland,ISL,Reykjavík,64.15,-21.94,atlas
+8406-house-of-finance,,,,,
+8414-trinidad-and-tobago-chamber-of-industry-and-commerce,TTO,Port of Spain,10.66,-61.51,atlas
+8417-levy-economics-institute,USA,Annandale-on-Hudson,42.02,-73.91,known
+8426-bombay-chamber-of-commerce-and-industry,IND,Mumbai,19.08,72.88,name
+8428-statistics-denmark,DNK,Copenhagen,55.68,12.57,atlas
+8434-duisenberg-school-of-finance,NLD,Amsterdam,52.37,4.90,known
+8440-oxford-university-press,GBR,Oxford,51.75,-1.26,name
+8444-euroclear-bank,BEL,Brussels,50.85,4.35,known
+8445-european-system-of-financial-supervision,,,,,
+8449-bank-of-india,IND,Mumbai,19.08,72.88,atlas
+8450-monetary-policy-department,,,,,
+8462-italian-senate,ITA,Rome,41.90,12.50,name
+8465-deposit-insurance-and-credit-guarantee-corporation,IND,Mumbai,19.08,72.88,known
+8467-bahrain-institute-of-banking-and-finance,BHR,Manama,26.23,50.59,atlas
+8488-caricom,GUY,Georgetown,6.80,-58.16,known
+8506-lusaka-stock-exchange,ZMB,Lusaka,-15.39,28.32,name
+8513-renmin-university,CHN,Beijing,39.90,116.41,known
+8514-banco-de-mocambique,MOZ,Maputo,-25.97,32.57,name
+8517-university-of-zambia,ZMB,Lusaka,-15.39,28.32,atlas
+8523-government-accountability-office,USA,Washington,38.91,-77.04,known
+8535-euromoney-conference,GBR,London,51.51,-0.13,known
+8541-committee-on-financial-affairs-house-of-representatives,,,,,
+8545-aiaf-assiom-atic-forex,ITA,,,,known
+8546-european-agency-for-reconstruction,GRC,Thessaloniki,40.64,22.94,known
+8552-financial-regulator,,,,,
+8555-association-of-norwegian-economists,NOR,,,,name
+8556-westpac,AUS,Sydney,-33.87,151.21,known
+8561-bond-exchange-of-south-africa,ZAF,Johannesburg,-26.20,28.05,atlas
+8574-institute-of-development-studies,GBR,Brighton,50.82,-0.14,known
+8579-nuffield-college-oxford,GBR,Oxford,51.75,-1.26,name
+8589-london-economics,GBR,London,51.51,-0.13,name
+8593-food-and-agriculture-organization,ITA,Rome,41.90,12.50,known
+8595-america-s-community-bankers,USA,Washington,38.91,-77.04,atlas
+8598-national-accounts-institute,,,,,
+8600-committee-of-sponsoring-organizations-of-the-treadway,USA,,,,known
+8605-frankfurt-european-banking-congress,DEU,Frankfurt,50.11,8.68,name
+8607-central-bank-of-armenia,ARM,Yerevan,40.18,44.51,atlas
+8613-development-research-center-of-the-state-council,CHN,Beijing,39.90,116.41,known
+8614-national-academy-of-sciences,USA,Washington,38.91,-77.04,known
+8624-u-s-department-of-commerce-bureau-of-economic-analysis,USA,Suitland,38.85,-76.92,name
+8626-widener-university,USA,Chester,39.85,-75.36,known
+8632-reserve-bank-of-south-africa,ZAF,Pretoria,-25.75,28.19,atlas
+8636-committee-of-sponsoring-organizations,USA,,,,known
+8642-veckans-affarer,SWE,Stockholm,59.33,18.07,known
+8648-foreningssparbanken,SWE,Stockholm,59.33,18.07,known
+8653-cardiff-university,GBR,Cardiff,51.48,-3.18,name
+8655-monetary-policy-council,,,,,
+8657-royal-institute-of-international-affairs,GBR,London,51.51,-0.13,known
+8663-jerome-levy-economics-institute,USA,Annandale-on-Hudson,42.02,-73.91,known
+8666-kiel-institute-of-world-economics,DEU,Kiel,54.32,10.12,name
+8672-price-waterhouse,,,,,
+8673-economic-planning-agency,JPN,Tokyo,35.68,139.69,known
+8693-university-of-innsbruck,AUT,Innsbruck,47.27,11.40,name
+8706-hosei-university,JPN,Tokyo,35.68,139.69,known
+8717-sciences-po-ofce,FRA,Paris,48.86,2.35,name
+8722-balsillie-school-of-international-affairs,CAN,Waterloo,43.46,-80.52,known
+8725-rotterdam-school-of-management-erasmus-university,NLD,Rotterdam,51.92,4.48,name
+8726-universidad-nacional-de-colombia,COL,Bogotá,4.71,-74.07,atlas
+8740-leipzig-university,DEU,Leipzig,51.34,12.37,name
+8741-university-of-wales-bangor,GBR,Bangor,53.23,-4.13,atlas
+8747-mccombs-school-of-business-university-of-texas-at-austin,USA,Austin,30.27,-97.74,name
+8754-university-of-granada,ESP,Granada,37.18,-3.60,name
+8760-university-of-north-carolina-at-charlotte,USA,Charlotte,35.23,-80.84,name
+8781-sao-paulo-school-of-economics-fgv,BRA,São Paulo,-23.55,-46.63,name
+8793-sgh-warsaw-school-of-economics,POL,Warsaw,52.23,21.01,name
+8805-nber-criw,USA,Cambridge,42.37,-71.11,known
+8808-university-of-warsaw,POL,Warsaw,52.23,21.01,name
+8810-compass-lexecon,USA,,,,known
+8836-university-of-tennessee-knoxville,USA,Knoxville,35.96,-83.92,name
+8841-caltech,USA,Pasadena,34.15,-118.14,known
+8844-charles-university-in-prague,CZE,Prague,50.08,14.44,name
+8846-barcelona-school-of-economics,ESP,Barcelona,41.39,2.17,name
+8861-bureau-van-dijk,,,,,
+8865-austrian-institute-of-economic-research,AUT,Vienna,48.21,16.37,name
+8866-goethe-university-of-frankfurt,DEU,Frankfurt,50.11,8.68,name
+8875-university-of-salzburg,AUT,Salzburg,47.81,13.04,name
+8876-vu-amsterdam,NLD,Amsterdam,52.37,4.90,name
+8897-zillow,USA,Seattle,47.61,-122.33,known
+8898-department-of-political-science,,,,,
+8904-crest-ensae,FRA,Palaiseau,48.71,2.25,known
+8923-university-of-palermo,ITA,Palermo,38.12,13.36,name
+8925-aoyama-gakuin-university,JPN,Tokyo,35.68,139.69,known
+8926-reykjavik-university,ISL,Reykjavík,64.15,-21.94,name
+8929-icrea,ESP,Barcelona,41.39,2.17,known
+8936-binghamton-university,USA,Binghamton,42.10,-75.91,name
+8969-university-of-mainz,DEU,Mainz,50.00,8.27,name
+8970-u-s-department-of-agriculture-economic-research-service,USA,Washington,38.91,-77.04,name
+8972-guanghua-school-of-management-peking-university,CHN,Beijing,39.90,116.41,name
+8976-university-of-trier,DEU,Trier,49.75,6.64,name
+8978-university-of-kiel,DEU,Kiel,54.32,10.12,name
+8979-catholic-university-of-milan,ITA,Milan,45.46,9.19,name
+8990-university-of-hawaii-manoa,USA,Honolulu,21.31,-157.86,name
+8998-charles-river-associates,USA,Boston,42.36,-71.06,known
+9003-einaudi-institute-for-economics-and-finance-eief,ITA,Rome,41.90,12.50,known
+9012-university-of-north-carolina-wilmington,USA,Wilmington,34.23,-77.94,name
+9013-ludwig-maximilian-university-of-munich,DEU,Munich,48.14,11.58,name
+9017-centerdata,NLD,Tilburg,51.56,5.09,known
+9019-current-population-survey,,,,,
+9030-mays-business-school,USA,College Station,30.63,-96.33,known
+9040-university-of-brescia,ITA,Brescia,45.54,10.21,name
+9046-centro-de-investigacion-economica-itam,MEX,Mexico City,19.43,-99.13,known
+9053-southern-illinois-university-carbondale,USA,Carbondale,37.73,-89.22,name
+9057-iies-stockholm-university,SWE,Stockholm,59.33,18.07,name
+9060-esrc,GBR,Swindon,51.56,-1.78,known
+9063-international-relations-committee,,,,,
+9079-iae-csic,ESP,Barcelona,41.39,2.17,known
+9089-pardee-rand-graduate-school,USA,Santa Monica,34.02,-118.49,known
+9098-usda-economic-research-service,USA,Washington,38.91,-77.04,known
+9106-creates,DNK,Aarhus,56.16,10.20,known
+9112-centre-for-european-economic-research-zew,DEU,Mannheim,49.49,8.47,known
+9122-university-of-minho,PRT,Braga,41.55,-8.42,known
+9126-sungkyunkwan-university,KOR,Seoul,37.57,126.98,known
+9130-universidad-publica-de-navarra,ESP,Pamplona,42.81,-1.64,known
+9131-queens-university,,,,,
+9135-ires-universite-catholique-de-louvain,BEL,Louvain-la-Neuve,50.67,4.61,name
+9146-bbva-research,ESP,,,,known
+9149-suny-albany,USA,Albany,42.65,-73.75,name
+9158-us-department-of-agriculture,USA,Washington,38.91,-77.04,name
+9162-department-of-economics-duke-university,USA,Durham,35.99,-78.90,known
+9163-national-sun-yat-sen-university,TWN,Kaohsiung,22.63,120.30,known
+9174-department-of-economics-indiana-university,USA,Bloomington,39.17,-86.53,known
+9178-john-m-olin-school-of-business,USA,St. Louis,38.63,-90.20,known
+9182-said-business-school-university-of-oxford,GBR,Oxford,51.75,-1.26,name
+9183-haas-school-of-business-u-c-berkeley,USA,Berkeley,37.87,-122.27,name
+9185-universitat-de-les-illes-balears,ESP,Palma,39.57,2.65,known
+9192-department-of-economics-university-of-munich,DEU,Munich,48.14,11.58,name
+9194-universite-des-sciences-sociales-toulouse,FRA,Toulouse,43.60,1.44,name
+9199-institute-for-advanced-studies,,,,,
+9205-kansai-university,JPN,Osaka,34.69,135.50,known
+9211-crei-and-universitat-pompeu-fabra,ESP,Barcelona,41.39,2.17,known
+9215-universidad-carlos-iii-madrid,ESP,Getafe,40.31,-3.73,name
+9219-mcdonough-school-of-business,USA,Washington,38.91,-77.04,known
+9222-american-statistical-association,USA,Alexandria,38.80,-77.05,known
+9224-industry-canada,CAN,Ottawa,45.42,-75.70,atlas
+9235-washington-university-in-saint-louis,USA,St. Louis,38.63,-90.20,name
+9251-deutsche-forschungsgemeinschaft,DEU,Bonn,50.74,7.10,known
+9273-united-states-agency-for-international-development,USA,Washington,38.91,-77.04,atlas
+9280-imf-working-paper-institute-for-capacity-development,USA,Washington,38.91,-77.04,known
+9281-university-of-missouri-st-louis,USA,St. Louis,38.63,-90.20,name
+9282-national-institute-of-statistics-and-geography,MEX,Aguascalientes,21.88,-102.29,known
+9285-universidade-do-minho,PRT,Braga,41.55,-8.42,known
+9286-international-comparison-program,USA,Washington,38.91,-77.04,known
+9295-international-capital-markets-department,USA,Washington,38.91,-77.04,known
+9297-chicago-board-of-trade,USA,Chicago,41.88,-87.63,name
+9308-oecd-development-centre,FRA,Paris,48.86,2.35,known
+9309-university-of-ibadan,NGA,Ibadan,7.38,3.94,name
+9312-delta,,,,,
+9316-european-community,BEL,Brussels,50.85,4.35,known
+9319-international-monetary-fund-fiscal-affairs-department,USA,Washington,38.91,-77.04,known
+9322-german-socio-economic-panel,DEU,Berlin,52.52,13.40,known
+9340-government-transparency-institute,,,,,
+9343-living-standards-measurement-study,USA,Washington,38.91,-77.04,known
+9369-office-of-the-chief-economist-middle-east-and-north-africa,USA,Washington,38.91,-77.04,known
+9400-economic-history-association,,,,,
+9403-world-bank-social-sustainability-and-inclusion-global,USA,Washington,38.91,-77.04,known
+9422-ilr-school-cornell-university,USA,Ithaca,42.44,-76.50,known
+9430-ecipe,BEL,Brussels,50.85,4.35,known
+9444-research-institute-for-economics-and-business,JPN,Kobe,34.69,135.20,name
+9445-environment-and-natural-resources-global-practice,USA,Washington,38.91,-77.04,known
+9446-higher-school-of-economics,RUS,Moscow,55.76,37.62,known
+9448-uc-berkeley-haas-school-of-business,USA,Berkeley,37.87,-122.27,name
+9449-sc-johnson-college-of-business,USA,Ithaca,42.44,-76.50,known
+9455-tufts-university-department-of-economics,USA,Medford,42.42,-71.11,known
+9471-national-treasury-of-south-africa,ZAF,Pretoria,-25.75,28.19,atlas
+9472-ball-state-university,USA,Muncie,40.19,-85.39,known
+9481-korea-institute-of-public-finance,KOR,Sejong,36.48,127.29,atlas
+9495-rutgers-university-department-of-economics,USA,New Brunswick,40.49,-74.45,known
+9505-equitable-growth-finance-and-institutions-global-practice,USA,Washington,38.91,-77.04,known
+9525-the-dartmouth-institute-for-health-policy-and-clinical,USA,Lebanon,43.64,-72.25,known
+9528-heriot-watt-university,GBR,Edinburgh,55.95,-3.19,known
+9534-wharton-real-estate,USA,Philadelphia,39.95,-75.17,known
+9535-boston-college-department-of-economics,USA,Boston,42.36,-71.06,name
+9539-health-nutrition-and-population-global-practice-group,USA,Washington,38.91,-77.04,known
+9542-macalester-college,USA,Saint Paul,44.95,-93.09,known
+9551-university-of-new-hampshire,USA,Durham,43.13,-70.93,known
+9555-university-of-southern-california-marshall-school-of,USA,Los Angeles,34.05,-118.24,known
+9558-ministry-of-finance-chile,CHL,Santiago,-33.45,-70.67,atlas
+9570-human-development-department,,,,,
+9575-east-asia-and-the-pacific-region-education-sector-unit,USA,Washington,38.91,-77.04,known
+9577-water-and-sanitation-program,USA,Washington,38.91,-77.04,known
+9583-tuck-school-of-business-dartmouth-college,USA,Hanover,43.70,-72.29,known
+9587-money-and-finance-division,,,,,
+9593-economics-and-statistics-department,,,,,
+9600-economic-statistics-and-national-accounts-division,,,,,
+9606-social-protection-and-labor-unit,,,,,
+9607-investment-climate-department,,,,,
+9609-poverty-reduction-economic-management-sector-department,USA,Washington,38.91,-77.04,known
+9610-leeds-school-of-business,USA,Boulder,40.01,-105.27,known
+9613-massachusetts-general-hospital,USA,Boston,42.36,-71.06,known
+9615-south-asia-region-human-development-department,USA,Washington,38.91,-77.04,known
+9625-federal-reserve-bank-of-ny,USA,New York,40.71,-74.01,name
+9627-africa-region-sustainable-development-department,USA,Washington,38.91,-77.04,known
+9634-development-research-department,,,,,
+9643-dartmouth-college-department-of-economics,USA,Hanover,43.70,-72.29,known
+9644-rockwool-foundation-research-unit,DNK,Copenhagen,55.68,12.57,known
+9645-department-of-economics-university-of-rochester,USA,Rochester,43.16,-77.61,name
+9662-the-world-bank-development-prospects-group,USA,Washington,38.91,-77.04,known
+9666-the-world-bank-development-research-group-poverty-team,USA,Washington,38.91,-77.04,known
+9672-warrington-college-of-business,USA,Gainesville,29.65,-82.32,known
+9673-national-council-for-applied-economic-research,IND,New Delhi,28.61,77.21,known
+9676-department-of-veterans-affairs,USA,Washington,38.91,-77.04,known
+9677-royal-holloway,GBR,Egham,51.43,-0.56,known
+9679-university-of-guelph,CAN,Guelph,43.54,-80.25,name
+9680-ludwig-maximilians-universitat,DEU,Munich,48.14,11.58,known
+9681-department-of-economics-university-of-california-davis,USA,Davis,38.54,-121.74,name
+9686-school-of-public-health,,,,,
+9700-centre-for-the-study-of-african-economies-university-of,GBR,Oxford,51.75,-1.26,name
+9701-ewha-university,KOR,Seoul,37.57,126.98,known
+9702-department-of-economics-the-university-of-chicago,USA,Chicago,41.88,-87.63,name
+9705-health-care-cost-institute,USA,Washington,38.91,-77.04,known
+9706-bradley-foundation,USA,Milwaukee,43.04,-87.91,known
+9713-georgetown-university-department-of-economics,USA,Washington,38.91,-77.04,known
+9729-latin-america-and-the-caribbean-region-poverty-reduction,USA,Washington,38.91,-77.04,atlas
+9732-office-of-the-director,,,,,
+9733-world-bank-financial-sector-development-department,USA,Washington,38.91,-77.04,known
+9741-private-participation-in-infrastructure,,,,,
+9742-governance-regulation-and-finance,,,,,
+9743-world-bank-private-sector-development-department,USA,Washington,38.91,-77.04,known
+9744-politecnico-di-milano,ITA,Milan,45.46,9.19,name
+9747-universite-de-bourgogne,FRA,Dijon,47.32,5.04,known
+9759-europe-and-central-asia-country-department-ii,USA,Washington,38.91,-77.04,known
+9762-world-bank-operations-policy-department,USA,Washington,38.91,-77.04,known
+9765-operations-policy-group,,,,,
+9766-transition-economics-division,,,,,
+9770-agriculture-and-natural-resources-department,,,,,
+9772-university-of-stirling,GBR,Stirling,56.12,-3.94,name
+9775-national-economic-management-division,,,,,
+9787-population-policy-and-advisory-service,,,,,
+9802-eunice-kennedy-shriver-national-institute-of-child-health,USA,Bethesda,38.98,-77.10,known
+9806-c-v-starr-center-for-applied-economics,USA,New York,40.71,-74.01,known
+9811-columbia-university-business-school,USA,New York,40.71,-74.01,known
+9812-centre-de-recerca-en-economia-internacional,ESP,Barcelona,41.39,2.17,known
+9813-simon-graduate-school-of-business-university-of-rochester,USA,Rochester,43.16,-77.61,name
+9814-haas-school-of-business-uc-berkeley,USA,Berkeley,37.87,-122.27,name
+9819-cox-school-of-business,USA,Dallas,32.78,-96.80,known
+9826-population-studies-center,,,,,
+9828-grinnell-college,USA,Grinnell,41.74,-92.72,name
+9832-reed-college,USA,Portland,45.52,-122.68,known
+9833-wellesley-college-department-of-economics,USA,Wellesley,42.30,-71.29,name
+9835-kaiser-family-foundation,USA,San Francisco,37.77,-122.42,known
+9839-department-of-economics-university-of-minnesota,USA,Minneapolis,44.98,-93.27,known
+9843-asian-growth-research-institute,JPN,Kitakyushu,33.88,130.88,known
+9844-national-cancer-institute,USA,Bethesda,38.98,-77.10,known
+9848-ecole-polytechnique-federale-de-lausanne-epfl,CHE,Lausanne,46.52,6.63,name
+9852-institute-of-world-economics-and-politics-chinese-academy,CHN,Beijing,39.90,116.41,name
+9854-u-s-food-and-drug-administration,USA,Silver Spring,38.99,-77.03,name
+9857-george-j-stigler-center-for-the-study-of-the-economy-and,USA,Chicago,41.88,-87.63,known
+9858-jfk-school-of-government,USA,Cambridge,42.37,-71.11,known
+9862-vanguard-center-for-retirement-research,USA,Malvern,40.04,-75.51,known
+9863-yokohama-national-university,JPN,Yokohama,35.44,139.64,name
+9864-nicholas-school-of-the-environment,USA,Durham,35.99,-78.90,known
+9865-california-energy-commission,USA,Sacramento,38.58,-121.49,name
+9867-harvard-university-graduate-school-of-business,USA,Boston,42.36,-71.06,known
+9870-vanderbilt-law-school,USA,Nashville,36.16,-86.78,known
+9872-department-of-economics-uc-berkeley,USA,Berkeley,37.87,-122.27,name
+9873-bryan-school-of-business-and-economics,USA,Greensboro,36.07,-79.79,known
+9878-mathematica-policy-research-inc,USA,Princeton,40.35,-74.66,known
+9880-university-of-sassari-department-of-economics,ITA,Sassari,40.73,8.56,name
+9882-hewitt-associates,USA,,,,known
+9883-heinz-school,USA,Pittsburgh,40.44,-80.00,known
+9885-sanford-institute-of-public-policy,USA,Durham,35.99,-78.90,known
+9886-yale-university-school-of-public-health,USA,New Haven,41.31,-72.92,known
+9888-stern-school-of-business-nyu,USA,New York,40.71,-74.01,known
+9906-school-of-industrial-and-labor-relations-cornell-university,USA,Ithaca,42.44,-76.50,known
+9908-school-of-industrial-and-labor-relations,USA,Ithaca,42.44,-76.50,known
+9912-john-d-and-catherine-t-macarthur-foundation,USA,Chicago,41.88,-87.63,known
+9915-anderson-school-ucla,USA,Los Angeles,34.05,-118.24,known
+9918-graduate-school-of-business-harvard-university,USA,Boston,42.36,-71.06,known
+9921-anderson-graduate-school-of-business,USA,Los Angeles,34.05,-118.24,known
+9928-gsia-carnegie-mellon-university,USA,Pittsburgh,40.44,-80.00,known
+9929-council-of-economic-advisors,USA,Washington,38.91,-77.04,known
+9937-rider-college,USA,Lawrenceville,40.30,-74.73,known
+9942-olin-foundation,,,,,
+9954-nber-computer-research-center,USA,Cambridge,42.37,-71.11,known
+9959-cowles-foundation-for-research-in-economics-yale-university,USA,New Haven,41.31,-72.92,known

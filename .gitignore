@@ -1,0 +1,13 @@
+# Built data and the atlas export are not part of this repository.
+/data/
+/surface/
+/sources/
+app/node_modules/
+app/.next/
+app/tsconfig.tsbuildinfo
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
